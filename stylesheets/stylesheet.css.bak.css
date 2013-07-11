@@ -253,6 +253,10 @@ form {
   padding: 20px;
 }
 
+img {
+  width: 100%;
+  max-width: 100%;
+}
 
 /*******************************************************************************
 Full-Width Styles
@@ -372,7 +376,7 @@ Full-Width Styles
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 480px) {
   body {
     font-size:14px;
   }
