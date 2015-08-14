@@ -1,0 +1,20 @@
+{
+  "name": "ua-bootstrap",
+  "private": true,
+  "version": "0.1.0",
+  "authors": [
+    "UANews <root@uanews.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5",
+    "highlightjs": "~8.5.0"
+  }
+}
