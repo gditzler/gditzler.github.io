@@ -1,1 +1,4 @@
-I am using the [Lanyon Theme](https://github.com/poole/lanyon)
+# About 
+
+* Written using the [University of Arizona's Bootstrap](http://bitbucket.org/uadigital/ua-bootstrap)
+
