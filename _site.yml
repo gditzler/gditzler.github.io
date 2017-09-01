@@ -1,0 +1,20 @@
+name: "greg-ditzler"
+output_dir: "."
+navbar:
+  title: "Gregory Ditzler"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    fig_height: 0.5
+    highlight: tango
+

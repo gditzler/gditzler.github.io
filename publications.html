@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Summary of Contributions</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Gregory Ditzler</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About Me</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Summary of Contributions</h1>
+
+</div>
+
+
+<div id="journals" class="section level2">
+<h2>Journals</h2>
+<ul>
+<li>AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction<br /> G. Ditzler, N. Bouaynaya, and R. Shterenberg <br /> Signal Processing, 2017. To appear.</li>
+<li>Improvements to Scalable Online Feature Selection Using Bagging and Boosting<br /> G. Ditzler, J. LaBarck, J. Ritchie, G. Rosen, and R. Polikar<br /> IEEE Transactions on Neural Networks and Learning Systems, 2017. To appear.</li>
+<li><a href="http://ieeexplore.ieee.org/abstract/document/7926436/">A Sequential Learning Approach for Scaling up Filter-Based Feature Subset Selection</a><br /> G. Ditzler, R. Polikar, and G. Rosen<br /> IEEE Transactions on Neural Networks and Learning Systems, 2017. (accepted)</li>
+<li><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0793-8">Fizzy: Feature selection for metagenomics</a><br /> G. Ditzler, J. Calvin Morrison, Y. Lan, and G. Rosen<br /> BMC Bioinformatics, 2015, vol 16, no. 358. [code]</li>
+<li><a href="http://ieeexplore.ieee.org/document/7219432/">Multi-Layer and Recursive Neural Networks for Metagenomic Classification</a><br /> G. Ditzler, R. Polikar, and G. Rosen<br /> IEEE Transactions on Nanobioscience, 2015, vol. 14, no. 6, pp. 608-616.</li>
+<li><a href="http://ieeexplore.ieee.org/document/7296710/">Adaptive strategies for learning in nonstationary environments: a survey</a><br /> G. Ditzler, M. Roveri, C. Alippi, and R. Polikar<br /> IEEE Computational Intelligence Magazine, 2015, vol. 10, no. 4, pp. 12-25.<br />
+</li>
+<li><a href="http://ieeexplore.ieee.org/document/6823119/">A bootstrap based Neyman-Pearson test for identifying variable importance</a><br /> G. Ditzler, R. Polikar, and G. Rosen<br /> IEEE Transactions on Neural Networks and Learning Systems, 2015, vol. 26, no. 4, pp. 880-886.</li>
+<li><a href="http://ieeexplore.ieee.org/document/6235959/">Incremental learning of concept drift from streaming imbalanced data</a><br /> G. Ditzler and R. Polikar<br /> IEEE Transactions on Knowledge &amp; Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301.</li>
+</ul>
+</div>
+<div id="conferences" class="section level2">
+<h2>Conferences</h2>
+<ul>
+<li><a href="http://autonomic-conference.org/iccac-2017/">Framework to Support DDDAS Decision” Support Systems: Design Overview</a> <br /> G. Ditzler, A. Akoglu, and S. Hariri <br /> Workshop on InfoSymbiotics: DDDAS Dynamic Data Driven Applications Systems, 2017.</li>
+<li><a href="http://autonomic-conference.org/iccac-2017/">A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications</a> <br /> F. de la Pena Montero, S. Hariri, and G. Ditzler <br /> IEEE International Conference on Cloud and Autonomic Computing, 2017.</li>
+<li><a href="http://autonomic-conference.org/iccac-2017/">Autonomic Management of 3D Cardiac Simulations</a> <br /> E. Esmaili, A. Akoglu, G. Ditzler, S. Hariri, J. Szep and T. Moukabary <br /> IEEE International Conference on Cloud and Autonomic Computing, 2017.</li>
+<li><a href="http://autonomic-conference.org/iccac-2017/">Fraud Analysis Approaches in the Age of Big Data - A Review of State of the Art</a> <br /> S. Makki, R. Haque, Y. Taher, Z. Assaghir, G. Ditzler, M.-S. Hacid and H. Zeineddine <br /> International Workshop on Autonomic Systems for Big Data Analytics, 2017.</li>
+<li><a href="http://ieeexplore.ieee.org/abstract/document/7966441/?reload=true">A Fast Information-theoretic Approximation of Joint Mutual Information Feature Selection</a> <br /> H. Liu and G. Ditzler <br /> IEEE/INNS International Joint Conference on Neural Networks, 2017.</li>
+<li><a href="http://ieeexplore.ieee.org/abstract/document/7897268/">The AKRON-Kalman Filter for Tracking Time-Varying Networks</a> <br /> V. Carluccio, N. Bouaynaya, G. Ditzler, and H. M. Fathallah Shaykh <br /> IEEE International Conference on Biomedical and Health Informatics, 2017.</li>
+<li><a href="http://ieeexplore.ieee.org/abstract/document/7727178/">A Study of Incremental Spectral Meta-Learning for Nonstationary Environments</a> <br /> G. Ditzler <br /> IEEE/INNS International Joint Conference on Neural Networks, 2016.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008701">Scaling a Neyman-Pearson subset selection approach via heuristics for mining massive data</a><br /> G. Ditzler, M. Austen, R, Polikar, and G. Rosen <br /> IEEE Symposium on Computational Intelligence in Data Mining, 2014. (travel award)</li>
+<li><a href="http://dl.acm.org/citation.cfm?id=2660824">Feature Subset Selection for Inferring Relative Importance of Taxonomy</a> <br /> G. Ditzler and G. Rosen <br /> ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6889909">Domain Adaptation Bounds for Multiple Expert Systems Under Concept Drift</a> <br /> G. Ditzler, G. Rosen, and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2014. (travel award &amp; best student paper)</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6706770">Incremental learning of new classes with unbalanced data</a> <br /> G. Ditzler, G. Rosen, and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2013.</li>
+<li><a href="http://ieeexplore.ieee.org/document/6595773/?arnumber=6595773">Discounted expert weighting for concept drift</a> <br /> G. Ditzler, G. Rosen and R. Polikar <br /> IEEE International Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2013.</li>
+<li><a href="http://ieeexplore.ieee.org/document/6507749/?arnumber=6507749">Information theoretic feature selection for high dimensional metagenomic data</a> <br /> G. Ditzler, R. Polikar, and G. Rosen <br /> IEEE International Workshop on Genomic Signal Processing and Statistics, 2012.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6252494">A transductive learning algorithm for concept drift</a> <br /> G. Ditzler, G. Rosen and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2012.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6207004">Determining significance in metagenomics</a> <br /> G. Ditzler, R. Polikar and G. Rosen <br /> IEEE North Eastern Biomedical Engineering Conference, 2012.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6288265">Forensic identification with environmental samples</a> <br /> G. Ditzler, R. Polikar, and G. Rosen <br /> IEEE International Conference on Acoustic, Speech and Signal Processing, 2012.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6033578">Semi-supervised learning in nonstationary environments</a> <br /> G. Ditzler and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2011. (student travel award)</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5948491">Hellinger distance based drift detection algorithm</a> <br /> G. Ditzler and R. Polikar <br /> IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2011.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5774964">Fusion methods for boosting performance of speaker identification systems</a> <br /> G. Ditzler, J. Ethridge, R. Polikar, and R. Ramachandran <br /> Asia Pacific Conference of Circuits and Systems, 2010.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5597278">An incremental learning algorithm for nonstationary environments and imbalanced data</a> <br /> G. Ditzler, R. Polikar, and N. V. Chawla <br /> International Conference on Pattern Recognition, 2010.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5586029">Optimal <span class="math inline">\(\nu\)</span>-SVM parameter estimation using multi-objective evolutionary algorithms</a> <br /> J. Ethridge, G. Ditzler, and R. Polikar <br /> IEEE Congress on Evolutionary Computing, 2010.</li>
+<li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5596764">An ensemble-based incremental learning framework for concept drift and class imbalance</a> <br /> G. Ditzler and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2010.</li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4">Incremental learning of new classes in unbalanced data: Learn++.UDNC</a> <br /> G. Ditzler, M. Muhlbaier, and R. Polikar <br /> International Workshop on Multiple Classifier Systems, 2010.</li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
