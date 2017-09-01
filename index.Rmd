@@ -2,7 +2,7 @@
 title: "Machine Learning and Data Science Research"
 ---
 
-I am an Assistant Professor in the Department of Electrical and Computer Engineering, at The University of Arizona, where I perform research in data mining and applied machine learning. 
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. 
 
 <center>
   [Github](https://github.com/gditzler) | 
