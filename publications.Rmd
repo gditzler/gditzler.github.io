@@ -30,6 +30,13 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+
+- [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](http://www.ele.uri.edu/ieee-ssci2017/) <br />
+  G. Ditzler and A. Prater <br />
+  IEEE Symposium Series on Computational Intelligence, 2017.
+- [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](http://www.ele.uri.edu/ieee-ssci2017/) <br />
+  H. Liu and G. Ditzler <br />
+  IEEE Symposium Series on Computational Intelligence, 2017.
 - [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://autonomic-conference.org/iccac-2017/) <br />
   G. Ditzler, A. Akoglu, and S. Hariri <br />
   Workshop on InfoSymbiotics: DDDAS Dynamic Data Driven Applications Systems, 2017.
