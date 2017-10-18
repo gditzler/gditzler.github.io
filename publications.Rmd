@@ -37,16 +37,16 @@ title: "Summary of Contributions"
 - [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](http://www.ele.uri.edu/ieee-ssci2017/) <br />
   H. Liu and G. Ditzler <br />
   IEEE Symposium Series on Computational Intelligence, 2017.
-- [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://autonomic-conference.org/iccac-2017/) <br />
+- [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://ieeexplore.ieee.org/abstract/document/8064150/) <br />
   G. Ditzler, A. Akoglu, and S. Hariri <br />
   Workshop on InfoSymbiotics: DDDAS Dynamic Data Driven Applications Systems, 2017.
-- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://autonomic-conference.org/iccac-2017/)  <br />
+- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://ieeexplore.ieee.org/abstract/document/8064054/)  <br />
   F. de la Pena Montero, S. Hariri, and G. Ditzler <br />
   IEEE International Conference on Cloud and Autonomic Computing, 2017.
-- [Autonomic Management of 3D Cardiac Simulations](http://autonomic-conference.org/iccac-2017/) <br />
+- [Autonomic Management of 3D Cardiac Simulations](http://ieeexplore.ieee.org/abstract/document/8064049/) <br />
   E. Esmaili, A. Akoglu, G. Ditzler, S. Hariri, J. Szep and T. Moukabary <br />
-  IEEE International Conference on Cloud and Autonomic Computing, 2017.
-- [Fraud Analysis Approaches in the Age of Big Data - A Review of State of the Art](http://autonomic-conference.org/iccac-2017/) <br />
+  IEEE International Conference on Cloud and Autonomic Computing, 2017. (best paper award)
+- [Fraud Analysis Approaches in the Age of Big Data - A Review of State of the Art](http://ieeexplore.ieee.org/abstract/document/8064067/) <br />
   S. Makki, R. Haque, Y. Taher, Z. Assaghir, G. Ditzler, M.-S. Hacid and H. Zeineddine <br />
   International Workshop on Autonomic Systems for Big Data Analytics, 2017.
 - [A Fast Information-theoretic Approximation of Joint Mutual Information Feature Selection](http://ieeexplore.ieee.org/abstract/document/7966441/?reload=true) <br />
