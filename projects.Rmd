@@ -41,7 +41,7 @@ Advances in multi-core computing systems, networking, mobile and smart devices, 
 
 __Selected Publications__ 
 
-- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://autonomic-conference.org/iccac-2017/)  <br />
+- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://ieeexplore.ieee.org/abstract/document/8064054/)  <br />
   F. de la Pena Montero, S. Hariri, and G. Ditzler <br />
   IEEE International Conference on Cloud and Autonomic Computing, 2017.
 
@@ -53,7 +53,7 @@ We have  addressed the problem of inferring sparse time-varying networks from a 
 
 __Selected Publications__ 
 
-- AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction<br />
+- [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br />
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, 2017. To appear.
 - [The AKRON-Kalman Filter for Tracking Time-Varying Networks](http://ieeexplore.ieee.org/abstract/document/7897268/) <br />
