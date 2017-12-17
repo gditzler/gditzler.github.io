@@ -10,7 +10,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - __BSc__ Electronics Engineering Technology, The Pennsylvania College of Technology, 2008
 
 ## Employment  
-- __The University of Arizona (2015--2017)__ Assistant Professor
+- __The University of Arizona (2015--Present)__ Assistant Professor
 - __Drexel University (2011--2015)__ Graduate Research Assistant 
 - __AT&T Research Labs (2013)__ Research Intern 
 - __Rowan University (2010--2015)__ Adjunct Professor
@@ -30,4 +30,4 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - Jonathon Gill (ECE 2016--2017)
 
 ### Undergraduate
-- Sean Miller (CS/ECE 2017--Present)
+- Sean Miller (CS/ECE 2017)
