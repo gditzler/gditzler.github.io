@@ -31,7 +31,9 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
-
+- [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](http://www.ecomp.poli.br/~wcci2018/) <br />
+  J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh <br />
+  IEEE/INNS International Joint Conference on Neural Networks, 2018.
 - [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](http://www.ele.uri.edu/ieee-ssci2017/) <br />
   G. Ditzler and A. Prater <br />
   IEEE Symposium Series on Computational Intelligence, 2017.
