@@ -11,6 +11,8 @@ navbar:
       href: publications.html
     - text: "Projects"
       href: projects.html
+    - text: "Contact"
+      href: contact.html
 output:
   html_document:
     theme: flatly
