@@ -37,10 +37,10 @@ title: "Summary of Contributions"
 - [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](http://www.ecomp.poli.br/~wcci2018/) <br />
   J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh <br />
   IEEE/INNS International Joint Conference on Neural Networks, 2018.
-- [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](http://www.ele.uri.edu/ieee-ssci2017/) <br />
+- [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](https://ieeexplore.ieee.org/abstract/document/8280924/) <br />
   G. Ditzler and A. Prater <br />
   IEEE Symposium Series on Computational Intelligence, 2017.
-- [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](http://www.ele.uri.edu/ieee-ssci2017/) <br />
+- [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](https://ieeexplore.ieee.org/abstract/document/8280921/) <br />
   H. Liu and G. Ditzler <br />
   IEEE Symposium Series on Computational Intelligence, 2017.
 - [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://ieeexplore.ieee.org/abstract/document/8064150/) <br />
