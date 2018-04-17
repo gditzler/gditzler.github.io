@@ -4,7 +4,7 @@ title: "Summary of Contributions"
 
 
 ## Journals 
-- [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br/>
+- [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/)<br/>
   R. Razavi-Far, E. Hallaji, M. Saif, G. Ditzler <br />
   IEEE Transactions on Industrial Electronics, 2018, accepted. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br/>
