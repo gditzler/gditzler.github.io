@@ -13,7 +13,7 @@ navbar:
       icon: fa-database
       href: publications.html
     - text: "Projects"
-      icon: fa-chalkboard
+      icon: fa-cubes
       href: projects.html
     - text: "Contact"
       icon: fa-comment
