@@ -53,9 +53,9 @@ We have  addressed the problem of inferring sparse time-varying networks from a 
 
 __Selected Publications__ 
 
-- [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br />
+- [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
-  Signal Processing, 2017. To appear.
+  Signal Processing, Volume 144, March 2018, pp. 265-270.
 - [The AKRON-Kalman Filter for Tracking Time-Varying Networks](http://ieeexplore.ieee.org/abstract/document/7897268/) <br />
   V. Carluccio, N. Bouaynaya, G. Ditzler, and H. M. Fathallah Shaykh <br />
   IEEE International Conference on Biomedical and Health Informatics, 2017.
