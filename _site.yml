@@ -4,19 +4,25 @@ navbar:
   title: "Gregory Ditzler"
   left:
     - text: "Home"
+      icon: fa-home  # handy way to use FontAwesome icons in nav!
       href: index.html
     - text: "About Me"
+      icon: fa-newspaper-o
       href: about.html
     - text: "Publications"
+      icon: fa-database
       href: publications.html
     - text: "Projects"
+      icon: fa-chalkboard
       href: projects.html
     - text: "Contact"
+      icon: fa-comment
       href: contact.html
 output:
   html_document:
-    theme: flatly
+    theme: yeti
+    highlight: pygments
+    include:
+      after_body: footer.html
     css: style.css
-    fig_height: 0.5
-    highlight: tango
 
