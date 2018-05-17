@@ -61,7 +61,7 @@ __Selected Publications__
   IEEE International Conference on Biomedical and Health Informatics, 2017.
 - [Fizzy: Feature selection for metagenomics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0793-8)<br />
   G. Ditzler, J. Calvin Morrison, Y. Lan, and G. Rosen<br />
-  BMC Bioinformatics, 2015, vol 16, no. 358. [code]
+  BMC Bioinformatics, 2015, vol 16, no. 358. 
 - [Feature Subset Selection for Inferring Relative Importance of Taxonomy](http://dl.acm.org/citation.cfm?id=2660824) <br />
   G. Ditzler and G. Rosen <br />
   ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)

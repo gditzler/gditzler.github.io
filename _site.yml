@@ -15,6 +15,9 @@ navbar:
     - text: "Projects"
       icon: fa-cubes
       href: projects.html
+    - text: "Working with me"
+      icon: fa-balance-scale
+      href: work.html
     - text: "Contact"
       icon: fa-comment
       href: contact.html
