@@ -2,11 +2,10 @@
 title: "Summary of Contributions"
 ---
 
-
 ## Journals 
 - [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/)<br/>
-  R. Razavi-Far, E. Hallaji, M. Saif, G. Ditzler <br />
-  IEEE Transactions on Industrial Electronics, 2018, accepted. 
+  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
+  IEEE Transactions on Industrial Electronics, 2018, To appear. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791)<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, Volume 144, March 2018, pp. 265-270.
@@ -15,7 +14,7 @@ title: "Summary of Contributions"
   IEEE Transactions on Neural Networks and Learning Systems, 2017. To appear.
 - [A Sequential Learning Approach for Scaling up Filter-Based Feature Subset Selection](http://ieeexplore.ieee.org/abstract/document/7926436/)<br/>
   G. Ditzler, R. Polikar, and G. Rosen<br />
-  IEEE Transactions on Neural Networks and Learning Systems, 2017. To appear.
+  IEEE Transactions on Neural Networks and Learning Systems, 2018. vol. vol. 29, no. 6, pp. 2530-2544.
 - [Fizzy: Feature selection for metagenomics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0793-8)<br />
   G. Ditzler, J. Calvin Morrison, Y. Lan, and G. Rosen<br />
   BMC Bioinformatics, 2015, vol 16, no. 358. 
