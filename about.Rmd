@@ -31,14 +31,17 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 ## Advising   
 
 ### PhD  
-- Heng Liu (ECE 2015--Present)
+- David Schwartz (ECE 2018--Present)
+- Arianna Pryor (ECE 2018--Present)
 - Samuel Hess (ECE 2017--Present)
+- Heng Liu (ECE 2015--Present)
 
 ### MSc  
-- Zhengzhong Liang (ECE 2017--Present)
+- Daniel Flynn (ECE 2018--Present)
 - Zili Rong (ECE 2017--Present)
-- Jiashu Guo (ECE 2017--Present)
-- Jonathon Gill (ECE 2016--2017)
+- Zhengzhong Liang (ECE 2017--2018)
+- Jiashu Guo (ECE 2017--2018)
+- Jonathan Gill (ECE 2016--2017; non-thesis)
 
 ### Undergraduate
 - Sean Miller (CS/ECE 2017)
