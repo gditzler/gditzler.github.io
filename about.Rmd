@@ -31,6 +31,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 ## Advising   
 
 ### PhD  
+- Jason Ligon (ECE 2018--Present)
 - David Schwartz (ECE 2018--Present)
 - Arianna Pryor (ECE 2018--Present)
 - Samuel Hess (ECE 2017--Present)
