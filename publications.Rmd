@@ -3,6 +3,12 @@ title: "Summary of Contributions"
 ---
 
 ## Journals 
+- [Weight normalization with spiking neural networks](https://www.journals.elsevier.com/neural-networks){target="_blank"}<br/>
+  Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
+  Neural Networks, 2018, Accepted. 
+- [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
+  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
+  IEEE Transactions on Industrial Electronics, 2018, To appear. 
 - [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
   R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
   IEEE Transactions on Industrial Electronics, 2018, To appear. 
