@@ -39,7 +39,7 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
-- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](http://www.ecomp.poli.br/~wcci2018/){target="_blank"} <br />
+- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](http://www.aiccsa.net/AICCSA2018/home/){target="_blank"} <br />
   S. Hess, P. Satam, G. Ditzler and S. Hariri <br />
   ACS/IEEE International Conference on Computer Systems and Applications, 2018.
 - [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](http://www.ecomp.poli.br/~wcci2018/){target="_blank"} <br />
