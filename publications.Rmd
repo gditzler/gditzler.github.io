@@ -14,7 +14,7 @@ title: "Summary of Contributions"
   Signal Processing, Volume 144, March 2018, pp. 265-270.
 - [Improvements to Scalable Online Feature Selection Using Bagging and Boosting](http://ieeexplore.ieee.org/document/8065078/){target="_blank"}<br />
   G. Ditzler, J. LaBarck, J. Ritchie, G. Rosen, and R. Polikar<br/>
-  IEEE Transactions on Neural Networks and Learning Systems, 2017. To appear.
+  IEEE Transactions on Neural Networks and Learning Systems, 2018. vol. 29, no. 9, pp. 4504-4509
 - [A Sequential Learning Approach for Scaling up Filter-Based Feature Subset Selection](http://ieeexplore.ieee.org/abstract/document/7926436/){target="_blank"}<br/>
   G. Ditzler, R. Polikar, and G. Rosen<br />
   IEEE Transactions on Neural Networks and Learning Systems, 2018, vol. 29, no. 6, pp. 2530-2544.
