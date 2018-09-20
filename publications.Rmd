@@ -36,6 +36,12 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+- [Online Reconfigurable Antenna State Selection based on Thompson Sampling](http://www.conf-icnc.org/2019/){target="_blank"} <br />
+  T. Zhao, G. Ditzler, and M. Li <br />
+  International Conference on Computing, Networking and Communications, 2019.
+- [The Impact of an Adversary in a Language Model](http://ieee-ssci2018.org/){target="_blank"} <br />
+  Z. Liang and G. Ditzler <br />
+  IEEE Symposium Series on Computational Intelligence, 2018.
 - [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](http://www.aiccsa.net/AICCSA2018/home/){target="_blank"} <br />
   S. Hess, P. Satam, G. Ditzler and S. Hariri <br />
   ACS/IEEE International Conference on Computer Systems and Applications, 2018.
