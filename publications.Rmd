@@ -3,12 +3,12 @@ title: "Summary of Contributions"
 ---
 
 ## Journals 
+- [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
+  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
+  IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
 - [Weight normalization with spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302508){target="_blank"}<br/>
   Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
   Neural Networks, 2018, Accepted. 
-- [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
-  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
-  IEEE Transactions on Industrial Electronics, 2018, vol. 66, no. 1, pp. 561-570. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791){target="_blank"}<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, vol. 144, 2018, pp. 265-270.
