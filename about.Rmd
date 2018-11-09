@@ -9,7 +9,7 @@ img <- readPNG("greg.png")
  grid.raster(img)
 ```
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. 
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. My life is a tribute to the greatest person I've ever known ([Peggy](http://www.thompsonfuneralhomelebanon.com/obituary/margaret-ditzler){target="_blank"}). 
 
 
 
@@ -42,7 +42,15 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - Zili Rong (ECE 2017--Present)
 - Zhengzhong Liang (ECE 2017--2018)
 - Jiashu Guo (ECE 2017--2018)
-- Jonathan Gill (ECE 2016--2017; non-thesis)
+- Jonathan Gill (ECE 2016--2017; non-thesis) 
 
 ### Undergraduate
 - Sean Miller (CS/ECE 2017)
+
+## Funding 
+- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__, $48k
+- "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__, $15k
+- "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__, $54k
+- "Autonomic Monitoring, Analysis, and Protection"  __Air Force Office of Scientific Research VFRP__, $30k
+- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing" __National Science Foundation__, $15k
+- "Analysis of Large Data Sets"  __Air Force Office of Scientific Research VFRP__, $15k
