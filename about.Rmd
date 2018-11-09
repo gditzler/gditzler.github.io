@@ -9,7 +9,7 @@ img <- readPNG("greg.png")
  grid.raster(img)
 ```
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. My life is a tribute to the greatest person I've ever known ([Peggy](http://www.thompsonfuneralhomelebanon.com/obituary/margaret-ditzler){target="_blank"}). 
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. 
 
 
 
