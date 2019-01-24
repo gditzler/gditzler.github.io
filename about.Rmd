@@ -38,19 +38,19 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - Heng Liu (ECE 2015--Present)
 
 ### MSc  
-- Daniel Flynn (ECE 2018--Present)
-- Zili Rong (ECE 2017--Present)
+- Zili Rong (ECE 2017--2018; non-thesis)
 - Zhengzhong Liang (ECE 2017--2018)
 - Jiashu Guo (ECE 2017--2018)
 - Jonathan Gill (ECE 2016--2017; non-thesis) 
 
 ### Undergraduate
+- Andrew Burger (ECE 2019)
 - Sean Miller (CS/ECE 2017)
 
 ## Funding 
-- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__, $48k
-- "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__, $15k
-- "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__, $54k
-- "Autonomic Monitoring, Analysis, and Protection"  __Air Force Office of Scientific Research VFRP__, $30k
-- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing" __National Science Foundation__, $15k
-- "Analysis of Large Data Sets"  __Air Force Office of Scientific Research VFRP__, $15k
+- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__
+- "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__
+- "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__
+- "Autonomic Monitoring, Analysis, and Protection"  __Air Force Office of Scientific Research STTR Phase II__
+- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing" __National Science Foundation__
+- "Analysis of Large Data Sets"  __Air Force Office of Scientific Research VFRP__
