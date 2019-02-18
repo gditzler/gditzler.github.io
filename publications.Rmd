@@ -6,7 +6,7 @@ title: "Summary of Contributions"
 ## Journals 
 - [Approximate Kernel Reconstruction for Time-Varying Networks](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0192-1){target="_blank"} <br />
   G. Ditzler, N. Bouaynaya, R. Shterenberg, and H. M. Fathallah Shaykh <br/>
-  BMC BioData Mining, 2019 (accepted).
+  BMC BioData Mining, 2019, vol. 12, no. 9.
 - [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
   R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br/>
   IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
