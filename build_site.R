@@ -6,4 +6,4 @@ setwd("/Users/gditzler/Git/gditzler.github.io/")
 
 #render your sweet site. 
 rmarkdown::render_site()
-  
+    

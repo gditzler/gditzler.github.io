@@ -2,13 +2,17 @@
 title: "Summary of Contributions"
 ---
 
+
 ## Journals 
+- [Approximate Kernel Reconstruction for Time-Varying Networks](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-019-0192-1){target="_blank"} <br />
+  G. Ditzler, N. Bouaynaya, R. Shterenberg, and H. M. Fathallah Shaykh <br/>
+  BMC BioData Mining, 2019 (accepted).
 - [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
-  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br />
+  R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br/>
   IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
 - [Weight normalization with spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302508){target="_blank"}<br/>
   Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
-  Neural Networks, 2018, vol. 108, pp. 365-378. 
+  Neural Networks, 2019, vol. 108, pp. 365-378. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791){target="_blank"}<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, vol. 144, 2018, pp. 265-270.
@@ -36,16 +40,19 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+- [Poisoning mRMR with Adversarial Data](https://2019.ieeeicassp.org/){target="_blank"} <br />
+  H. Liu and G. Ditzler <br />
+  IEEE International Conference on Acoustics, Speech and Signal Processing, 2019.
 - [Online Reconfigurable Antenna State Selection based on Thompson Sampling](http://www.conf-icnc.org/2019/){target="_blank"} <br />
   T. Zhao, G. Ditzler, and M. Li <br />
   International Conference on Computing, Networking and Communications, 2019.
-- [The Impact of an Adversary in a Language Model](http://ieee-ssci2018.org/){target="_blank"} <br />
+- [The Impact of an Adversary in a Language Model](https://ieeexplore.ieee.org/abstract/document/8628894/){target="_blank"} <br />
   Z. Liang and G. Ditzler <br />
   IEEE Symposium Series on Computational Intelligence, 2018.
-- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](http://www.aiccsa.net/AICCSA2018/home/){target="_blank"} <br />
+- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](https://ieeexplore.ieee.org/abstract/document/8612855/){target="_blank"} <br />
   S. Hess, P. Satam, G. Ditzler and S. Hariri <br />
   ACS/IEEE International Conference on Computer Systems and Applications, 2018.
-- [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](http://www.ecomp.poli.br/~wcci2018/){target="_blank"} <br />
+- [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](https://ieeexplore.ieee.org/abstract/document/8489616/){target="_blank"} <br />
   J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh <br />
   IEEE/INNS International Joint Conference on Neural Networks, 2018.
 - [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](https://ieeexplore.ieee.org/abstract/document/8280924/){target="_blank"} <br />
@@ -123,6 +130,22 @@ title: "Summary of Contributions"
 - [Incremental learning of new classes in unbalanced data: Learn++.UDNC](https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4){target="_blank"} <br />
   G. Ditzler, M. Muhlbaier, and R. Polikar <br />
   International Workshop on Multiple Classifier Systems, 2010.
-  
+
+
+
+## Book Chapters  
+- [Analysis Methods for Shotgun Metagenomics](https://link.springer.com/chapter/10.1007/978-3-319-74974-7_5){target="_blank"} <br />
+  S. Woloszynek, Z. Zhao, G. Ditzler, J. R. Price, E. R. Reichenberger, Y. Lan, J. Chen, J. Earl, 
+  S. Keshani Langroodi, G. Ehrlich and G. Rosen <br />
+  Springer Theoretical and Applied Aspects of Systems Biology, 2018, pp. 71–112.
+- [Adaptive classifiers for nonstationary environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119036821.ch7){target="_blank"} <br />
+  C. Alippi, G. Boracchi, G. Ditzler, R. Polikar, and M. Roveri <br />
+  Contemporary Issues in Systems, Science and Engineering, IEEE/Wiley Press Book Series, 2015.
+- [https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4){target="_blank"} <br />
+  G. Ditzler, Y. Lan, J.-L. Bouchot, and G. Rosen <br />
+  In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014. 
+- [Advances in machine learning for processing and comparison of metagenomic data](https://app.dimensions.ai/details/publication/pub.1030514139){target="_blank"} <br />
+  J.-L. Bouchot, W. Trimble, G. Ditzler, Y. Lan, S. Essinger, and G. Rosen <br />
+  In: Computational Systems Biology, 295-329, 2014
 
 
