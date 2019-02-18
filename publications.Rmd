@@ -8,7 +8,7 @@ title: "Summary of Contributions"
   IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
 - [Weight normalization with spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302508){target="_blank"}<br/>
   Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
-  Neural Networks, 2018, Accepted. 
+  Neural Networks, 2018, vol. 108, pp. 365-378. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791){target="_blank"}<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, vol. 144, 2018, pp. 265-270.
@@ -123,3 +123,6 @@ title: "Summary of Contributions"
 - [Incremental learning of new classes in unbalanced data: Learn++.UDNC](https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4){target="_blank"} <br />
   G. Ditzler, M. Muhlbaier, and R. Polikar <br />
   International Workshop on Multiple Classifier Systems, 2010.
+  
+
+
