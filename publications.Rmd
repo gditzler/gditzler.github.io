@@ -4,6 +4,9 @@ title: "Summary of Contributions"
 
 
 ## Journals 
+- [Learning What We Don't Care About: Regularization with Sacrifical Functions ](https://www.journals.elsevier.com/information-sciences){target="_blank"} <br/>
+  G. Ditzler, S. Miller, and J. Rozenblit <br/>
+  Information Sciences, 2019, accepted
 - [A Semi-Parallel Framework for Greedy Information-Theoretic Feature Selection](https://www.sciencedirect.com/science/article/pii/S0020025519302865?dgcid=coauthor){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
   Information Sciences, 2019, vol. 492, pp. 13-28.
@@ -15,7 +18,7 @@ title: "Summary of Contributions"
   IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
 - [Weight normalization with spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302508){target="_blank"}<br/>
   Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
-  Neural Networks, 2019, vol. 108, pp. 365-378. 
+  Neural Networks, 2018, vol. 108, pp. 365-378. 
 - [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791){target="_blank"}<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, vol. 144, 2018, pp. 265-270.
