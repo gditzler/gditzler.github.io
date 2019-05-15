@@ -50,6 +50,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## Funding 
+- "Doctoral Symposium at the IEEE International Conference on Autonomic Computing" __National Science Foundation__
 - "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__
 - "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__
 - "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__
