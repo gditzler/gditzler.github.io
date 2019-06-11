@@ -6,7 +6,7 @@ title: "Summary of Contributions"
 ## Journals 
 - [Learning What We Don't Care About: Regularization with Sacrifical Functions ](https://www.sciencedirect.com/science/article/pii/S0020025519304219?via%3Dihub){target="_blank"} <br/>
   G. Ditzler, S. Miller, and J. Rozenblit <br/>
-  Information Sciences, 2019, accepted
+  Information Sciences, 2019, vol. 496, pp. 198-211. 
 - [A Semi-Parallel Framework for Greedy Information-Theoretic Feature Selection](https://www.sciencedirect.com/science/article/pii/S0020025519302865?dgcid=coauthor){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
   Information Sciences, 2019, vol. 492, pp. 13-28.

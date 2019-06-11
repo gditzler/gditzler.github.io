@@ -26,3 +26,9 @@
 #scrollTop {
   color: #FFFFFF!important; /* white */
 }
+
+
+body{
+  font-family: 'Helvetica Neue', Arial, Georgia, serif;
+  font-weight: 200;
+}
