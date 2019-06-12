@@ -49,6 +49,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ### Undergraduate
+- Noah Thurston (ECE 2019--Present)
 - Andrew Burger (ECE 2018/19)
 - Sean Miller (CS/ECE 2017)
 
