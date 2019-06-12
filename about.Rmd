@@ -2,10 +2,10 @@
 title: "About Me"
 ---
 
-```{r fig.width=1, fig.height=2,echo=FALSE}
+```{r fig.width=2, fig.height=2,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("greg.png")
+img <- readPNG("greg2.png")
  grid.raster(img)
 ```
 
@@ -68,3 +68,27 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - ECE429/529 [[F2018](syllabus/ece429529_fa2018.pdf){target="_blank"}] - Introduction to Digital Signal Processing
 - ECE441a/541a [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}] - Automatic Control
 - ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
+
+## Awards 
+- [2018] Air Force Research Labs Visiting Faculty Fellowship 
+- [2018] IEEE CIS Computational Intelligence Magazine Outstanding Paper Award (2015)
+- [2017] IEEE International Conference on Cloud & Autonomic Computing Best Paper Award
+- [2016] Air Force Research Labs Summer Faculty Fellowship
+- [2015] Joseph and Shirley Carleone Endowed Fellowship
+- [2015] Drexel University's Office of Graduate Studies Research Excellence Award
+- [2015] Best Poster at the Drexel IEEE Research Day Poster Competition
+- [2014] IEEE SSCI Doctoral Consortium Travel Award
+- [2014] NSF Travel Award to the ACM International Workshop on Big Data in Life Sciences
+- [2014] Best Student Paper at the International Joint Conference on Neural Networks
+- [2014] IEEE Computational Intelligence Society Travel Award
+- [2013] Nihat Bilgutay  Award
+- [2013] Koerner Family Engineering  Award
+- [2012] Defense Threat Reduction Agency & NSF Algorithms Workshop Travel Grant
+- [2011] NSF Travel Award to the International Joint Conference on Neural Networks
+- [2011] Graduate Research Achievement Award, Rowan University
+- [2008] Award for Outstanding Leadership & Service to the Pennsylvania College of Technology IEEE Branch
+- [2008] Penn College Award for Leadership to the College and Community
+
+
+
+
