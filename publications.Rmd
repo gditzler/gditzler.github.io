@@ -46,6 +46,9 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+- [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://www2.ia-engineers.org/icisip2019/){target="_blank"} <br />
+  K.S. Peng, G. Ditzler and J. Rozenblit<br />
+  International Conference on Intelligent Systems and Image Processing, 2019.
 - [Poisoning mRMR with Adversarial Data](https://2019.ieeeicassp.org/){target="_blank"} <br />
   H. Liu and G. Ditzler <br />
   IEEE International Conference on Acoustics, Speech and Signal Processing, 2019.
@@ -147,7 +150,7 @@ title: "Summary of Contributions"
 - [Adaptive classifiers for nonstationary environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119036821.ch7){target="_blank"} <br />
   C. Alippi, G. Boracchi, G. Ditzler, R. Polikar, and M. Roveri <br />
   Contemporary Issues in Systems, Science and Engineering, IEEE/Wiley Press Book Series, 2015.
-- [https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4){target="_blank"} <br />
+- [Variable Selection to Improve Classification of Metagenomes](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4){target="_blank"} <br />
   G. Ditzler, Y. Lan, J.-L. Bouchot, and G. Rosen <br />
   In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014. 
 - [Advances in machine learning for processing and comparison of metagenomic data](https://app.dimensions.ai/details/publication/pub.1030514139){target="_blank"} <br />

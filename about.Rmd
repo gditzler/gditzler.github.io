@@ -55,13 +55,13 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## Funding 
-- "Doctoral Symposium at the IEEE International Conference on Autonomic Computing" __National Science Foundation__
-- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__
-- "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__
-- "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__
-- "Autonomic Monitoring, Analysis, and Protection"  __Air Force Office of Scientific Research STTR Phase II__
-- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing" __National Science Foundation__
-- "Analysis of Large Data Sets"  __Air Force Office of Scientific Research SFFP__
+- "Doctoral Symposium at the IEEE International Conference on Autonomic Computing" __National Science Foundation__ 
+- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__ 
+- "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__ 
+- "Techniques to Adjust Computational Trends Involving Changing Data" __Office of Naval Research STTR Phase I__ 
+- "Autonomic Monitoring, Analysis, and Protection"  __Air Force Office of Scientific Research STTR Phase II__ 
+- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing" __National Science Foundation__ 
+- "Analysis of Large Data Sets"  __Air Force Office of Scientific Research SFFP__ 
 
 
 ## Teaching 
