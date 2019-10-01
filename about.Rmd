@@ -55,6 +55,8 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## Funding 
+- "AMAP-based Autonomic Security Operations Center" __Air Force Research Lab__ 
+- "PACT: Partnership for Proactive Cybersecurity Training " __Department of Energy__ 
 - "Doctoral Symposium at the IEEE International Conference on Autonomic Computing" __National Science Foundation__ 
 - "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology" __Office of Naval Research STTR Phase I__ 
 - "Adversarial Threats to Feature Selection", __Air Force Office of Scientific Research VFRP__ 
