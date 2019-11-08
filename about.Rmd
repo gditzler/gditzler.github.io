@@ -31,7 +31,10 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 ## Advising   
 
 ### PhD  
+- Kuo-Shiuan Peng (ECE 2018--2019)
+-- Co-advised with Jerzy Rozenblit
 - Jason Ligon (ECE 2018--Present)
+-- Co-advised with Ivan Djordjevic
 - David Schwartz (ECE 2018--Present)
 - Arianna Pryor (ECE 2018--Present)
 - Samuel Hess (ECE 2017--Present)
@@ -39,6 +42,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 ### MSc  
 - Brandon Black (ECE 2019--Present)
+-- Co-advised with Ravi Tandon
 - Zhengzhong Liang (ECE 2017--2018)
 - Jiashu Guo (ECE 2017--2018)
 
