@@ -22,7 +22,6 @@ title: "Summary of Contributions"
 - Data Poisoning Against Filter Feature Selection <br/>
   H. Liu and G. Ditzler<br/>
   in preparation for Information Sciences, 2020. 
-  
 
 
 ## Journals 
