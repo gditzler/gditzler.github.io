@@ -31,12 +31,11 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 ## Advising   
 
 ### PhD  
-- Kuo-Shiuan Peng (ECE 2018--2019)
--- Co-advised with Jerzy Rozenblit
+- Kuo-Shiuan Peng (ECE 2018--2019) 
+-- Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit)
 - Jason Ligon (ECE 2018--Present)
--- Co-advised with Ivan Djordjevic
+-- Co-advised with [Ivan Djordjevic](https://ece.engineering.arizona.edu/faculty-staff/faculty/ivan-b-djordjevic)
 - David Schwartz (ECE 2018--Present)
-- Arianna Pryor (ECE 2018--Present)
 - Samuel Hess (ECE 2017--Present)
 - Heng Liu (ECE 2015--Present)
 
@@ -44,16 +43,14 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - Brandon Black (ECE 2019--Present)
 -- Co-advised with Ravi Tandon
 - Zhengzhong Liang (ECE 2017--2018)
-- Jiashu Guo (ECE 2017--2018)
+- Jiashu Guo (ECE 2017--2018) 
 
 ### MSc (Non-Thesis) 
 - Zili Rong (ECE 2017--2018; non-thesis)
 - Jonathan Gill (ECE 2016--2017; non-thesis) 
 
-
-
 ### Undergraduate
-- Noah Thurston (ECE 2019--Present)
+- Noah Thurston (ECE 2019)
 - Andrew Burger (ECE 2018/19)
 - Sean Miller (CS/ECE 2017)
 
