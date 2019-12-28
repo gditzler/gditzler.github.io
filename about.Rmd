@@ -59,6 +59,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## Funding 
+- "CAREER: Learning in Adversarial and Nonstationary Environments", $500k, __National Science Foundation__ 
 - "AMAP-based Autonomic Security Operations Center", $200k, __Air Force Research Lab__ 
 - "PACT: Partnership for Proactive Cybersecurity Training", $3,000k, __Department of Energy__ 
 - "Doctoral Symposium at the IEEE International Conference on Autonomic Computing", $15k, __National Science Foundation__ 
@@ -78,6 +79,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
 
 ## Awards 
+- [2020] NSF CAREER 
 - [2018] Air Force Research Labs Visiting Faculty Fellowship 
 - [2018] IEEE CIS Computational Intelligence Magazine Outstanding Paper Award (2015)
 - [2017] IEEE International Conference on Cloud & Autonomic Computing Best Paper Award
