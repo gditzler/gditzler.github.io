@@ -6,6 +6,6 @@
 #setwd("/home/gditzler/Git/gditzler.github.io/")
 setwd("/Users/gditzler/Git/gditzler.github.io/")
 
-#render your sweet16 site. 
+#render your site. 
 rmarkdown::render_site()
     

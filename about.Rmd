@@ -75,8 +75,8 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 ## Teaching 
 - ECE175 [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] - Computer Programming for Engineering Applications 
 - ECE429/529 [[F2018](syllabus/ece429529_fa2018.pdf){target="_blank"}] - Introduction to Digital Signal Processing
-- ECE441a/541a [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [F2015](syllabus/ece441541_fa2019.pdf){target="_blank"}] - Automatic Control
-- ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2020.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
+- ECE441a/541a [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [F2019](syllabus/ece441541_fa2019.pdf){target="_blank"}] - Automatic Control
+- ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
 
 ## Awards 
 - [2020] NSF CAREER 
