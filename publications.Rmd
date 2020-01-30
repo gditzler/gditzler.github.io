@@ -70,13 +70,13 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
-- [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://www2.ia-engineers.org/icisip2019/){target="_blank"} <br />
-  K.S. Peng, G. Ditzler and J. Rozenblit<br />
+- [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
+  K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
-- [Poisoning mRMR with Adversarial Data](https://2019.ieeeicassp.org/){target="_blank"} <br />
+- [Poisoning mRMR with Adversarial Data](https://ieeexplore.ieee.org/document/8683530){target="_blank"} <br />
   H. Liu and G. Ditzler <br />
   IEEE International Conference on Acoustics, Speech and Signal Processing, 2019.
-- [Online Reconfigurable Antenna State Selection based on Thompson Sampling](http://www.conf-icnc.org/2019/){target="_blank"} <br />
+- [Online Reconfigurable Antenna State Selection based on Thompson Sampling](https://ieeexplore.ieee.org/document/8685555){target="_blank"} <br />
   T. Zhao, G. Ditzler, and M. Li <br />
   International Conference on Computing, Networking and Communications, 2019.
 - [The Impact of an Adversary in a Language Model](https://ieeexplore.ieee.org/abstract/document/8628894/){target="_blank"} <br />
