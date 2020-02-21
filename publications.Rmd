@@ -13,9 +13,6 @@ title: "Summary of Contributions"
 - Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
   H. Liu and G. Ditzler<br/>
   submitted to IEEE International Conference on Acoustics, Speech and Signal Processing, 2020. 
-- A Convolution Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses <br/>
-  J.-H. Jeong, H. Jo, and G. Ditzler <br/>
-  under revision to Computer-Aided Civil and Infrastructure Engineering, 2019. 
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf) <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted to Arxiv, 2019. 
@@ -28,6 +25,9 @@ title: "Summary of Contributions"
 
 
 ## Journals 
+- A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses <br/>
+  J.-H. Jeong, H. Jo, and G. Ditzler <br/>
+  accepted Computer-Aided Civil and Infrastructure Engineering, 2020. 
 - [Learning What We Don't Care About: Regularization with Sacrifical Functions ](https://www.sciencedirect.com/science/article/pii/S0020025519304219?via%3Dihub){target="_blank"} <br/>
   G. Ditzler, S. Miller, and J. Rozenblit <br/>
   Information Sciences, 2019, vol. 496, pp. 198-211. 
