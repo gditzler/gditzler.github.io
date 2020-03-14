@@ -79,7 +79,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
 
 
-# In the News 
+## In the News 
 * [Researchers want to know how bad actors are tricking machine learning](https://edscoop.com/university-arizona-machine-learning-algorithm-research/)
 * [University of Arizona College of Engineering Digest](https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe)
 * [$3M Grant to Create Cybersecurity Modeled After Human Body](https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body)
