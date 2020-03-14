@@ -78,6 +78,15 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - ECE441a/541a [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [F2019](syllabus/ece441541_fa2019.pdf){target="_blank"}] - Automatic Control
 - ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
 
+
+# In the News 
+* [Researchers want to know how bad actors are tricking machine learning](https://edscoop.com/university-arizona-machine-learning-algorithm-research/)
+* [University of Arizona College of Engineering Digest](https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe)
+* [$3M Grant to Create Cybersecurity Modeled After Human Body](https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body)
+* [IEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award](https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award)
+* [Five New Faculty Members Boost Research and Academics](https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics)
+
+
 ## Awards 
 - [2020] NSF CAREER 
 - [2018] Air Force Research Labs Visiting Faculty Fellowship 
