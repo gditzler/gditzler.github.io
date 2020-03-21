@@ -10,9 +10,6 @@ title: "Summary of Contributions"
 - Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted to Computer Vision and Image Understanding, 2019. 
-- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
-  H. Liu and G. Ditzler<br/>
-  submitted to IEEE International Conference on Acoustics, Speech and Signal Processing, 2020. 
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf) <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted to Arxiv, 2019. 
@@ -70,6 +67,9 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
+  H. Liu and G. Ditzler<br/>
+  IEEE World Congress on Computational Intellegience, 2020. 
 - [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
