@@ -19,6 +19,9 @@ title: "Summary of Contributions"
 - Soft Weight Networks for Few-Shot Learning <br/>
   S. Hess and G. Ditzler<br/>
   in preparation for Neural Networks, 2019. 
+- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
+  H. Liu and G. Ditzler<br/>
+  in preparation, 2020. 
 
 
 ## Journals 
@@ -66,10 +69,12 @@ title: "Summary of Contributions"
   IEEE Transactions on Knowledge & Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301.
  
 
+
+
 ## Conferences 
-- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
+- [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/) <br/>
   H. Liu and G. Ditzler<br/>
-  IEEE World Congress on Computational Intellegience, 2020. 
+  IEEE/INNS International Joint Conference on Neural Networks, 2020. 
 - [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
