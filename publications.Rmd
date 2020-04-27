@@ -72,6 +72,9 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
+- [Polynomial Filtering for Secure Modulation Classification](http://www.telemetry.org/) <br/>
+  A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/>
+  International Telemetry Conference, 2020
 - [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/) <br/>
   H. Liu and G. Ditzler<br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2020. 
