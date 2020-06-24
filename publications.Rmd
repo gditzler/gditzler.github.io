@@ -10,9 +10,6 @@ title: "Summary of Contributions"
 - Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted to Computer Vision and Image Understanding, 2019. 
-- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
-  H. Liu and G. Ditzler<br/>
-  submitted to IEEE International Conference on Acoustics, Speech and Signal Processing, 2020. 
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf) <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted to Arxiv, 2019. 
@@ -22,12 +19,15 @@ title: "Summary of Contributions"
 - Soft Weight Networks for Few-Shot Learning <br/>
   S. Hess and G. Ditzler<br/>
   in preparation for Neural Networks, 2019. 
+- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
+  H. Liu and G. Ditzler<br/>
+  in preparation, 2020. 
 
 
 ## Journals 
-- A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses <br/>
+- [A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546) <br/>
   J.-H. Jeong, H. Jo, and G. Ditzler <br/>
-  accepted Computer-Aided Civil and Infrastructure Engineering, 2020. 
+  Computer-Aided Civil and Infrastructure Engineering, 2020. 
 - [Learning What We Don't Care About: Regularization with Sacrifical Functions ](https://www.sciencedirect.com/science/article/pii/S0020025519304219?via%3Dihub){target="_blank"} <br/>
   G. Ditzler, S. Miller, and J. Rozenblit <br/>
   Information Sciences, 2019, vol. 496, pp. 198-211. 
@@ -67,12 +67,20 @@ title: "Summary of Contributions"
 - [Incremental learning of concept drift from streaming imbalanced data](http://ieeexplore.ieee.org/document/6235959/){target="_blank"}<br />
   G. Ditzler and R. Polikar<br />
   IEEE Transactions on Knowledge & Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301.
- 
+- [Polynomial Filtering for Secure Modulation Classification](http://www.telemetry.org/) <br/>
+  A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/>
+  submitted to International Telemetry Conference, 2020
+
+
+
 
 ## Conferences 
 - [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/){target="_blank"} <br />
   H. Liu and G. Ditzler <br />
   IEEE/INNS International Joint Conference on Neural Networks, 2020
+- [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/) <br/>
+  H. Liu and G. Ditzler<br/>
+  IEEE/INNS International Joint Conference on Neural Networks, 2020. 
 - [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
