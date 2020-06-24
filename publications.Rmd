@@ -70,6 +70,9 @@ title: "Summary of Contributions"
  
 
 ## Conferences 
+- [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/){target="_blank"} <br />
+  H. Liu and G. Ditzler <br />
+  IEEE/INNS International Joint Conference on Neural Networks, 2020
 - [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
