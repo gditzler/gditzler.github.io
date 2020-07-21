@@ -16,9 +16,9 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## Education 
-- __PhD__ Electrical Engineering, Drexel University, 2015
-- __MSc__ Electrical and Computer Engineering, Rowan University, 2011
-- __BSc__ Electronics Engineering Technology, The Pennsylvania College of Technology, 2008
+- __PhD__ Electrical Engineering, [Drexel University](https://drexel.edu/), 2015
+- __MSc__ Electrical and Computer Engineering, [Rowan University](http://rowan.edu/), 2011
+- __BSc__ Electronics Engineering Technology, [The Pennsylvania College of Technology](https://www.pct.edu/), 2008
 
 ## Employment  
 - __The University of Arizona (2015--Present)__ Assistant Professor
@@ -27,34 +27,6 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - __Rowan University (2010--2015)__ Adjunct Professor
 - __Rowan University (2009--2011)__ Graduate Research Assistant
 - __QorTek, Inc. (2009)__ Electronics Systems Engineer 
-
-## Advising   
-
-### PhD  
-- Kuo-Shiuan Peng (ECE 2018--2019) 
--- Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit)
-- Jason Ligon (ECE 2018--Present)
--- Co-advised with [Ivan Djordjevic](https://ece.engineering.arizona.edu/faculty-staff/faculty/ivan-b-djordjevic)
-- David Schwartz (ECE 2018--Present)
-- Samuel Hess (ECE 2016--Present) ABD
-- Heng Liu (ECE 2015--Present) ABD
-
-### MSc  
-- Brandon Black (ECE 2019--Present)
--- Co-advised with [Ravi Tandon](https://ece.engineering.arizona.edu/faculty-staff/faculty/ravi-tandon)
-- Zhengzhong Liang (ECE 2017--2018)
-- Jiashu Guo (ECE 2017--2018) 
-
-### MSc (Non-Thesis) 
-- Sebastian Thiem (ECE 2019--Present) -- Co-advised with [Peter Jansen](https://ischool.arizona.edu/people/peter-jansen) 
-- Zili Rong (ECE 2017--2018; non-thesis)
-- Jonathan Gill (ECE 2016--2017; non-thesis) 
-
-### Undergraduate
-- Noah Thurston (ECE 2019)
-- Andrew Burger (ECE 2018/19)
-- Sean Miller (CS/ECE 2017)
-
 
 ## Funding 
 - "Tactical Cyber Immune System," $200k, __Army Research Office STTR Phase II__ 
@@ -72,6 +44,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - "Analysis of Large Data Sets,"$15k,  __Air Force Office of Scientific Research SFFP__ 
 
 
+
 ## Teaching 
 - ECE175 [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] - Computer Programming for Engineering Applications 
 - ECE429/529 [[F2018](syllabus/ece429529_fa2018.pdf){target="_blank"}, F2020] - Introduction to Digital Signal Processing
@@ -80,6 +53,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 
 ## In the News 
+* [Penn College alum honored with NSF award](https://pctoday.pct.edu/penn-college-alum-honored-with-nsf-faculty-award/)
 * [Researchers want to know how bad actors are tricking machine learning](https://edscoop.com/university-arizona-machine-learning-algorithm-research/)
 * [University of Arizona College of Engineering Digest](https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe)
 * [$3M Grant to Create Cybersecurity Modeled After Human Body](https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body)

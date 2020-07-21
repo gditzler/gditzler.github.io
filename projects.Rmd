@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Active Research Projects"
 ---
 
 
@@ -30,5 +30,13 @@ The security and privacy of machine learning algorithms have been exposed in man
 The goal of the REU Site is to empower students to engage with the myriad applications that are related to autonomous ground vehicles and machine learning. The approach is the application of model-based design approaches that raise the level of abstraction to permit the safe operation of a full-sized robotic vehicle testbed. A full-size robotic car will be paired with core research in machine learning, made possible with data gathered with automotive sensors. These themes provide a context in which participants will explore research in model-based design for cyber-physical systems, machine learning, human-in-the-loop systems, control, and autonomous systems. Participants will use a spiral development process, where new project requirements are added after previous requirements are verified, as part of the safety procedures for the full-sized vehicle testbed
 
 
+## Partnership for Proactive Cybersecurity Research and Training 
+*Funding: Department of Energy* 
+
+The primary goal of the Partnership for [Proactive Cybersecurity Training](https://nnsa-pact.org/) (PACT) is to address the current and future cybersecurity research challenges and educate and train the next generation of highly skilled cybersecurity workforce that is heavily recruited from underrepresented and minorities and women. To achieve these goals, we form a multi- organization and multidisciplinary alliance from academia (The University of Arizona, Howard University and Navajo Technical University) and DoE Labs (Argonne National Laboratory). The Consortium goals are the following:
+
+* Establish a comprehensive cybersecurity science agenda that provides the theoretical foundation to: (a) Use data analytics and machine learning science to accurately and precisely quantify and characterize “normal” operations of cyber systems and services; (b) Model and quantify the risks and impacts of vulnerabilities and attacks on cyber systems, (c) Develop data-driven cyber security and forensic modeling, analysis and prediction; and (d) Design and analyze innovative detection and protection techniques.
+* Validate and demonstrate the usefulness of the cybersecurity solutions on large scale case studies (critical infrastructures and smart cities)
+* Integrate the Consortium’s research projects with established cybersecurity educational and training programs to provide cybersecurity learning opportunities for both undergraduate and graduate students. The consortium will heavily recruit underrepresented minority students to be involved in our research projects, cybersecurity summer training and mentoring camps, and internship programs.
 
 
