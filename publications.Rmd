@@ -10,7 +10,7 @@ title: "Summary of Contributions"
 - Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   under revision (journal), 2020. 
-- [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf) <br/>
+- [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted (conference), 2020 
 - Data Poisoning Against Filter Feature Selection <br/>
@@ -22,13 +22,13 @@ title: "Summary of Contributions"
 - Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
   H. Liu and G. Ditzler<br/>
   in preparation (conference), 2020. 
-- [Polynomial Filtering for Secure Modulation Classification](http://www.telemetry.org/) <br/>
+- [Polynomial Filtering for Secure Modulation Classification](http://www.telemetry.org/){target="_blank"} <br/>
   A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/>
   in preparation (conference), 2020
 
 
 ## Journals 
-- [A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546) <br/>
+- [A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546){target="_blank"} <br/>
   J.-H. Jeong, H. Jo, and G. Ditzler <br/>
   Computer-Aided Civil and Infrastructure Engineering, 2020. 
 - [Learning What We Don't Care About: Regularization with Sacrifical Functions ](https://www.sciencedirect.com/science/article/pii/S0020025519304219?via%3Dihub){target="_blank"} <br/>
