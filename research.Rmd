@@ -27,11 +27,11 @@ title: "Research Group"
 - Sean Miller (CS/ECE 2017)
 
 ## Summer Undgraduate Research Students
-- Sebastian Valencia (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0))
-- [Ulrich Zongo](Ulrich Zongo) (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0))
-- Eduardo Zambrana (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0))
-- [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be))
-- [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=RRtQqaa6p-4))
+- Sebastian Valencia (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- [Ulrich Zongo](Ulrich Zongo) (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- Eduardo Zambrana (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be){target="_blank"})
+- [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=RRtQqaa6p-4){target="_blank"})
 
 
 ## Alumni 
