@@ -38,5 +38,5 @@ title: "Research Group"
 - [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019)
 -- Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit){target="_blank"}
 - [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/){target="_blank"}, MSc (2018)
-- [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2020)
+- [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2018)
 
