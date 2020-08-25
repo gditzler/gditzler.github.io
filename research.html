@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -20,8 +20,7 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 
 
@@ -53,9 +52,11 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="style.css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -69,18 +70,13 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
-.html-widget {
-  margin-bottom: 20px;
-}
 button.code-folding-btn:focus {
   outline: none;
-}
-summary {
-  display: list-item;
 }
 </style>
 
@@ -96,6 +92,7 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
+
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -115,43 +112,6 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -173,74 +133,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -323,7 +228,7 @@ $(document).ready(function () {
 </div>
 
 
-<div id="phd-active" class="section level2">
+<section id="phd-active" class="level2">
 <h2>PhD (Active)</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/therealjtgill/" target="_blank">Jonathan Gill</a> (ECE 2020–Present)</li>
@@ -332,14 +237,14 @@ $(document).ready(function () {
 <li>Samuel Hess (ECE 2016–Present) ABD</li>
 <li><a href="https://www.linkedin.com/in/lh5712/" target="_blank">Heng Liu</a> (ECE 2015–Present) ABD</li>
 </ul>
-</div>
-<div id="msc-active" class="section level2">
+</section>
+<section id="msc-active" class="level2">
 <h2>MSc (Active)</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/srishtigupta01/" target="_blank">Srishti Gupta</a> (ECE 2020–Present)</li>
 </ul>
-</div>
-<div id="msc-non-thesis" class="section level2">
+</section>
+<section id="msc-non-thesis" class="level2">
 <h2>MSc (Non-Thesis)</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/brandonleeblack/" target="_blank">Brandon Black</a> (ECE 2019–2020)</li>
@@ -347,8 +252,8 @@ $(document).ready(function () {
 <li><a href="https://www.linkedin.com/in/zili-rong/" target="_blank">Zili Rong</a> (ECE 2017–2018)</li>
 <li><a href="https://www.linkedin.com/in/therealjtgill/" target="_blank">Jonathan Gill</a> (ECE 2016–2017)</li>
 </ul>
-</div>
-<div id="undergraduate" class="section level2">
+</section>
+<section id="undergraduate" class="level2">
 <h2>Undergraduate</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/diego-k-alcantara/" target="_blank">Diego Alcantera</a> (ECE 2020)</li>
@@ -356,8 +261,8 @@ $(document).ready(function () {
 <li><a href="https://www.linkedin.com/in/andrew-burger-8a628870" target="_blank">Andrew Burger</a> (ECE 2018/19)</li>
 <li>Sean Miller (CS/ECE 2017)</li>
 </ul>
-</div>
-<div id="summer-undgraduate-research-students" class="section level2">
+</section>
+<section id="summer-undgraduate-research-students" class="level2">
 <h2>Summer Undgraduate Research Students</h2>
 <ul>
 <li>Sebastian Valencia (2020; UArizona) – Supported by <a href="https://nnsa-pact.org/" target="_blank">DOE PACT</a> (<a href="https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0" target="_blank">presentation</a>)</li>
@@ -366,15 +271,15 @@ $(document).ready(function () {
 <li><a href="https://www.linkedin.com/in/calvin-barrett-293296187/" target="_blank">Calvin Barrett</a> (2020; Haverford College) – Supported by <a href="http://catvehicle.arizona.edu/" target="_blank">NSF CAT REU</a> (<a href="https://www.youtube.com/watch?v=VWeaJDeazUc&amp;feature=youtu.be" target="_blank">presentation</a>)</li>
 <li><a href="https://www.linkedin.com/in/tbessho/" target="_blank">Tomo Bessho</a> (2020; University of Nebraska-Lincoln) – Supported by <a href="http://catvehicle.arizona.edu/" target="_blank">NSF CAT REU</a> (<a href="https://www.youtube.com/watch?v=RRtQqaa6p-4" target="_blank">presentation</a>)</li>
 </ul>
-</div>
-<div id="alumni" class="section level2">
+</section>
+<section id="alumni" class="level2">
 <h2>Alumni</h2>
 <ul>
 <li><a href="https://www.linkedin.com/in/kuo-shiuan-peng-24360567/" target="_blank">Kuo-Shiuan Peng</a>, PhD (2019) – Co-advised with <a href="https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit" target="_blank">Jerzy Rozenblit</a></li>
 <li><a href="https://www.linkedin.com/in/zhengzhong-liang-095810137/" target="_blank">Zhengzhong Liang</a>, MSc (2018)</li>
 <li><a href="https://www.linkedin.com/in/jiashu-guo/" target="_blank">Jiashu Guo</a>, MSc (2018)</li>
 </ul>
-</div>
+</section>
 
   </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
@@ -494,23 +399,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

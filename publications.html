@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -20,8 +20,7 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 
 
@@ -53,9 +52,11 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="style.css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -69,18 +70,13 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
-.html-widget {
-  margin-bottom: 20px;
-}
 button.code-folding-btn:focus {
   outline: none;
-}
-summary {
-  display: list-item;
 }
 </style>
 
@@ -96,6 +92,7 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
+
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -115,43 +112,6 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -173,74 +133,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -323,19 +228,17 @@ $(document).ready(function () {
 </div>
 
 
-<div id="in-preparation-under-review" class="section level2">
-<h2>In Preparation / Under Review</h2>
+<section id="in-preparation-under-review-arxiv" class="level2">
+<h2>In Preparation / Under Review / Arxiv</h2>
 <ul>
 <li>Bypassing Temporal Dependency in Adversarial Audio Examples <br/> H. Liu and G. Ditzler<br/> submitted (conference), 2020.</li>
-<li>Self-Supervised Correlational Monocular Depth Estimation using a Hybrid Network <br/> K.-S. Peng, G. Ditzler, and J. Rozenblit<br/> submitted (journal), 2019.</li>
 <li>Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/> K.-S. Peng, G. Ditzler, and J. Rozenblit<br/> under revision (journal), 2020.</li>
+<li>Self-Supervised Correlational Monocular Depth Estimation using a Hybrid Network <br/> K.-S. Peng, G. Ditzler, and J. Rozenblit<br/> submitted (journal), 2020</li>
 <li><a href="https://arxiv.org/pdf/1911.11705.pdf" target="_blank">Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation</a> <br/> K.-S. Peng, G. Ditzler, and J. Rozenblit<br/> submitted (conference), 2020</li>
-<li>Data Poisoning Against Filter Feature Selection <br/> H. Liu and G. Ditzler<br/> in preparation (journal), 2020.</li>
-<li>Soft Weight Networks for Few-Shot Learning <br/> S. Hess and G. Ditzler<br/> in preparation (journal), 2019.</li>
-<li><a href="http://www.telemetry.org/" target="_blank">Polynomial Filtering for Secure Modulation Classification</a> <br/> A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/> in preparation (conference), 2020</li>
+<li><a href="https://arxiv.org/pdf/2008.06785.pdf" target="_blank">Adversarial Filters for Secure Modulation Classification</a> <br/> A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/> in preparation, 2020.</li>
 </ul>
-</div>
-<div id="journals" class="section level2">
+</section>
+<section id="journals" class="level2">
 <h2>Journals</h2>
 <ul>
 <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546" target="_blank">A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses</a> <br/> J.-H. Jeong, H. Jo, and G. Ditzler <br/> Computer-Aided Civil and Infrastructure Engineering, 2020.</li>
@@ -354,8 +257,8 @@ $(document).ready(function () {
 <li><a href="http://ieeexplore.ieee.org/document/6823119/" target="_blank">A bootstrap based Neyman-Pearson test for identifying variable importance</a><br /> G. Ditzler, R. Polikar, and G. Rosen<br /> IEEE Transactions on Neural Networks and Learning Systems, 2015, vol. 26, no. 4, pp. 880-886.</li>
 <li><a href="http://ieeexplore.ieee.org/document/6235959/" target="_blank">Incremental learning of concept drift from streaming imbalanced data</a><br /> G. Ditzler and R. Polikar<br /> IEEE Transactions on Knowledge &amp; Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301.</li>
 </ul>
-</div>
-<div id="conferences" class="section level2">
+</section>
+<section id="conferences" class="level2">
 <h2>Conferences</h2>
 <ul>
 <li><a href="https://wcci2020.org/" target="_blank">Detecting Adversarial Audio via Activation Quantization Error</a> <br /> H. Liu and G. Ditzler <br /> IEEE/INNS International Joint Conference on Neural Networks, 2020</li>
@@ -391,8 +294,8 @@ $(document).ready(function () {
 <li><a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5596764" target="_blank">An ensemble-based incremental learning framework for concept drift and class imbalance</a> <br /> G. Ditzler and R. Polikar <br /> IEEE/INNS International Joint Conference on Neural Networks, 2010.</li>
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4" target="_blank">Incremental learning of new classes in unbalanced data: Learn++.UDNC</a> <br /> G. Ditzler, M. Muhlbaier, and R. Polikar <br /> International Workshop on Multiple Classifier Systems, 2010.</li>
 </ul>
-</div>
-<div id="book-chapters" class="section level2">
+</section>
+<section id="book-chapters" class="level2">
 <h2>Book Chapters</h2>
 <ul>
 <li><a href="https://link.springer.com/chapter/10.1007/978-3-319-74974-7_5" target="_blank">Analysis Methods for Shotgun Metagenomics</a> <br /> S. Woloszynek, Z. Zhao, G. Ditzler, J. R. Price, E. R. Reichenberger, Y. Lan, J. Chen, J. Earl, S. Keshani Langroodi, G. Ehrlich and G. Rosen <br /> Springer Theoretical and Applied Aspects of Systems Biology, 2018, pp. 71–112.</li>
@@ -400,7 +303,7 @@ $(document).ready(function () {
 <li><a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4" target="_blank">Variable Selection to Improve Classification of Metagenomes</a> <br /> G. Ditzler, Y. Lan, J.-L. Bouchot, and G. Rosen <br /> In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014.</li>
 <li><a href="https://app.dimensions.ai/details/publication/pub.1030514139" target="_blank">Advances in machine learning for processing and comparison of metagenomic data</a> <br /> J.-L. Bouchot, W. Trimble, G. Ditzler, Y. Lan, S. Essinger, and G. Rosen <br /> In: Computational Systems Biology, 295-329, 2014</li>
 </ul>
-</div>
+</section>
 
   </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
@@ -520,23 +423,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

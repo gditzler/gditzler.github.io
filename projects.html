@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -20,8 +20,7 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 
 
@@ -53,9 +52,11 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="style.css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -69,18 +70,13 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
-.html-widget {
-  margin-bottom: 20px;
-}
 button.code-folding-btn:focus {
   outline: none;
-}
-summary {
-  display: list-item;
 }
 </style>
 
@@ -96,6 +92,7 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
+
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -115,43 +112,6 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -173,74 +133,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -323,28 +228,28 @@ $(document).ready(function () {
 </div>
 
 
-<div id="tactical-cyber-immune-system" class="section level2">
+<section id="tactical-cyber-immune-system" class="level2">
 <h2>Tactical Cyber Immune System</h2>
 <p><em>Funding: ARO STTR</em></p>
 <p>This project leverages the tools and results to build a fully functional tactical cyber immune systems (TCIS) prototype. The TCIS prototype’s tangible benefits to end-users of TCIS will be: (i) Maintaining the acceptable performance of cyber systems and applications in spite of malicious attacks; (ii) Surveillance and autonomic enforcement of normal user behavioral semantics in order to seamlessly detect any non-self behavior by users; (iii) Metrics for evaluating the security; and (v) Seamless recovery of the components of a cyber system from catastrophic failures and security breaches.</p>
-</div>
-<div id="amap-based-autonomic-security-operations-center-asoc" class="section level2">
+</section>
+<section id="amap-based-autonomic-security-operations-center-asoc" class="level2">
 <h2>AMAP-based Autonomic Security Operations Center (ASoC)</h2>
 <p><em>Funding: AFRL STTP</em></p>
 <p>In this STTP project, we extend the current AMAP prototype to develop an innovative security architecture that assumes any cyber component is malicious until it can be verified that it is free from any malicious components. The autonomic computing provides the mechanisms to take proactive actions to stop cyber-attacks, their propagation as well as mitigates their impacts. The main modules are Continuous Threat Modeling, Cyber Situation Awareness, and Anomaly Behavior Analysis.</p>
-</div>
-<div id="career-learning-in-adversarial-and-nonstationary-environments" class="section level2">
+</section>
+<section id="career-learning-in-adversarial-and-nonstationary-environments" class="level2">
 <h2>CAREER: Learning in Adversarial and Nonstationary Environments</h2>
 <p><em>Funding: National Science Foundation</em></p>
 <p>The security and privacy of machine learning algorithms have been exposed in many classes’ models (e.g., logistic regression, neural networks, etc.). In fact, adversaries in machine learning have been a topic of recent interest and concern due to the mathematical flaws in the algorithms. Furthermore, domains of cybersecurity pose an even larger threat than many applications of machine learning because of how an adversary can influence the training data or even the testing data. Application areas related to this proposal include – but are not limited to – remote sensing, fraud detection, web usage tracking, IDS, and malware detection for cybersecurity data. This CAREER studies when and why feature selection fails with an adversary. Not only will this research focus on understanding why feature selection fails, but also the transferability of black and white box attacks on feature selection. This project also proposes to develop novel methods to attack information-theoretic algorithms and approaches for resilient information-theoretic feature selection.</p>
 <p><em>Adversarial Machine Learning in Audio Transcription</em>: The robustness and vulnerability of Deep Neural Networks (DNN) are quickly becoming a critical area of interest since these models are in widespread use across real-world applications. A DNN’s vulnerability is exploited by an adversary to generate data to attack the model; however, the majority of adversarial data generators have focused on image domains with far fewer work on audio domains. More recently, audio analysis models were shown to be vulnerable to adversarial audio examples. Thus, one urgent open problem is to detect adversarial audio reliably. Our group is developing an algorithm to detect adversarial audio by using a DNN’s quantization error. Specifically, we have shown that adversarial audio typically exhibits a larger activation quantization error than benign audio. The quantization error is measured using character error rates. We are using the difference in errors to discriminate adversarial audio.</p>
-</div>
-<div id="reu-site-cat-vehicle-the-cognitive-and-autonomous-test-vehicle" class="section level2">
+</section>
+<section id="reu-site-cat-vehicle-the-cognitive-and-autonomous-test-vehicle" class="level2">
 <h2>REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle</h2>
 <p><em>Funding: National Science Foundation</em></p>
 <p>The goal of the REU Site is to empower students to engage with the myriad applications that are related to autonomous ground vehicles and machine learning. The approach is the application of model-based design approaches that raise the level of abstraction to permit the safe operation of a full-sized robotic vehicle testbed. A full-size robotic car will be paired with core research in machine learning, made possible with data gathered with automotive sensors. These themes provide a context in which participants will explore research in model-based design for cyber-physical systems, machine learning, human-in-the-loop systems, control, and autonomous systems. Participants will use a spiral development process, where new project requirements are added after previous requirements are verified, as part of the safety procedures for the full-sized vehicle testbed</p>
-</div>
-<div id="partnership-for-proactive-cybersecurity-research-and-training" class="section level2">
+</section>
+<section id="partnership-for-proactive-cybersecurity-research-and-training" class="level2">
 <h2>Partnership for Proactive Cybersecurity Research and Training</h2>
 <p><em>Funding: Department of Energy</em></p>
 <p>The primary goal of the Partnership for <a href="https://nnsa-pact.org/" target="_blank">Proactive Cybersecurity Training</a> (PACT) is to address the current and future cybersecurity research challenges and educate and train the next generation of highly skilled cybersecurity workforce that is heavily recruited from underrepresented and minorities and women. To achieve these goals, we form a multi- organization and multidisciplinary alliance from academia (The University of Arizona, Howard University and Navajo Technical University) and DoE Labs (Argonne National Laboratory). The Consortium goals are the following:</p>
@@ -353,7 +258,7 @@ $(document).ready(function () {
 <li>Validate and demonstrate the usefulness of the cybersecurity solutions on large scale case studies (critical infrastructures and smart cities)</li>
 <li>Integrate the Consortium’s research projects with established cybersecurity educational and training programs to provide cybersecurity learning opportunities for both undergraduate and graduate students. The consortium will heavily recruit underrepresented minority students to be involved in our research projects, cybersecurity summer training and mentoring camps, and internship programs.</li>
 </ul>
-</div>
+</section>
 
   </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
@@ -473,23 +378,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

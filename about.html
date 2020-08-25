@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -20,8 +20,7 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 
 
@@ -53,9 +52,11 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="style.css" />
 
+</head>
 
+<body>
 
 <style type = "text/css">
 .main-container {
@@ -69,18 +70,13 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
 }
-.html-widget {
-  margin-bottom: 20px;
-}
 button.code-folding-btn:focus {
   outline: none;
-}
-summary {
-  display: list-item;
 }
 </style>
 
@@ -96,6 +92,7 @@ body {
   padding-top: 50px;
   margin-top: -50px;
 }
+
 .section h2 {
   padding-top: 50px;
   margin-top: -50px;
@@ -115,43 +112,6 @@ body {
 .section h6 {
   padding-top: 50px;
   margin-top: -50px;
-}
-.dropdown-submenu {
-  position: relative;
-}
-.dropdown-submenu>.dropdown-menu {
-  top: 0;
-  left: 100%;
-  margin-top: -6px;
-  margin-left: -1px;
-  border-radius: 0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu {
-  display: block;
-}
-.dropdown-submenu>a:after {
-  display: block;
-  content: " ";
-  float: right;
-  width: 0;
-  height: 0;
-  border-color: transparent;
-  border-style: solid;
-  border-width: 5px 0 5px 5px;
-  border-left-color: #cccccc;
-  margin-top: 5px;
-  margin-right: -10px;
-}
-.dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
-}
-.dropdown-submenu.pull-left {
-  float: none;
-}
-.dropdown-submenu.pull-left>.dropdown-menu {
-  left: -100%;
-  margin-left: 10px;
-  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -173,74 +133,19 @@ $(document).ready(function () {
 });
 </script>
 
+
+<div class="container-fluid main-container">
+
 <!-- tabsets -->
-
-<style type="text/css">
-.tabset-dropdown > .nav-tabs {
-  display: inline-table;
-  max-height: 500px;
-  min-height: 44px;
-  overflow-y: auto;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-}
-
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
-  font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
-}
-
-.tabset-dropdown > .nav-tabs > li.active {
-  display: block;
-}
-
-.tabset-dropdown > .nav-tabs > li > a,
-.tabset-dropdown > .nav-tabs > li > a:focus,
-.tabset-dropdown > .nav-tabs > li > a:hover {
-  border: none;
-  display: inline-block;
-  border-radius: 4px;
-  background-color: transparent;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
-  display: block;
-  float: none;
-}
-
-.tabset-dropdown > .nav-tabs > li {
-  display: none;
-}
-</style>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
 
 <!-- code folding -->
 
 
-
-
-</head>
-
-<body>
-
-
-<div class="container-fluid main-container">
 
 
 
@@ -325,15 +230,15 @@ $(document).ready(function () {
 
 <p><img src="about_files/figure-html/unnamed-chunk-1-1.png" width="192" /></p>
 <p>I am an Assistant Professor in the <a href="http://www.ece.arizona.edu/">Department of Electrical and Computer Engineering</a> at <a href="http://www.arizona.edu/">The University of Arizona</a>, where I perform research in data mining and applied machine learning.</p>
-<div id="education" class="section level2">
+<section id="education" class="level2">
 <h2>Education</h2>
 <ul>
 <li><strong>PhD</strong> Electrical Engineering, <a href="https://drexel.edu/">Drexel University</a>, 2015</li>
 <li><strong>MSc</strong> Electrical and Computer Engineering, <a href="http://rowan.edu/">Rowan University</a>, 2011</li>
 <li><strong>BSc</strong> Electronics Engineering Technology, <a href="https://www.pct.edu/">The Pennsylvania College of Technology</a>, 2008</li>
 </ul>
-</div>
-<div id="employment" class="section level2">
+</section>
+<section id="employment" class="level2">
 <h2>Employment</h2>
 <ul>
 <li><strong>The University of Arizona (2015–Present)</strong> Assistant Professor</li>
@@ -343,8 +248,8 @@ $(document).ready(function () {
 <li><strong>Rowan University (2009–2011)</strong> Graduate Research Assistant</li>
 <li><strong>QorTek, Inc. (2009)</strong> Electronics Systems Engineer</li>
 </ul>
-</div>
-<div id="funding" class="section level2">
+</section>
+<section id="funding" class="level2">
 <h2>Funding</h2>
 <ul>
 <li>“Tactical Cyber Immune System,” $200k, <strong>Army Research Office STTR Phase II</strong></li>
@@ -361,8 +266,8 @@ $(document).ready(function () {
 <li>“Tactical Cyber Immune System,” $30k, <strong>Army Research Office STTR Phase I</strong></li>
 <li>“Analysis of Large Data Sets,”$15k, <strong>Air Force Office of Scientific Research SFFP</strong></li>
 </ul>
-</div>
-<div id="teaching" class="section level2">
+</section>
+<section id="teaching" class="level2">
 <h2>Teaching</h2>
 <ul>
 <li>ECE175 [<a href="syllabus/ece175_sp2016.pdf" target="_blank">Sp2016</a>, <a href="syllabus/ece175_fa2016.pdf" target="_blank">Fa2016</a>] - Computer Programming for Engineering Applications</li>
@@ -370,8 +275,8 @@ $(document).ready(function () {
 <li>ECE441a/541a [<a href="syllabus/ece441541_fa2015.pdf" target="_blank">F2015</a>, <a href="syllabus/ece441541_fa2017.pdf" target="_blank">F2017</a>, <a href="syllabus/ece441541_fa2019.pdf" target="_blank">F2019</a>] - Automatic Control</li>
 <li>ECE523 [<a href="syllabus/ece523_sp2017.pdf" target="_blank">Sp2017</a>, <a href="syllabus/ece523_sp2018.pdf" target="_blank">Sp2018</a>, <a href="syllabus/ece523_sp2019.pdf" target="_blank">Sp2019</a>, <a href="syllabus/ece523_sp2020.pdf" target="_blank">Sp2020</a>] - Engineering Applications of Machine Learning and Data Analytics</li>
 </ul>
-</div>
-<div id="in-the-news" class="section level2">
+</section>
+<section id="in-the-news" class="level2">
 <h2>In the News</h2>
 <ul>
 <li><a href="https://www.pennlive.com/news/2020/07/lebanon-county-native-receives-national-science-foundation-award.html" target="_blank">Lebanon County native receives National Science Foundation award</a></li>
@@ -382,8 +287,8 @@ $(document).ready(function () {
 <li><a href="https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award" target="_blank">IEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award</a></li>
 <li><a href="https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics" target="_blank">Five New Faculty Members Boost Research and Academics</a></li>
 </ul>
-</div>
-<div id="awards" class="section level2">
+</section>
+<section id="awards" class="level2">
 <h2>Awards</h2>
 <ul>
 <li>[2020] NSF CAREER</li>
@@ -406,7 +311,7 @@ $(document).ready(function () {
 <li>[2008] Award for Outstanding Leadership &amp; Service to the Pennsylvania College of Technology IEEE Branch</li>
 <li>[2008] Penn College Award for Leadership to the College and Community</li>
 </ul>
-</div>
+</section>
 
   </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
@@ -526,23 +431,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
