@@ -3,28 +3,19 @@ title: "Summary of Contributions"
 ---
 
 
-## In Preparation / Under Review  
-- Bypassing Temporal Dependency in Adversarial Audio Examples <br/>
-  H. Liu and G. Ditzler<br/>
-  submitted (conference), 2020. 
-- Self-Supervised Correlational Monocular Depth Estimation using a Hybrid Network <br/>
-  K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
-  submitted (journal), 2019. 
+## In Preparation / Under Review / Arxiv 
 - Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   under revision (journal), 2020. 
+- Self-Supervised Correlational Monocular Depth Estimation using a Hybrid Network <br/>
+  K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
+  submitted (journal), 2020 
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   submitted (conference), 2020 
-- Data Poisoning Against Filter Feature Selection <br/>
-  H. Liu and G. Ditzler<br/>
-  in preparation (journal), 2020. 
-- Soft Weight Networks for Few-Shot Learning <br/>
-  S. Hess and G. Ditzler<br/>
-  in preparation (journal), 2019. 
-- [Polynomial Filtering for Secure Modulation Classification](http://www.telemetry.org/){target="_blank"} <br/>
+- [Adversarial Filters for Secure Modulation Classification](https://arxiv.org/pdf/2008.06785.pdf){target="_blank"} <br/>
   A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/>
-  in preparation (conference), 2020
+  in preparation, 2020. 
 
 
 ## Journals 
@@ -75,6 +66,12 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
+- [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://www.isvc.net/) <br/>
+  K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
+  International Symposium on Visual Computing, 2020 
+- [Bypassing Temporal Dependency in Adversarial Audio Examples](http://www.ieeessci2020.org/) <br/>
+  H. Liu and G. Ditzler<br/>
+  IEEE Symposium Series on Computational Intelligence, 2020. 
 - [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/){target="_blank"} <br />
   H. Liu and G. Ditzler <br />
   IEEE/INNS International Joint Conference on Neural Networks, 2020
