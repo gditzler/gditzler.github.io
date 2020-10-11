@@ -21,6 +21,7 @@ title: "Research Group"
 - [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2016--2017) 
 
 ## Undergraduate
+- Javier Cota (ECE 2020--Present)
 - Roman Golota (ECE 2020--Present)
 - Eduardo Zambrana (ECE 2020--Present)
 - [Diego Alcantera](https://www.linkedin.com/in/diego-k-alcantara/){target="_blank"} (ECE 2020)
