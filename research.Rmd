@@ -31,7 +31,7 @@ title: "Research Group"
 
 ## Summer Undgraduate Research Students
 - Sebastian Valencia (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- [Ulrich Zongo](Ulrich Zongo) (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- [Ulrich Zongo](https://www.linkedin.com/in/ulrich-stephane-zongo/) (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
 - Eduardo Zambrana (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
 - [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) – Supported by [NSF CAT REU](https://www.youtube.com/watch?v=4daCwJsk6-Y&ab_channel=CalvinBarrett){target="_blank"} ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be){target="_blank"})
 - [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=vlJAxQZX9xc&feature=emb_title){target="_blank"})
