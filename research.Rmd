@@ -1,0 +1,46 @@
+---
+title: "Research Group"
+---
+
+
+## PhD (Active)
+- [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2020--Present) 
+- Jason Ligon (ECE 2018--Present)
+-- Co-advised with [Ivan Djordjevic](https://ece.engineering.arizona.edu/faculty-staff/faculty/ivan-b-djordjevic){target="_blank"}
+- [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present)
+- Samuel Hess (ECE 2016--Present) ABD
+- [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"} (ECE 2015--Present) ABD
+
+## MSc (Active)
+- [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
+
+## MSc (Non-Thesis) 
+- [Brandon Black](https://www.linkedin.com/in/brandonleeblack/){target="_blank"} (ECE 2019--2020)
+- [Sebastian Thiem](https://www.linkedin.com/in/sebastian-thiem-4b25b1159/){target="_blank"} (ECE 2019--2020) -- Co-advised with [Peter Jansen](https://ischool.arizona.edu/people/peter-jansen){target="_blank"} 
+- [Zili Rong](https://www.linkedin.com/in/zili-rong/){target="_blank"} (ECE 2017--2018)
+- [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2016--2017) 
+
+## Undergraduate
+- Jack Blake (ECE 2020--Present)
+- Javier Cota (ECE 2020--Present)
+- Roman Golota (ECE 2020--Present)
+- Eduardo Zambrana (ECE 2020--Present)
+- [Diego Alcantera](https://www.linkedin.com/in/diego-k-alcantara/){target="_blank"} (ECE 2020)
+- [Noah Thurston](https://www.linkedin.com/in/noah-t-180021b7/){target="_blank"} (ECE 2019)
+- [Andrew Burger](https://www.linkedin.com/in/andrew-burger-8a628870){target="_blank"} (ECE 2018/19)
+- Sean Miller (CS/ECE 2017)
+
+## Summer Undgraduate Research Students
+- Sebastian Valencia (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- [Ulrich Zongo](https://www.linkedin.com/in/ulrich-stephane-zongo/){target="_blank"} (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- Eduardo Zambrana (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) – Supported by [NSF CAT REU](https://www.youtube.com/watch?v=4daCwJsk6-Y&feature=emb_title&ab_channel=CalvinBarrett){target="_blank"} ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be){target="_blank"})
+- [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=vlJAxQZX9xc&feature=emb_title){target="_blank"})
+
+
+## Alumni 
+- [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019)
+-- Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit){target="_blank"}
+- [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/){target="_blank"}, MSc (2018)
+- [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2018)
+

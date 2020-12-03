@@ -4,6 +4,13 @@ title: "Machine Learning and Data Science Research"
 
 I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. 
 
+My current research interests are in machine. More specifically: 
+
+- Adversarial Machine Learning: Security, Defenses and Attacks
+- Learning from Large Volume Data Streams with Changing Dynamics 
+- Applications of Machine Learning: Cybersecurity, Metagenomics, and Medicine 
+
+
 
 
 
