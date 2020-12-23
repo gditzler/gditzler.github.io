@@ -4,6 +4,7 @@ title: "Research Group"
 
 
 ## PhD (Active)
+- Kory Staab (ECE 2021--Present)
 - [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2020--Present) 
 - Jason Ligon (ECE 2018--Present)
 -- Co-advised with [Ivan Djordjevic](https://ece.engineering.arizona.edu/faculty-staff/faculty/ivan-b-djordjevic){target="_blank"}
@@ -12,6 +13,7 @@ title: "Research Group"
 - [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"} (ECE 2015--Present) ABD
 
 ## MSc (Active)
+- Ryan Jarick (ECE 2021--Present)
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
 
 ## MSc (Non-Thesis) 
@@ -21,6 +23,7 @@ title: "Research Group"
 - [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2016--2017) 
 
 ## Undergraduate
+- Jack Blake (ECE 2020--Present)
 - Javier Cota (ECE 2020--Present)
 - Roman Golota (ECE 2020--Present)
 - Eduardo Zambrana (ECE 2020--Present)
