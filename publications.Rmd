@@ -75,10 +75,10 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
-- [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6) <br/>
+- [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   International Symposium on Visual Computing, 2020 
-- [Bypassing Temporal Dependency in Adversarial Audio Examples](http://www.ieeessci2020.org/) <br/>
+- [Bypassing Temporal Dependency in Adversarial Audio Examples](http://www.ieeessci2020.org/){target="_blank"} <br/>
   H. Liu and G. Ditzler<br/>
   IEEE Symposium Series on Computational Intelligence, 2020. 
 - [Detecting Adversarial Audio via Activation Quantization Error](https://ieeexplore.ieee.org/abstract/document/9206986){target="_blank"} <br/>
