@@ -3,19 +3,28 @@ title: "Summary of Contributions"
 ---
 
 
-## In Preparation / Under Review / Arxiv 
+## Under Review / Revision 
 - Weakly Semi-supervised Joint Semantic Understanding for Segmentation and Depth Estimation<br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
-  under revision (journal), 2020. 
+  submitted (journal), 2020. 
 - [Adversarial Filters for Secure Modulation Classification](https://arxiv.org/pdf/2008.06785.pdf){target="_blank"} <br/>
   A. Berian, N. Teku, G. Ditzler, R. Tandon, and T. Bose <br/>
   submitted (conference), 2020. 
 - Self-Supervised Correlational Monocular Depth Estimation using a Hybrid Network <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
-  submitted (journal), 2020 
-- [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1911.11705.pdf){target="_blank"} <br/>
-  K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
-  submitted (conference), 2020 
+  submitted (journal), 2020. 
+- In-vivo Ovarian Cancer Detection Using Optical Coherence Tomography and Deep Neural Networks <br/>
+  D. Schwartz, T. Sawyer, N. Thurston, J. Barton, and G. Ditzler <br/>
+  submitted (journal), 2020. 
+- Data Poisoning Against Information-Theoretic Feature Selection <br/>
+  H. Liu and G. Ditzler <br/>
+  under revision (journal), 2020.
+  
+
+
+
+
+
 
 
 ## Journals 
@@ -66,107 +75,107 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
-- [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://www.isvc.net/) <br/>
+- [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6) <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   International Symposium on Visual Computing, 2020 
 - [Bypassing Temporal Dependency in Adversarial Audio Examples](http://www.ieeessci2020.org/) <br/>
   H. Liu and G. Ditzler<br/>
   IEEE Symposium Series on Computational Intelligence, 2020. 
-- [Detecting Adversarial Audio via Activation Quantization Error](https://wcci2020.org/){target="_blank"} <br />
-  H. Liu and G. Ditzler <br />
+- [Detecting Adversarial Audio via Activation Quantization Error](https://ieeexplore.ieee.org/abstract/document/9206986){target="_blank"} <br/>
+  H. Liu and G. Ditzler <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2020
-- [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br />
+- [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br/>
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
-- [Poisoning mRMR with Adversarial Data](https://ieeexplore.ieee.org/document/8683530){target="_blank"} <br />
+- [Poisoning mRMR with Adversarial Data](https://ieeexplore.ieee.org/document/8683530){target="_blank"} <br/>
   H. Liu and G. Ditzler <br />
   IEEE International Conference on Acoustics, Speech and Signal Processing, 2019.
-- [Online Reconfigurable Antenna State Selection based on Thompson Sampling](https://ieeexplore.ieee.org/document/8685555){target="_blank"} <br />
-  T. Zhao, G. Ditzler, and M. Li <br />
+- [Online Reconfigurable Antenna State Selection based on Thompson Sampling](https://ieeexplore.ieee.org/document/8685555){target="_blank"} <br/>
+  T. Zhao, G. Ditzler, and M. Li <br/>
   International Conference on Computing, Networking and Communications, 2019.
-- [The Impact of an Adversary in a Language Model](https://ieeexplore.ieee.org/abstract/document/8628894/){target="_blank"} <br />
-  Z. Liang and G. Ditzler <br />
+- [The Impact of an Adversary in a Language Model](https://ieeexplore.ieee.org/abstract/document/8628894/){target="_blank"} <br/>
+  Z. Liang and G. Ditzler <br/>
   IEEE Symposium Series on Computational Intelligence, 2018.
-- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](https://ieeexplore.ieee.org/abstract/document/8612855/){target="_blank"} <br />
-  S. Hess, P. Satam, G. Ditzler and S. Hariri <br />
+- [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](https://ieeexplore.ieee.org/abstract/document/8612855/){target="_blank"} <br/>
+  S. Hess, P. Satam, G. Ditzler and S. Hariri <br/>
   ACS/IEEE International Conference on Computer Systems and Applications, 2018.
-- [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](https://ieeexplore.ieee.org/abstract/document/8489616/){target="_blank"} <br />
-  J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh <br />
+- [Nonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks](https://ieeexplore.ieee.org/abstract/document/8489616/){target="_blank"} <br/>
+  J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2018.
-- [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](https://ieeexplore.ieee.org/abstract/document/8280924/){target="_blank"} <br />
-  G. Ditzler and A. Prater <br />
+- [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](https://ieeexplore.ieee.org/abstract/document/8280924/){target="_blank"} <br/>
+  G. Ditzler and A. Prater <br/>
   IEEE Symposium Series on Computational Intelligence, 2017.
-- [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](https://ieeexplore.ieee.org/abstract/document/8280921/){target="_blank"} <br />
-  H. Liu and G. Ditzler <br />
+- [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](https://ieeexplore.ieee.org/abstract/document/8280921/){target="_blank"} <br/>
+  H. Liu and G. Ditzler <br/>
   IEEE Symposium Series on Computational Intelligence, 2017.
-- [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://ieeexplore.ieee.org/abstract/document/8064150/){target="_blank"} <br />
-  G. Ditzler, A. Akoglu, and S. Hariri <br />
+- [Framework to Support DDDAS Decision” Support Systems: Design Overview](http://ieeexplore.ieee.org/abstract/document/8064150/){target="_blank"} <br/>
+  G. Ditzler, A. Akoglu, and S. Hariri <br/>
   Workshop on InfoSymbiotics: DDDAS Dynamic Data Driven Applications Systems, 2017.
-- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://ieeexplore.ieee.org/abstract/document/8064054/){target="_blank"}  <br />
-  F. de la Pena Montero, S. Hariri, and G. Ditzler <br />
+- [A Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications](http://ieeexplore.ieee.org/abstract/document/8064054/){target="_blank"}  <br/>
+  F. de la Pena Montero, S. Hariri, and G. Ditzler <br/>
   IEEE International Conference on Cloud and Autonomic Computing, 2017.
-- [Autonomic Management of 3D Cardiac Simulations](http://ieeexplore.ieee.org/abstract/document/8064049/){target="_blank"} <br />
-  E. Esmaili, A. Akoglu, G. Ditzler, S. Hariri, J. Szep and T. Moukabary <br />
+- [Autonomic Management of 3D Cardiac Simulations](http://ieeexplore.ieee.org/abstract/document/8064049/){target="_blank"} <br/>
+  E. Esmaili, A. Akoglu, G. Ditzler, S. Hariri, J. Szep and T. Moukabary <br/>
   IEEE International Conference on Cloud and Autonomic Computing, 2017. (best paper award)
-- [Fraud Analysis Approaches in the Age of Big Data - A Review of State of the Art](http://ieeexplore.ieee.org/abstract/document/8064067/){target="_blank"} <br />
-  S. Makki, R. Haque, Y. Taher, Z. Assaghir, G. Ditzler, M.-S. Hacid and H. Zeineddine <br />
+- [Fraud Analysis Approaches in the Age of Big Data - A Review of State of the Art](http://ieeexplore.ieee.org/abstract/document/8064067/){target="_blank"} <br/>
+  S. Makki, R. Haque, Y. Taher, Z. Assaghir, G. Ditzler, M.-S. Hacid and H. Zeineddine <br/>
   International Workshop on Autonomic Systems for Big Data Analytics, 2017.
-- [A Fast Information-theoretic Approximation of Joint Mutual Information Feature Selection](http://ieeexplore.ieee.org/abstract/document/7966441/?reload=true){target="_blank"} <br />
-  H. Liu and G. Ditzler <br />
+- [A Fast Information-theoretic Approximation of Joint Mutual Information Feature Selection](http://ieeexplore.ieee.org/abstract/document/7966441/?reload=true){target="_blank"} <br/>
+  H. Liu and G. Ditzler <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2017.
-- [The AKRON-Kalman Filter for Tracking Time-Varying Networks](http://ieeexplore.ieee.org/abstract/document/7897268/){target="_blank"} <br />
-  V. Carluccio, N. Bouaynaya, G. Ditzler, and H. M. Fathallah Shaykh <br />
+- [The AKRON-Kalman Filter for Tracking Time-Varying Networks](http://ieeexplore.ieee.org/abstract/document/7897268/){target="_blank"} <br/>
+  V. Carluccio, N. Bouaynaya, G. Ditzler, and H. M. Fathallah Shaykh <br/>
   IEEE International Conference on Biomedical and Health Informatics, 2017.
-- [A Study of Incremental Spectral Meta-Learning for Nonstationary Environments](http://ieeexplore.ieee.org/abstract/document/7727178/){target="_blank"} <br />
-  G. Ditzler   <br />
+- [A Study of Incremental Spectral Meta-Learning for Nonstationary Environments](http://ieeexplore.ieee.org/abstract/document/7727178/){target="_blank"} <br/>
+  G. Ditzler   <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2016.
-- [Scaling a Neyman-Pearson subset selection approach via heuristics for mining massive data ](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008701){target="_blank"}<br />
-  G. Ditzler, M. Austen, R, Polikar, and G. Rosen <br />
+- [Scaling a Neyman-Pearson subset selection approach via heuristics for mining massive data ](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008701){target="_blank"}<br/>
+  G. Ditzler, M. Austen, R, Polikar, and G. Rosen <br/>
   IEEE Symposium on Computational Intelligence in Data Mining, 2014. (travel award) 
-- [Feature Subset Selection for Inferring Relative Importance of Taxonomy](http://dl.acm.org/citation.cfm?id=2660824){target="_blank"} <br />
-  G. Ditzler and G. Rosen <br />
+- [Feature Subset Selection for Inferring Relative Importance of Taxonomy](http://dl.acm.org/citation.cfm?id=2660824){target="_blank"} <br/>
+  G. Ditzler and G. Rosen <br/>
   ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)
-- [Domain Adaptation Bounds for Multiple Expert Systems Under Concept Drift](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6889909){target="_blank"} <br />
-  G. Ditzler, G. Rosen, and R. Polikar <br />
+- [Domain Adaptation Bounds for Multiple Expert Systems Under Concept Drift](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6889909){target="_blank"} <br/>
+  G. Ditzler, G. Rosen, and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2014. (travel award & best student paper) 
-- [Incremental learning of new classes with unbalanced data](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6706770){target="_blank"} <br />
-  G. Ditzler, G. Rosen, and R. Polikar <br />
+- [Incremental learning of new classes with unbalanced data](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6706770){target="_blank"} <br/>
+  G. Ditzler, G. Rosen, and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2013.
-- [Discounted expert weighting for concept drift](http://ieeexplore.ieee.org/document/6595773/?arnumber=6595773){target="_blank"} <br />
-  G. Ditzler, G. Rosen and R. Polikar <br />
+- [Discounted expert weighting for concept drift](http://ieeexplore.ieee.org/document/6595773/?arnumber=6595773){target="_blank"} <br/>
+  G. Ditzler, G. Rosen and R. Polikar <br/>
   IEEE International Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2013.
 - [Information theoretic feature selection for high dimensional metagenomic data](http://ieeexplore.ieee.org/document/6507749/?arnumber=6507749){target="_blank"} <br />
-  G. Ditzler, R. Polikar, and G. Rosen <br />
+  G. Ditzler, R. Polikar, and G. Rosen <br/>
   IEEE International Workshop on Genomic Signal Processing and Statistics, 2012.
-- [A transductive learning algorithm for concept drift](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6252494){target="_blank"} <br />
-  G. Ditzler, G. Rosen and R. Polikar <br />
+- [A transductive learning algorithm for concept drift](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6252494){target="_blank"} <br/>
+  G. Ditzler, G. Rosen and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2012.
-- [Determining significance in metagenomics](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6207004){target="_blank"} <br />
-  G. Ditzler, R. Polikar and G. Rosen <br />
+- [Determining significance in metagenomics](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6207004){target="_blank"} <br/>
+  G. Ditzler, R. Polikar and G. Rosen <br/>
   IEEE North Eastern Biomedical Engineering Conference, 2012.
-- [Forensic identification with environmental samples](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6288265){target="_blank"} <br />
-  G. Ditzler, R. Polikar, and G. Rosen   <br />
+- [Forensic identification with environmental samples](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6288265){target="_blank"} <br/>
+  G. Ditzler, R. Polikar, and G. Rosen   <br/>
   IEEE International Conference on Acoustic, Speech and Signal Processing, 2012.
-- [Semi-supervised learning in nonstationary environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6033578){target="_blank"} <br />
-  G. Ditzler and R. Polikar <br />
+- [Semi-supervised learning in nonstationary environments](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6033578){target="_blank"} <br/>
+  G. Ditzler and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2011. (student travel award)
-- [Hellinger distance based drift detection algorithm](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5948491){target="_blank"} <br />
-  G. Ditzler and R. Polikar  <br />
+- [Hellinger distance based drift detection algorithm](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5948491){target="_blank"} <br/>
+  G. Ditzler and R. Polikar  <br/>
   IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2011.
-- [Fusion methods for boosting performance of speaker identification systems](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5774964){target="_blank"} <br />
-  G. Ditzler, J. Ethridge, R. Polikar, and R. Ramachandran <br />
+- [Fusion methods for boosting performance of speaker identification systems](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5774964){target="_blank"} <br/>
+  G. Ditzler, J. Ethridge, R. Polikar, and R. Ramachandran <br/>
   Asia Pacific Conference of Circuits and Systems, 2010.
-- [An incremental learning algorithm for nonstationary environments and imbalanced data](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5597278){target="_blank"} <br />
-  G. Ditzler, R. Polikar, and N. V. Chawla <br />
+- [An incremental learning algorithm for nonstationary environments and imbalanced data](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5597278){target="_blank"} <br/>
+  G. Ditzler, R. Polikar, and N. V. Chawla <br/>
   International Conference on Pattern Recognition, 2010.
-- [Optimal $\nu$-SVM parameter estimation using multi-objective evolutionary algorithms](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5586029){target="_blank"} <br />
-  J. Ethridge, G. Ditzler, and R. Polikar <br />
+- [Optimal $\nu$-SVM parameter estimation using multi-objective evolutionary algorithms](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5586029){target="_blank"} <br/>
+  J. Ethridge, G. Ditzler, and R. Polikar <br/>
   IEEE Congress on Evolutionary Computing, 2010.
-- [An ensemble-based incremental learning framework for concept drift and class imbalance](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5596764){target="_blank"} <br />
-  G. Ditzler and R. Polikar <br />
+- [An ensemble-based incremental learning framework for concept drift and class imbalance](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5596764){target="_blank"} <br/>
+  G. Ditzler and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2010.
-- [Incremental learning of new classes in unbalanced data: Learn++.UDNC](https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4){target="_blank"} <br />
-  G. Ditzler, M. Muhlbaier, and R. Polikar <br />
+- [Incremental learning of new classes in unbalanced data: Learn++.UDNC](https://link.springer.com/chapter/10.1007/978-3-642-12127-2_4){target="_blank"} <br/>
+  G. Ditzler, M. Muhlbaier, and R. Polikar <br/>
   International Workshop on Multiple Classifier Systems, 2010.
 
 

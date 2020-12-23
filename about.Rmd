@@ -9,7 +9,7 @@ img <- readPNG("greg2.png")
  grid.raster(img)
 ```
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](http://www.ece.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning.
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning.
 
 
 ## Education 
@@ -27,26 +27,26 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 ## Funding 
 - "Tactical Cyber Immune System," $200k, PI, __Army Research Office STTR Phase II__ 
-- "REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle," Co-PI, $415k, __National Science Foundation__ 
-- "CAREER: Learning in Adversarial and Nonstationary Environments," PI, $500k, __National Science Foundation__ 
+- "[REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359){target="_blank"}," Co-PI, $415k, __National Science Foundation__ 
+- "[CAREER: Learning in Adversarial and Nonstationary Environments](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&HistoricalAwards=false){target="_blank"}," PI, $500k, __National Science Foundation__ 
 - "AMAP-based Autonomic Security Operations Center," $200k, Co-PI, __Air Force Research Lab SBIR Phase II__ 
-- "PACT: Partnership for Proactive Cybersecurity Training," $3,000k, Co-PI, __Department of Energy__ 
-- "Doctoral Symposium at the IEEE International Conference on Autonomic Computing," $15k, PI, __National Science Foundation__ 
+- "[PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}," $3,000k, Co-PI, __Department of Energy__ 
+- "[Doctoral Symposium at the IEEE International Conference on Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1907321&HistoricalAwards=false){target="_blank"}," $15k, PI, __National Science Foundation__ 
 - "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology," $15k, PI, __Office of Naval Research STTR Phase I__ 
 - "Adversarial Threats to Feature Selection," $15k, PI, __Air Force Office of Scientific Research VFRP__ 
 - "Techniques to Adjust Computational Trends Involving Changing Data," $54k, PI, __Office of Naval Research STTR Phase I__ 
 - "Autonomic Monitoring, Analysis, and Protection," $30k, PI, __Air Force Office of Scientific Research STTR Phase II__ 
-- "Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing," PI, $15k, __National Science Foundation__ 
+- "[Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740456&HistoricalAwards=false){target="_blank"}," PI, $15k, __National Science Foundation__ 
 - "Tactical Cyber Immune System," PI, $30k,  __Army Research Office STTR Phase I__ 
-- "Analysis of Large Data Sets,", PI, $15k,  __Air Force Office of Scientific Research SFFP__ 
+- "[Analysis of Large Data Sets](https://afsffp.sysplus.com/SFFP/awardees/2016.aspx){target="_blank"}," PI, $15k,  __Air Force Office of Scientific Research SFFP__ 
 
 
 
 ## Teaching 
-- ECE175 [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] - Computer Programming for Engineering Applications 
-- ECE429/529 [[F2018](syllabus/ece429529_fa2018.pdf){target="_blank"}, [F2020](syllabus/ece429529_fa2020.pdf){target="_blank"}] - Introduction to Digital Signal Processing
-- ECE441a/541a [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [F2019](syllabus/ece441541_fa2019.pdf){target="_blank"}] - Automatic Control
-- ECE523 [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}] - Engineering Applications of Machine Learning and Data Analytics
+- ECE175 - Computer Programming for Engineering Applications [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] 
+- ECE429/529 - Introduction to Digital Signal Processing [[F2018](syllabus/ece429529_fa2018.pdf){target="_blank"}, [F2020](syllabus/ece429529_fa2020.pdf){target="_blank"}]
+- ECE441a/541a - Automatic Control [[F2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [F2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [F2019](syllabus/ece441541_fa2019.pdf){target="_blank"}] 
+- ECE523 - Engineering Applications of Machine Learning and Data Analytics  [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}, [Sp2021](syllabus/ece523_sp2021.pdf){target="_blank"}] 
 
 
 ## In the News 
@@ -57,28 +57,6 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 * [$3M Grant to Create Cybersecurity Modeled After Human Body](https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body){target="_blank"}
 * [IEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award](https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award){target="_blank"}
 * [Five New Faculty Members Boost Research and Academics](https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics){target="_blank"}
-
-
-## Awards 
-- [2020] NSF CAREER 
-- [2018] Air Force Research Labs Visiting Faculty Fellowship 
-- [2018] IEEE CIS Computational Intelligence Magazine Outstanding Paper Award (2015)
-- [2017] IEEE International Conference on Cloud & Autonomic Computing Best Paper Award
-- [2016] Air Force Research Labs Summer Faculty Fellowship
-- [2015] Joseph and Shirley Carleone Endowed Fellowship
-- [2015] Drexel University's Office of Graduate Studies Research Excellence Award
-- [2015] Best Poster at the Drexel IEEE Research Day Poster Competition
-- [2014] IEEE SSCI Doctoral Consortium Travel Award
-- [2014] NSF Travel Award to the ACM International Workshop on Big Data in Life Sciences
-- [2014] Best Student Paper at the International Joint Conference on Neural Networks
-- [2014] IEEE Computational Intelligence Society Travel Award
-- [2013] Nihat Bilgutay  Award
-- [2013] Koerner Family Engineering  Award
-- [2012] Defense Threat Reduction Agency & NSF Algorithms Workshop Travel Grant
-- [2011] NSF Travel Award to the International Joint Conference on Neural Networks
-- [2011] Graduate Research Achievement Award, Rowan University
-- [2008] Award for Outstanding Leadership & Service to the Pennsylvania College of Technology IEEE Branch
-- [2008] Penn College Award for Leadership to the College and Community
 
 
 
