@@ -26,16 +26,16 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 - __QorTek, Inc. (2009)__ Electronics Systems Engineer 
 
 ## Funding 
-- "Tactical Cyber Immune System," $200k, PI, __Army Research Office STTR Phase II__ 
+- "Tactical Cyber Immune System," PI, $200k, __Army Research Office STTR Phase II__ 
 - "[REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359){target="_blank"}," Co-PI, $415k, __National Science Foundation__ 
 - "[CAREER: Learning in Adversarial and Nonstationary Environments](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&HistoricalAwards=false){target="_blank"}," PI, $500k, __National Science Foundation__ 
-- "AMAP-based Autonomic Security Operations Center," $200k, Co-PI, __Air Force Research Lab SBIR Phase II__ 
-- "[PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}," $3,000k, Co-PI, __Department of Energy__ 
-- "[Doctoral Symposium at the IEEE International Conference on Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1907321&HistoricalAwards=false){target="_blank"}," $15k, PI, __National Science Foundation__ 
-- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology," $15k, PI, __Office of Naval Research STTR Phase I__ 
-- "Adversarial Threats to Feature Selection," $15k, PI, __Air Force Office of Scientific Research VFRP__ 
-- "Techniques to Adjust Computational Trends Involving Changing Data," $54k, PI, __Office of Naval Research STTR Phase I__ 
-- "Autonomic Monitoring, Analysis, and Protection," $30k, PI, __Air Force Office of Scientific Research STTR Phase II__ 
+- "AMAP-based Autonomic Security Operations Center," Co-PI, $200k, __Air Force Research Lab SBIR Phase II__ 
+- "[PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}," Co-PI, $3,000k, __Department of Energy__ 
+- "[Doctoral Symposium at the IEEE International Conference on Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1907321&HistoricalAwards=false){target="_blank"}," PI, $15k, __National Science Foundation__ 
+- "Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology," PI, $15k, __Office of Naval Research STTR Phase I__ 
+- "Adversarial Threats to Feature Selection," PI, $15k, __Air Force Office of Scientific Research VFRP__ 
+- "Techniques to Adjust Computational Trends Involving Changing Data," PI, $54k, __Office of Naval Research STTR Phase I__ 
+- "Autonomic Monitoring, Analysis, and Protection," PI, $30k,  __Air Force Office of Scientific Research STTR Phase II__ 
 - "[Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740456&HistoricalAwards=false){target="_blank"}," PI, $15k, __National Science Foundation__ 
 - "Tactical Cyber Immune System," PI, $30k,  __Army Research Office STTR Phase I__ 
 - "[Analysis of Large Data Sets](https://afsffp.sysplus.com/SFFP/awardees/2016.aspx){target="_blank"}," PI, $15k,  __Air Force Office of Scientific Research SFFP__ 
