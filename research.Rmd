@@ -4,13 +4,11 @@ title: "Research Group"
 
 
 ## PhD 
-- Kory Staab (ECE 2021--Present)
+- [Kory Staab](https://www.linkedin.com/in/kory-staab-ab54b8179/) (ECE 2021--Present)
 - [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2020--Present) 
 - Jason Ligon (ECE 2018--Present)
--- Co-advised with [Ivan Djordjevic](https://ece.engineering.arizona.edu/faculty-staff/faculty/ivan-b-djordjevic){target="_blank"}
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present)
 - Samuel Hess (ECE 2016--Present) ABD
-- [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"} (ECE 2015--Present) ABD
 
 ## MSc 
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
@@ -32,8 +30,8 @@ title: "Research Group"
 ### Graduate 
 - [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2018)
 - [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/){target="_blank"}, MSc (2018)
+- [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"}, PhD (2021)
 - [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019)
--- Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit){target="_blank"}
 
 
 ### Graduate Interns 

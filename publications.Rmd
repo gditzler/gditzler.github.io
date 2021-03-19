@@ -2,29 +2,6 @@
 title: "Summary of Contributions"
 ---
 
-## Under review / revision 
-- Data Poisoning Against Information-Theoretic Feature Selection <br/>
-  H. Liu and G. Ditzler <br/>
-  under revision, 2021. 
-- Bolstering Adversarial Robustness with Latent Disparity Regularization <br/>
-  D. Schwartz and G. Ditzler <br/>
-  submitted, 2021. 
-- OrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning <br/>
-  S. Hess and G. Ditzler <br/>
-  submitted, 2021. 
-- Gradient-Based Attacks on Information-Theoretic Feature Selection <br/>
-  S. Gupta, R. Golota, E. Zambrana and G. Ditzler <br/>
-  submitted, 2021. 
-- Online Ensemble Learning for Robust Intrusion Detection with Large Volume Data Streams <br/>
-  G. Ditzler, S. Gupta, P. Satam, and S. Hariri  <br/>
-  submitted, 2021. 
-- Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks <br/>
-  D. Schwartz, T. Sawyer, N. Thurston, J. Barton, and G. Ditzler  <br/>
-  submitted, 2020. 
-- Weakly Semi-Supervised Joint Semantic Understanding for Segmentation and Depth Estimation <br/>
-  K.-S. Peng, G. Ditzler and J. Rozenblit <br/>
-  submitted, 2020. 
-
 
 
 ## Journals 
