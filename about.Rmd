@@ -9,7 +9,7 @@ img <- readPNG("greg2.png")
  grid.raster(img)
 ```
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning. [You can read my full CV here](ditzler-cv.pdf).
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/) at [The University of Arizona](http://www.arizona.edu/), where I perform research in data mining and applied machine learning.
 
 
 ## Education 
