@@ -5,7 +5,7 @@ title: "About Me"
 ```{r fig.width=2, fig.height=2,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("greg2.png")
+img <- readPNG("greg5.png")
  grid.raster(img)
 ```
 
@@ -72,7 +72,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
    __National Science Foundation__ 
 - "Tactical Cyber Immune System," 
    PI, 
-   $30k,  
+   $30k,
    __Army Research Office STTR Phase I__ 
 - "[Analysis of Large Data Sets](https://afsffp.sysplus.com/SFFP/awardees/2016.aspx){target="_blank"}," 
    PI, 
