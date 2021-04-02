@@ -14,6 +14,7 @@ title: "Research Group"
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
 
 ## Undergraduate
+- Drew Howell (CS 2021--Present)
 - Javier Cota (ECE 2020--Present)
 - Roman Golota (ECE 2020--Present)
 
