@@ -26,7 +26,7 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: yeti
+    theme: readable
     highlight: pygments
     include:
       after_body: footer.html
