@@ -6,4 +6,4 @@ Our group is open to consider positions for graduate students at the MSc and Ph.
 
 If you are currently a student at the University of Arizona, contact Gregory Ditzler at ditzler (at) arizona.edu with your resume and research interests. Please include any publications if you have them. If you are not at the University of Arizona, you should apply for graduate studies.
 
-
+You should read "[How to Be a Successful PhD Student](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf)" by Hanna Wallach and Mark Dredze. It is well-written guide that provides to tips on being successful in graduate school. 
