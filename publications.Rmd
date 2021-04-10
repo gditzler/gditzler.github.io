@@ -51,7 +51,14 @@ title: "Summary of Contributions"
 
 
 
+
 ## Conferences 
+- [Bolstering Adversarial Robustness with Latent Disparity Regularization](https://www.ijcnn.org/){target="_blank"} <br/>
+  D. Schwartz and G. Ditzler<br/>
+  IEEE/INNS International Joint Conference on Neural Networks, 2021.
+- [OrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning](https://www.ijcnn.org/){target="_blank"} <br/>
+  S. Hess and G. Ditzler<br/>
+  IEEE/INNS International Joint Conference on Neural Networks, 2021.
 - [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   International Symposium on Visual Computing, 2020 
