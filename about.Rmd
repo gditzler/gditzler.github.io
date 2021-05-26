@@ -9,7 +9,7 @@ img <- readPNG("greg5.png")
  grid.raster(img)
 ```
 
-I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/){target="_blank"} at [The University of Arizona](http://www.arizona.edu/){target="_blank"}, where I perform research in data mining and applied machine learning. Please check out my [calendar](https://outlook.office365.com/owa/calendar/be341615cd5e43f19602f4c896b1f012@arizona.edu/c3214c4e86374d018e94481cf78321c31456814728421178013/calendar.html){target="_blank"} if you'd like to set up an appointment. 
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/){target="_blank"} at [The University of Arizona](http://www.arizona.edu/){target="_blank"}, where I perform research in data mining and applied machine learning. 
 
 
 ## Education 
