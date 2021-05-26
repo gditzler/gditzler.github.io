@@ -6,6 +6,7 @@ title: "Research Group"
 ## PhD 
 - [Kory Staab](https://www.linkedin.com/in/kory-staab-ab54b8179/) (ECE 2021--Present)
 - [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2020--Present) 
+- [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/)]
 - Jason Ligon (ECE 2018--Present)
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present)
 - Samuel Hess (ECE 2016--Present) ABD
@@ -14,8 +15,6 @@ title: "Research Group"
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
 
 ## Undergraduate
-- Drew Howell (CS 2021--Present)
-- Javier Cota (ECE 2020--Present)
 - Roman Golota (ECE 2020--Present)
 
 ## Summer Undgraduate Research Students
@@ -43,10 +42,12 @@ title: "Research Group"
 
 
 ### Undergraduate 
-
+- Eduardo Zambrana (ECE 2020)
 - [Diego Alcantera](https://www.linkedin.com/in/diego-k-alcantara/){target="_blank"} (ECE 2020)
 - Jack Blake (ECE 2020)
+- Javier Cota (ECE 2020/21)
 - [Andrew Burger](https://www.linkedin.com/in/andrew-burger-8a628870){target="_blank"} (ECE 2018/19)
+- Drew Howell (CS 2021)
 - Sean Miller (CS/ECE 2017)
 - [Noah Thurston](https://www.linkedin.com/in/noah-t-180021b7/){target="_blank"} (ECE 2019)
 - Eduardo Zambrana (ECE 2020)
