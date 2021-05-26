@@ -25,8 +25,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 | Position | Location | Dates |
 | ---- | ----------- |---|
-| Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--Preset |
-| Assistant Professor |  | 2015--2021 |
+| Assistant Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2015--Preset |
 | Graduate Research Assistant | [Drexel University](https://drexel.edu/){target="_blank"}  |2011--2015 |
 | Research Intern | [AT&T Research Labs](https://about.att.com/sites/labs_research){target="_blank"} | 2013 |
 | Adjunct Professor | [Rowan University](https://www.rowan.edu/){target="_blank"} |2010--2015 |
