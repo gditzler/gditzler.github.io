@@ -5,9 +5,10 @@ title: "Summary of Contributions"
 
 
 ## Journals 
-- [Data Poisoning Against Information-Theoretic Feature Selection](https://www.sciencedirect.com/science/article/pii/S0020025521005090){target="_blank"} <br/>
+- [Data Poisoning Against Information-Theoretic Feature Selection](
+https://doi.org/10.1016/j.ins.2021.05.049){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
-  Information Sciences, 2021 [accepted].   
+  Information Sciences, 2021, vol. 573, pp. 396-411.   
 - [A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546){target="_blank"} <br/>
   J.-H. Jeong, H. Jo, and G. Ditzler <br/>
   Computer-Aided Civil and Infrastructure Engineering, 2020. 

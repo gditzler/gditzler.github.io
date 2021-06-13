@@ -25,7 +25,8 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
 
 | Position | Location | Dates |
 | ---- | ----------- |---|
-| Assistant Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2015--Preset |
+| Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--Preset |
+| Assistant Professor |   | 2015--2021 |
 | Graduate Research Assistant | [Drexel University](https://drexel.edu/){target="_blank"}  |2011--2015 |
 | Research Intern | [AT&T Research Labs](https://about.att.com/sites/labs_research){target="_blank"} | 2013 |
 | Adjunct Professor | [Rowan University](https://www.rowan.edu/){target="_blank"} |2010--2015 |
@@ -65,7 +66,7 @@ I am an Assistant Professor in the [Department of Electrical and Computer Engine
   Role: Principal Investigator  <br/>
   Amount: $15,000  <br/>
   Sponsor: __National Science Foundation__ 
-- Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology <br/>
+- [Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology](https://www.sbir.gov/sbirsearch/detail/1516283){target="_blank"} <br/>
   Role: Principal Investigator  <br/>
   Amount: $15k,  <br/>
   Sponsor: __Office of Naval Research STTR Phase I__ 
