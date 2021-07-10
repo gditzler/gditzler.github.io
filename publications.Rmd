@@ -57,6 +57,9 @@ https://doi.org/10.1016/j.ins.2021.05.049){target="_blank"} <br/>
 
 
 ## Conferences 
+- [Adversarial Filters for Secure Modulation Classification](http://www.asilomarssc.org/){target="_blank"} <br/>
+  A. Berian, K. Staab, G. Ditzler, T. Bose, and R. Tandon<br/>
+  Asilomar Conference on Signals, Systems and Computers, 2021.
 - [Bolstering Adversarial Robustness with Latent Disparity Regularization](https://www.ijcnn.org/){target="_blank"} <br/>
   D. Schwartz and G. Ditzler<br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2021.

@@ -5,50 +5,24 @@ title: "Research Group"
 
 ## PhD 
 - [Kory Staab](https://www.linkedin.com/in/kory-staab-ab54b8179/) (ECE 2021--Present)
-- [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2020--Present) 
-- [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/)]
+- [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/) and [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda) 
+- [Huayu Li](https://www.researchgate.net/profile/Huayu-Li-3) (ECE 2021--Present)
 - Jason Ligon (ECE 2018--Present)
+- [Martin Lopez](https://www.linkedin.com/in/martin-manuel-lopez-94725442/) (ECE 2021--Present)
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present)
 - Samuel Hess (ECE 2016--Present) ABD
 
-## MSc 
-- [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"} (ECE 2020--Present)
 
 ## Undergraduate
 - Roman Golota (ECE 2020--Present)
 
-## Summer Undgraduate Research Students
-- Sebastian Valencia (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- [Ulrich Zongo](https://www.linkedin.com/in/ulrich-stephane-zongo/){target="_blank"} (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- Eduardo Zambrana (2020; UArizona) – Supported by [DOE PACT](https://nnsa-pact.org/){target="_blank"} ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) – Supported by [NSF CAT REU](https://www.youtube.com/watch?v=4daCwJsk6-Y&feature=emb_title&ab_channel=CalvinBarrett){target="_blank"} ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be){target="_blank"})
-- [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln) – Supported by [NSF CAT REU](http://catvehicle.arizona.edu/){target="_blank"} ([presentation](https://www.youtube.com/watch?v=vlJAxQZX9xc&feature=emb_title){target="_blank"})
 
+## Graduate Alumni 
 
-## Alumni 
-
-### Graduate 
 - [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2018)
 - [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/){target="_blank"}, MSc (2018)
 - [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"}, PhD (2021)
-- [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019)
+- [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019), Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit)
 
-
-### Graduate Interns 
-- [Brandon Black](https://www.linkedin.com/in/brandonleeblack/){target="_blank"} (ECE 2019--2020)
-- [Sebastian Thiem](https://www.linkedin.com/in/sebastian-thiem-4b25b1159/){target="_blank"} (ECE 2019--2020)
-- [Zili Rong](https://www.linkedin.com/in/zili-rong/){target="_blank"} (ECE 2017--2018)
-- [Jonathan Gill](https://www.linkedin.com/in/therealjtgill/){target="_blank"} (ECE 2016--2017) 
-
-
-### Undergraduate 
-- Eduardo Zambrana (ECE 2020)
-- [Diego Alcantera](https://www.linkedin.com/in/diego-k-alcantara/){target="_blank"} (ECE 2020)
-- Jack Blake (ECE 2020)
-- Javier Cota (ECE 2020/21)
-- [Andrew Burger](https://www.linkedin.com/in/andrew-burger-8a628870){target="_blank"} (ECE 2018/19)
-- Drew Howell (CS 2021)
-- Sean Miller (CS/ECE 2017)
-- [Noah Thurston](https://www.linkedin.com/in/noah-t-180021b7/){target="_blank"} (ECE 2019)
-- Eduardo Zambrana (ECE 2020)
+See all [alumni here](http://gditzler.github.io/alumni.html). 
 

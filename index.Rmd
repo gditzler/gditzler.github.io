@@ -8,7 +8,7 @@ My current research interests are in machine. More specifically:
 
 - Adversarial Machine Learning: Security, Defenses and Attacks
 - Learning from Large Volume Data Streams with Changing Dynamics 
-- Applications of Machine Learning: Cybersecurity, Metagenomics, and Medicine 
+- Applications of Machine Learning: Cybersecurity, Life Science, and Medicine 
 
 
 
