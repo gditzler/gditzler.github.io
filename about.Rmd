@@ -100,7 +100,7 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
 ## Teaching 
 - ECE175 - Computer Programming for Engineering Applications [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] 
 - ECE429/529 - Introduction to Digital Signal Processing [[Fa2018](syllabus/ece429529_fa2018.pdf){target="_blank"}, [Fa2020](syllabus/ece429529_fa2020.pdf){target="_blank"}]
-- ECE441a/541a - Automatic Control [[Fa2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [Fa2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [Fa2019](syllabus/ece441541_fa2019.pdf){target="_blank"}, Fa2021] 
+- ECE441a/541a - Automatic Control [[Fa2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [Fa2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [Fa2019](syllabus/ece441541_fa2019.pdf){target="_blank"}, [Fa2021](syllabus/ece441541_fa2021.pdf){target="_blank"}] 
 - ECE523 - Engineering Applications of Machine Learning and Data Analytics  [[Sp2017](syllabus/ece523_sp2017.pdf){target="_blank"}, [Sp2018](syllabus/ece523_sp2018.pdf){target="_blank"}, [Sp2019](syllabus/ece523_sp2019.pdf){target="_blank"}, [Sp2020](syllabus/ece523_sp2020.pdf){target="_blank"}, [Sp2021](syllabus/ece523_sp2021.pdf){target="_blank"}] 
 
 
