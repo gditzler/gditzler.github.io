@@ -5,6 +5,9 @@ title: "Summary of Contributions"
 
 
 ## Journals 
+- [Attack Transferability Against Information-Theoretic Feature Selection](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) <br/>
+  S. Gupta and G. Ditzler <br/>
+  IEEE Access, accepted. 
 - [Data Poisoning Against Information-Theoretic Feature Selection](
 https://doi.org/10.1016/j.ins.2021.05.049){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
