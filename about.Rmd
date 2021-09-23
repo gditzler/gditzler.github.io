@@ -36,8 +36,8 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
 
 
 ## Current Funding 
-- [Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period](https://grantome.com/grant/NIH/DP2-HD105541-01){target="_blank"}, <br/>
-   Role: Senior Personnel,  <br/>
+- [Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period](https://grantome.com/grant/NIH/DP2-HD105541-01){target="_blank"} <br/>
+   Role: Senior Personnel  <br/>
    Amount: $2,300,000  <br/>
    Sponsor: __National Institues of Health__ 
 - Tactical Cyber Immune System  <br/>
@@ -45,56 +45,19 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
    Amount: $200,000  <br/>
    Sponsor: __Army Research Office STTR Phase II__ 
 - [REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359){target="_blank"}  <br/>
-   Role: Co-Investigator,  <br/>
+   Role: Co-Investigator  <br/>
    Amount: $415,000,  <br/>
    Sponsor: __National Science Foundation__ 
 - [CAREER: Learning in Adversarial and Nonstationary Environments](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&HistoricalAwards=false){target="_blank"}  <br/>
-   Role: Principal Investigator,  <br/>
+   Role: Principal Investigator  <br/>
    Amount: $500,000,  <br/>
    Sponsor: __National Science Foundation__ 
-- AMAP-based Autonomic Security Operations Center  <br/>
-   Role: Co-Investigator  <br/>
-   Amount: $200,000  <br/>
-   Sponsor: __Air Force Research Lab SBIR Phase II__ 
 - [PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}  <br/> 
    Role: Co-Investigator  <br/>
    Amount: $3,000,000  <br/>
    Sponsor: __Department of Energy__ 
 
-## Previous Funding 
-- [Doctoral Symposium at the IEEE International Conference on Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1907321&HistoricalAwards=false){target="_blank"}  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $15,000  <br/>
-  Sponsor: __National Science Foundation__ 
-- [Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology](https://www.sbir.gov/sbirsearch/detail/1516283){target="_blank"} <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $15k,  <br/>
-  Sponsor: __Office of Naval Research STTR Phase I__ 
-- Adversarial Threats to Feature Selection  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $15,000  <br/>
-  Sponsor: __Air Force Office of Scientific Research VFRP__ 
-- Techniques to Adjust Computational Trends Involving Changing Data  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $54,000  <br/>
-  Sponsor: __Office of Naval Research STTR Phase I__ 
-- Autonomic Monitoring, Analysis, and Protection  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $30,000   <br/>
-  Sponsor: __Air Force Office of Scientific Research STTR Phase II__ 
-- [Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740456&HistoricalAwards=false){target="_blank"}  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $15,000  <br/>
-  Sponsor: __National Science Foundation__ 
-- Tactical Cyber Immune System  <br/>
-  Role: Principal Investigator  <br/>
-  Amount: $30k <br/>
-  Sponsor: __Army Research Office STTR Phase I__ 
-- [Analysis of Large Data Sets](https://afsffp.sysplus.com/SFFP/awardees/2016.aspx){target="_blank"}  <br/>
-  Role: Principal Investigator  <br/>
-  Amount:  $15k  <br/>
-  Sponsor: __Air Force Office of Scientific Research SFFP__ 
-
+See [previous funding here](http://gditzler.github.io/previousfunding.html). 
 
 
 ## Teaching 
@@ -105,6 +68,8 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
 
 
 ## In the News 
+* [Hands-On Research Experiences Sets Undergraduates Up for Success](https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success){target="_blank"}
+* [UArizona ECE News: Adegbija, Ditzler and Akoglu Promoted](https://ece.engineering.arizona.edu/news-events/adegbija-ditzler-and-akoglu-promoted){target="_blank"}
 * [UArizona ECE Magazine 2021](https://issuu.com/azengineering/docs/ece_2021magazine){target="_blank"}
 * [Lebanon County native receives National Science Foundation award](https://www.pennlive.com/news/2020/07/lebanon-county-native-receives-national-science-foundation-award.html){target="_blank"}
 * [Penn College alum honored with NSF award](https://pctoday.pct.edu/penn-college-alum-honored-with-nsf-faculty-award/){target="_blank"}

@@ -5,9 +5,9 @@ title: "Summary of Contributions"
 
 
 ## Journals 
-- [Attack Transferability Against Information-Theoretic Feature Selection](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) <br/>
+- [Attack Transferability Against Information-Theoretic Feature Selection](https://ieeexplore.ieee.org/document/9514862){target="_blank"} <br/>
   S. Gupta, R. Golota and G. Ditzler <br/>
-  IEEE Access, accepted. 
+  IEEE Access, 2021, vol. 9, pp. 115885-115894. 
 - [Data Poisoning Against Information-Theoretic Feature Selection](https://doi.org/10.1016/j.ins.2021.05.049){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
   Information Sciences, 2021, vol. 573, pp. 396-411.   
@@ -59,6 +59,9 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
+- [Multi-Layer Mapping of Cyberspace for Intrusion Detection](https://www.aiccsa.net/AICCSA2021/index.php/home){target="_blank"} <br/>
+  S. Shao, P. Satam, S. Satam, K. AI-Awady, G. Ditzler, S. Hariri, and C. Tunc <br/>
+  ACS/IEEE International Conference on Computer Systems and Applications, 2021.
 - [Adversarial Filters for Secure Modulation Classification](http://www.asilomarssc.org/){target="_blank"} <br/>
   A. Berian, K. Staab, G. Ditzler, T. Bose, and R. Tandon<br/>
   Asilomar Conference on Signals, Systems and Computers, 2021.
