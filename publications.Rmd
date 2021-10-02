@@ -59,16 +59,19 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
+- [Intelligent Jamming of Deep Neural Network Based Signal Classification for Shared Spectrum](https://milcom2021.milcom.org/){target="_blank"} <br/>
+  W. Zhang, M. Krunz, and G. Ditzler <br/>
+  Military Communications Conference (MILCOM), 2021.
 - [Multi-Layer Mapping of Cyberspace for Intrusion Detection](https://www.aiccsa.net/AICCSA2021/index.php/home){target="_blank"} <br/>
   S. Shao, P. Satam, S. Satam, K. AI-Awady, G. Ditzler, S. Hariri, and C. Tunc <br/>
   ACS/IEEE International Conference on Computer Systems and Applications, 2021.
 - [Adversarial Filters for Secure Modulation Classification](http://www.asilomarssc.org/){target="_blank"} <br/>
   A. Berian, K. Staab, G. Ditzler, T. Bose, and R. Tandon<br/>
   Asilomar Conference on Signals, Systems and Computers, 2021.
-- [Bolstering Adversarial Robustness with Latent Disparity Regularization](https://www.ijcnn.org/){target="_blank"} <br/>
+- [Bolstering Adversarial Robustness with Latent Disparity Regularization](https://ieeexplore.ieee.org/abstract/document/9533815){target="_blank"} <br/>
   D. Schwartz and G. Ditzler<br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2021.
-- [OrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning](https://www.ijcnn.org/){target="_blank"} <br/>
+- [OrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/9533766){target="_blank"} <br/>
   S. Hess and G. Ditzler<br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2021.
 - [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6){target="_blank"} <br/>
