@@ -5,6 +5,9 @@ title: "Summary of Contributions"
 
 
 ## Journals 
+- [Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks](https://www.springer.com/journal/521){target="_blank"} <br/>
+  D. Schwartz, T. Sawyer, N. Thurston, J. Barton and G. Ditzler <br/>
+  Neural Computing and Applications, 2022, accepted.
 - [Attack Transferability Against Information-Theoretic Feature Selection](https://ieeexplore.ieee.org/document/9514862){target="_blank"} <br/>
   S. Gupta, R. Golota and G. Ditzler <br/>
   IEEE Access, 2021, vol. 9, pp. 115885-115894. 
