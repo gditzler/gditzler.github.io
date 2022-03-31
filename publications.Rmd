@@ -62,6 +62,9 @@ title: "Summary of Contributions"
 
 
 ## Conferences 
+- [Inter-Architecture Portability of Artificial Neural Networks and Side Channel Attacks](https://www.glsvlsi.org/){target="_blank"} <br/>
+  M. Gopale, G. Ditzler, R. Lysecky and J. Roveda <br/>
+  Great Lakes Symposium on VLSI  (GLSVLSI), 2022
 - [Intelligent Jamming of Deep Neural Network Based Signal Classification for Shared Spectrum](https://milcom2021.milcom.org/){target="_blank"} <br/>
   W. Zhang, M. Krunz, and G. Ditzler <br/>
   Military Communications Conference (MILCOM), 2021.
