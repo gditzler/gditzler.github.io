@@ -13,7 +13,7 @@
 
 <title>Working with me</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -47,6 +47,7 @@
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -71,6 +72,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -223,7 +227,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -298,9 +302,21 @@ $(document).ready(function () {
 </div>
 
 
-<p>Our group is open to consider positions for graduate students at the MSc and Ph.D. level. Funding is available for highly qualified students (preferably to Ph.D. students that have already completed their MSc thesis and have published in reputable journals and conferences). Preference will be given to exceptional students seeking to pursue a Ph.D. with interests in machine learning.</p>
-<p>If you are currently a student at the University of Arizona, contact Gregory Ditzler at ditzler (at) arizona.edu with your resume and research interests. Please include any publications if you have them. If you are not at the University of Arizona, you should apply for graduate studies.</p>
-<p>You should read “<a href="https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf">How to Be a Successful PhD Student</a>” by Hanna Wallach and Mark Dredze. It is well-written guide that provides to tips on being successful in graduate school.</p>
+<p>Our group is open to consider positions for graduate students at the
+MSc and Ph.D. level. Funding is available for highly qualified students
+(preferably to Ph.D. students that have already completed their MSc
+thesis and have published in reputable journals and conferences).
+Preference will be given to exceptional students seeking to pursue a
+Ph.D. with interests in machine learning.</p>
+<p>If you are currently a student at Rowan University, contact Gregory
+Ditzler at ditzler (at) rowan.edu with your resume and research
+interests. Please include any publications if you have them. If you are
+not at Rowan University, you should apply for graduate studies.</p>
+<p>You should read “<a
+href="https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf">How
+to Be a Successful PhD Student</a>” by Hanna Wallach and Mark Dredze. It
+is well-written guide that provides to tips on being successful in
+graduate school.</p>
 
   </div> <!-- articleBandContent -->
 </div> <!-- pageContent -->
@@ -313,7 +329,7 @@ $(document).ready(function () {
       <div class="col-md-4">
         <p><i class="fa fa-send fa-lg"></i> <font color="white">Connect with me</font><br>
         <a href="mailto:gregory.ditzler@gmail.com">gregory.ditzler@gmail.com</a><br>
-        <a href="mailto:ditzler@arizona.edu">ditzler@arizona.edu</a>
+        <a href="mailto:ditzler@rowan.edu">ditzler@rowan.edu</a>
         <br>
         <br>
       </div>
@@ -331,7 +347,7 @@ $(document).ready(function () {
         <a href="https://scholar.google.com/citations?user=diET1AsAAAAJ&hl=en/" target="_blank">
           &nbsp;&nbsp;&nbsp;
           <i class="fa fa-graduation-cap" style="font-size:48px;"></i>  </a>
-        <a href="http://www.arizona.edu/" target="_blank">
+        <a href="http://www.rowan.edu/" target="_blank">
           <i class="fa fa-university" style="font-size:48px;"></i>  </a>
         <br>
         <br>

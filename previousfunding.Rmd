@@ -3,6 +3,10 @@ title: "Previous Funding"
 ---
 
 ## Previous Funding 
+- [PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}  <br/> 
+   Role: Co-Investigator  <br/>
+   Amount: $3,000,000  <br/>
+   Sponsor: __Department of Energy__ 
 - AMAP-based Autonomic Security Operations Center  <br/>
    Role: Co-Investigator  <br/>
    Amount: $200,000  <br/>
