@@ -5,11 +5,11 @@ title: "About Me"
 ```{r fig.width=2, fig.height=2,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("greg5.png")
+img <- readPNG("greg22.png")
  grid.raster(img)
 ```
 
-I am an Associate Professor in the [Department of Electrical and Computer Engineering](https://ece.engineering.arizona.edu/){target="_blank"} at [The University of Arizona](http://www.arizona.edu/){target="_blank"}, where I perform research in data mining and applied machine learning (check out my [ECE faculty profile video](https://www.youtube.com/watch?v=Mxx785C3Law)). I am also an affiliated faculty with the Program in Applied Mathematics Program. 
+I am an Associate Professor in the [Department of Electrical and Computer Engineering](https://engineering.rowan.edu/programs/electricalcomputer/){target="_blank"} at [Rowan University](https://www.rowan.edu/){target="_blank"}, where I perform research in data mining and applied machine learning. 
 
 
 ## Education 
@@ -23,14 +23,12 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
 
 ## Employment  
 
-| Position | Location | Dates |
+| Position | Institution | Dates |
 | ---- | ----------- |---|
-| Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--Present |
+| Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--Present |
+| Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--2022 |
 | Assistant Professor |   | 2015--2021 |
-| Graduate Research Assistant | [Drexel University](https://drexel.edu/){target="_blank"}  |2011--2015 |
 | Research Intern | [AT&T Research Labs](https://about.att.com/sites/labs_research){target="_blank"} | 2013 |
-| Adjunct Professor | [Rowan University](https://www.rowan.edu/){target="_blank"} |2010--2015 |
-| Graduate Research Assistant | [Rowan University](https://www.rowan.edu/){target="_blank"} |2009--2011 |
 | Electronics Systems Engineer | [QorTek, Inc.](https://qortek.com/){target="_blank"} | 2009 |
 
 
@@ -52,15 +50,16 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
    Role: Principal Investigator  <br/>
    Amount: $500,000,  <br/>
    Sponsor: __National Science Foundation__ 
-- [PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}  <br/> 
-   Role: Co-Investigator  <br/>
-   Amount: $3,000,000  <br/>
-   Sponsor: __Department of Energy__ 
 
 See [previous funding here](http://gditzler.github.io/previousfunding.html). 
 
 
 ## Teaching 
+
+### Rowan University 
+- ECE09455/09555 - Machine Learning [[Fa2022](){target="_blank"}] 
+
+### University of Arizona 
 - ECE175 - Computer Programming for Engineering Applications [[Sp2016](syllabus/ece175_sp2016.pdf){target="_blank"}, [Fa2016](syllabus/ece175_fa2016.pdf){target="_blank"}] 
 - ECE429/529 - Introduction to Digital Signal Processing [[Fa2018](syllabus/ece429529_fa2018.pdf){target="_blank"}, [Fa2020](syllabus/ece429529_fa2020.pdf){target="_blank"}]
 - ECE441a/541a - Automatic Control [[Fa2015](syllabus/ece441541_fa2015.pdf){target="_blank"}, [Fa2017](syllabus/ece441541_fa2017.pdf){target="_blank"}, [Fa2019](syllabus/ece441541_fa2019.pdf){target="_blank"}, [Fa2021](syllabus/ece441541_fa2021.pdf){target="_blank"}] 

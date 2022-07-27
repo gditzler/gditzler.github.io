@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -47,6 +47,7 @@
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -71,6 +72,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -223,7 +227,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -299,10 +303,20 @@ $(document).ready(function () {
 
 
 <p><img src="about_files/figure-html/unnamed-chunk-1-1.png" width="192" /></p>
-<p>I am an Associate Professor in the <a href="https://ece.engineering.arizona.edu/" target="_blank">Department of Electrical and Computer Engineering</a> at <a href="http://www.arizona.edu/" target="_blank">The University of Arizona</a>, where I perform research in data mining and applied machine learning (check out my <a href="https://www.youtube.com/watch?v=Mxx785C3Law">ECE faculty profile video</a>). I am also an affiliated faculty with the Program in Applied Mathematics Program.</p>
+<p>I am an Associate Professor in the <a
+href="https://engineering.rowan.edu/programs/electricalcomputer/"
+target="_blank">Department of Electrical and Computer Engineering</a> at
+<a href="https://www.rowan.edu/" target="_blank">Rowan University</a>,
+where I perform research in data mining and applied machine
+learning.</p>
 <div id="education" class="section level2">
 <h2>Education</h2>
 <table>
+<colgroup>
+<col width="17%" />
+<col width="64%" />
+<col width="17%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Degree</th>
@@ -313,17 +327,20 @@ $(document).ready(function () {
 <tbody>
 <tr class="odd">
 <td><strong>PhD</strong></td>
-<td><a href="https://drexel.edu/" target="_blank">Drexel University</a></td>
+<td><a href="https://drexel.edu/" target="_blank">Drexel
+University</a></td>
 <td>2015</td>
 </tr>
 <tr class="even">
 <td><strong>MSc</strong></td>
-<td><a href="http://rowan.edu/" target="_blank">Rowan University</a></td>
+<td><a href="http://rowan.edu/" target="_blank">Rowan
+University</a></td>
 <td>2011</td>
 </tr>
 <tr class="odd">
 <td><strong>BSc</strong></td>
-<td><a href="https://www.pct.edu/" target="_blank">The Pennsylvania College of Technology</a></td>
+<td><a href="https://www.pct.edu/" target="_blank">The Pennsylvania
+College of Technology</a></td>
 <td>2008</td>
 </tr>
 </tbody>
@@ -332,43 +349,41 @@ $(document).ready(function () {
 <div id="employment" class="section level2">
 <h2>Employment</h2>
 <table>
+<colgroup>
+<col width="22%" />
+<col width="61%" />
+<col width="16%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Position</th>
-<th>Location</th>
+<th>Institution</th>
 <th>Dates</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Associate Professor</td>
-<td><a href="https://arizona.edu/" target="_blank">University of Arizona</a></td>
-<td>2021–Present</td>
+<td><a href="http://rowan.edu/" target="_blank">Rowan
+University</a></td>
+<td>2022–Present</td>
 </tr>
 <tr class="even">
+<td>Associate Professor</td>
+<td><a href="https://arizona.edu/" target="_blank">University of
+Arizona</a></td>
+<td>2021–2022</td>
+</tr>
+<tr class="odd">
 <td>Assistant Professor</td>
 <td></td>
 <td>2015–2021</td>
 </tr>
-<tr class="odd">
-<td>Graduate Research Assistant</td>
-<td><a href="https://drexel.edu/" target="_blank">Drexel University</a></td>
-<td>2011–2015</td>
-</tr>
 <tr class="even">
 <td>Research Intern</td>
-<td><a href="https://about.att.com/sites/labs_research" target="_blank">AT&amp;T Research Labs</a></td>
+<td><a href="https://about.att.com/sites/labs_research"
+target="_blank">AT&amp;T Research Labs</a></td>
 <td>2013</td>
-</tr>
-<tr class="odd">
-<td>Adjunct Professor</td>
-<td><a href="https://www.rowan.edu/" target="_blank">Rowan University</a></td>
-<td>2010–2015</td>
-</tr>
-<tr class="even">
-<td>Graduate Research Assistant</td>
-<td><a href="https://www.rowan.edu/" target="_blank">Rowan University</a></td>
-<td>2009–2011</td>
 </tr>
 <tr class="odd">
 <td>Electronics Systems Engineer</td>
@@ -381,38 +396,108 @@ $(document).ready(function () {
 <div id="current-funding" class="section level2">
 <h2>Current Funding</h2>
 <ul>
-<li><a href="https://grantome.com/grant/NIH/DP2-HD105541-01" target="_blank">Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period</a> <br/> Role: Senior Personnel <br/> Amount: $2,300,000 <br/> Sponsor: <strong>National Institues of Health</strong></li>
-<li>Tactical Cyber Immune System <br/> Role: Principal Investigator <br/> Amount: $200,000 <br/> Sponsor: <strong>Army Research Office STTR Phase II</strong></li>
-<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359" target="_blank">REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle</a> <br/> Role: Co-Investigator <br/> Amount: $415,000, <br/> Sponsor: <strong>National Science Foundation</strong></li>
-<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&amp;HistoricalAwards=false" target="_blank">CAREER: Learning in Adversarial and Nonstationary Environments</a> <br/> Role: Principal Investigator <br/> Amount: $500,000, <br/> Sponsor: <strong>National Science Foundation</strong></li>
-<li><a href="https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program" target="_blank">PACT: Partnership for Proactive Cybersecurity Training</a> <br/> Role: Co-Investigator <br/> Amount: $3,000,000 <br/> Sponsor: <strong>Department of Energy</strong></li>
+<li><a href="https://grantome.com/grant/NIH/DP2-HD105541-01"
+target="_blank">Hormonal Response to Infant Caregiving: A Novel Strategy
+to Break the Opioid Relapse Cycle During the Postpartum Period</a> <br/>
+Role: Senior Personnel <br/> Amount: $2,300,000 <br/> Sponsor:
+<strong>National Institues of Health</strong></li>
+<li>Tactical Cyber Immune System <br/> Role: Principal Investigator
+<br/> Amount: $200,000 <br/> Sponsor: <strong>Army Research Office STTR
+Phase II</strong></li>
+<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359"
+target="_blank">REU Site: CAT Vehicle: The Cognitive and Autonomous Test
+Vehicle</a> <br/> Role: Co-Investigator <br/> Amount: $415,000, <br/>
+Sponsor: <strong>National Science Foundation</strong></li>
+<li><a
+href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&amp;HistoricalAwards=false"
+target="_blank">CAREER: Learning in Adversarial and Nonstationary
+Environments</a> <br/> Role: Principal Investigator <br/> Amount:
+$500,000, <br/> Sponsor: <strong>National Science
+Foundation</strong></li>
 </ul>
-<p>See <a href="http://gditzler.github.io/previousfunding.html">previous funding here</a>.</p>
+<p>See <a href="http://gditzler.github.io/previousfunding.html">previous
+funding here</a>.</p>
 </div>
 <div id="teaching" class="section level2">
 <h2>Teaching</h2>
+<div id="rowan-university" class="section level3">
+<h3>Rowan University</h3>
 <ul>
-<li>ECE175 - Computer Programming for Engineering Applications [<a href="syllabus/ece175_sp2016.pdf" target="_blank">Sp2016</a>, <a href="syllabus/ece175_fa2016.pdf" target="_blank">Fa2016</a>]</li>
-<li>ECE429/529 - Introduction to Digital Signal Processing [<a href="syllabus/ece429529_fa2018.pdf" target="_blank">Fa2018</a>, <a href="syllabus/ece429529_fa2020.pdf" target="_blank">Fa2020</a>]</li>
-<li>ECE441a/541a - Automatic Control [<a href="syllabus/ece441541_fa2015.pdf" target="_blank">Fa2015</a>, <a href="syllabus/ece441541_fa2017.pdf" target="_blank">Fa2017</a>, <a href="syllabus/ece441541_fa2019.pdf" target="_blank">Fa2019</a>, <a href="syllabus/ece441541_fa2021.pdf" target="_blank">Fa2021</a>]</li>
-<li>ECE442/542 - Digital Control Systems [<a href="syllabus/ece442542_sp2022.pdf" target="_blank">Sp2022</a>]</li>
-<li>ECE523 - Engineering Applications of Machine Learning and Data Analytics [<a href="syllabus/ece523_sp2017.pdf" target="_blank">Sp2017</a>, <a href="syllabus/ece523_sp2018.pdf" target="_blank">Sp2018</a>, <a href="syllabus/ece523_sp2019.pdf" target="_blank">Sp2019</a>, <a href="syllabus/ece523_sp2020.pdf" target="_blank">Sp2020</a>, <a href="syllabus/ece523_sp2021.pdf" target="_blank">Sp2021</a>, <a href="syllabus/ece523_sp2022.pdf" target="_blank">Sp2022</a>]</li>
+<li>ECE09455/09555 - Machine Learning [<a href=""
+target="_blank">Fa2022</a>]</li>
 </ul>
+</div>
+<div id="university-of-arizona" class="section level3">
+<h3>University of Arizona</h3>
+<ul>
+<li>ECE175 - Computer Programming for Engineering Applications [<a
+href="syllabus/ece175_sp2016.pdf" target="_blank">Sp2016</a>, <a
+href="syllabus/ece175_fa2016.pdf" target="_blank">Fa2016</a>]</li>
+<li>ECE429/529 - Introduction to Digital Signal Processing [<a
+href="syllabus/ece429529_fa2018.pdf" target="_blank">Fa2018</a>, <a
+href="syllabus/ece429529_fa2020.pdf" target="_blank">Fa2020</a>]</li>
+<li>ECE441a/541a - Automatic Control [<a
+href="syllabus/ece441541_fa2015.pdf" target="_blank">Fa2015</a>, <a
+href="syllabus/ece441541_fa2017.pdf" target="_blank">Fa2017</a>, <a
+href="syllabus/ece441541_fa2019.pdf" target="_blank">Fa2019</a>, <a
+href="syllabus/ece441541_fa2021.pdf" target="_blank">Fa2021</a>]</li>
+<li>ECE442/542 - Digital Control Systems [<a
+href="syllabus/ece442542_sp2022.pdf" target="_blank">Sp2022</a>]</li>
+<li>ECE523 - Engineering Applications of Machine Learning and Data
+Analytics [<a href="syllabus/ece523_sp2017.pdf"
+target="_blank">Sp2017</a>, <a href="syllabus/ece523_sp2018.pdf"
+target="_blank">Sp2018</a>, <a href="syllabus/ece523_sp2019.pdf"
+target="_blank">Sp2019</a>, <a href="syllabus/ece523_sp2020.pdf"
+target="_blank">Sp2020</a>, <a href="syllabus/ece523_sp2021.pdf"
+target="_blank">Sp2021</a>, <a href="syllabus/ece523_sp2022.pdf"
+target="_blank">Sp2022</a>]</li>
+</ul>
+</div>
 </div>
 <div id="in-the-news" class="section level2">
 <h2>In the News</h2>
 <ul>
-<li><a href="https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success" target="_blank">Hands-On Research Experiences Sets Undergraduates Up for Success</a></li>
-<li><a href="https://ece.engineering.arizona.edu/news-events/adegbija-ditzler-and-akoglu-promoted" target="_blank">UArizona ECE News: Adegbija, Ditzler and Akoglu Promoted</a></li>
-<li><a href="https://issuu.com/azengineering/docs/ece_2021magazine" target="_blank">UArizona ECE Magazine 2021</a></li>
-<li><a href="https://www.pennlive.com/news/2020/07/lebanon-county-native-receives-national-science-foundation-award.html" target="_blank">Lebanon County native receives National Science Foundation award</a></li>
-<li><a href="https://pctoday.pct.edu/penn-college-alum-honored-with-nsf-faculty-award/" target="_blank">Penn College alum honored with NSF award</a></li>
-<li><a href="https://edscoop.com/university-arizona-machine-learning-algorithm-research/" target="_blank">Researchers want to know how bad actors are tricking machine learning</a></li>
-<li><a href="https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe" target="_blank">University of Arizona College of Engineering Digest</a></li>
-<li><a href="https://www.govtech.com/news/What-Can-Cyberdefenses-Learn-from-the-Human-Immune-System.html" target="_blank">What Can Cyberdefenses Learn from the Human Immune System?</a></li>
-<li><a href="https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body" target="_blank">$3M Grant to Create Cybersecurity Modeled After Human Body</a></li>
-<li><a href="https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award" target="_blank">IEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award</a></li>
-<li><a href="https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics" target="_blank">Five New Faculty Members Boost Research and Academics</a></li>
+<li><a
+href="https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success"
+target="_blank">Hands-On Research Experiences Sets Undergraduates Up for
+Success</a></li>
+<li><a
+href="https://ece.engineering.arizona.edu/news-events/adegbija-ditzler-and-akoglu-promoted"
+target="_blank">UArizona ECE News: Adegbija, Ditzler and Akoglu
+Promoted</a></li>
+<li><a href="https://issuu.com/azengineering/docs/ece_2021magazine"
+target="_blank">UArizona ECE Magazine 2021</a></li>
+<li><a
+href="https://www.pennlive.com/news/2020/07/lebanon-county-native-receives-national-science-foundation-award.html"
+target="_blank">Lebanon County native receives National Science
+Foundation award</a></li>
+<li><a
+href="https://pctoday.pct.edu/penn-college-alum-honored-with-nsf-faculty-award/"
+target="_blank">Penn College alum honored with NSF award</a></li>
+<li><a
+href="https://edscoop.com/university-arizona-machine-learning-algorithm-research/"
+target="_blank">Researchers want to know how bad actors are tricking
+machine learning</a></li>
+<li><a
+href="https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe"
+target="_blank">University of Arizona College of Engineering
+Digest</a></li>
+<li><a
+href="https://www.govtech.com/news/What-Can-Cyberdefenses-Learn-from-the-Human-Immune-System.html"
+target="_blank">What Can Cyberdefenses Learn from the Human Immune
+System?</a></li>
+<li><a
+href="https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body"
+target="_blank">$3M Grant to Create Cybersecurity Modeled After Human
+Body</a></li>
+<li><a
+href="https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award"
+target="_blank">IEEE Recognizes ECE Professor, Fellow Authors with
+Outstanding Paper Award</a></li>
+<li><a
+href="https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics"
+target="_blank">Five New Faculty Members Boost Research and
+Academics</a></li>
 </ul>
 </div>
 
@@ -427,7 +512,7 @@ $(document).ready(function () {
       <div class="col-md-4">
         <p><i class="fa fa-send fa-lg"></i> <font color="white">Connect with me</font><br>
         <a href="mailto:gregory.ditzler@gmail.com">gregory.ditzler@gmail.com</a><br>
-        <a href="mailto:ditzler@arizona.edu">ditzler@arizona.edu</a>
+        <a href="mailto:ditzler@rowan.edu">ditzler@rowan.edu</a>
         <br>
         <br>
       </div>
@@ -445,7 +530,7 @@ $(document).ready(function () {
         <a href="https://scholar.google.com/citations?user=diET1AsAAAAJ&hl=en/" target="_blank">
           &nbsp;&nbsp;&nbsp;
           <i class="fa fa-graduation-cap" style="font-size:48px;"></i>  </a>
-        <a href="http://www.arizona.edu/" target="_blank">
+        <a href="http://www.rowan.edu/" target="_blank">
           <i class="fa fa-university" style="font-size:48px;"></i>  </a>
         <br>
         <br>
