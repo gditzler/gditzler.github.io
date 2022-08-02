@@ -68,6 +68,7 @@ See [previous funding here](http://gditzler.github.io/previousfunding.html).
 
 
 ## In the News 
+* [Arizona Researcher Is Self-Driven](https://bearessentialnews.com/pdf/tucson/july-2022/july-2022-tucson){target="_blank"}
 * [Hands-On Research Experiences Sets Undergraduates Up for Success](https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success){target="_blank"}
 * [UArizona ECE News: Adegbija, Ditzler and Akoglu Promoted](https://ece.engineering.arizona.edu/news-events/adegbija-ditzler-and-akoglu-promoted){target="_blank"}
 * [UArizona ECE Magazine 2021](https://issuu.com/azengineering/docs/ece_2021magazine){target="_blank"}
