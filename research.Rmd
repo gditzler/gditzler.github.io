@@ -4,17 +4,13 @@ title: "Research Group"
 
 
 ## PhD 
-- [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/) and [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda) 
+- [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), ABD, Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/) and [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda) 
 - [Huayu Li](https://www.researchgate.net/profile/Huayu-Li-3) (ECE 2021--Present)
 - Jason Ligon (ECE 2018--Present)
 - [Martin Lopez](https://www.linkedin.com/in/martin-manuel-lopez-94725442/) (ECE 2021--Present)
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present)
 - Samuel Hess (ECE 2016--Present) ABD
 
-
-## Undergraduate
-- Megan Herzog (CS 2021--Present)
-- Roman Golota (ECE 2020--Present)
 
 
 ## Graduate Alumni 
