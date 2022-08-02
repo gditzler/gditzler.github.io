@@ -23,6 +23,8 @@ title: "Alumni"
 
 
 ## Undergraduate @ UArizona
+- [Megan Herzog](https://www.linkedin.com/in/megancherzog/){target="_blank"} (CS 2021/22)
+- Roman Golota (ECE 2020--2022)
 - Drew Howell (CS 2021)
 - Eduardo Zambrana (ECE 2020)
 - Jack Blake (ECE 2020)
@@ -36,15 +38,26 @@ title: "Alumni"
 
 The research experiences for undergraduate students were externally funded by the National Science Foundation and Department of Energy. 
 
-- [Megan Herzog](https://www.linkedin.com/in/megancherzog) (2021; University of Arizona) ([Summary](https://www.dropbox.com/s/vtzi4jb0cqte3km/PACT2021Abstracts.pdf?dl=0){target="_blank"})
-- Joe Liang (2021; University of Arizona) ([Summary](https://www.dropbox.com/s/vtzi4jb0cqte3km/PACT2021Abstracts.pdf?dl=0){target="_blank"})
+- Wyatt Mayor (2022; Monmouth College)
+- Ryan Smith (2022; University of Arizona)
+- Andrew Wang (2022; Cornell University)
+- Gopal Nookula (2022; University of California, Riverside)
+- Andres Mendozas (2022; University of Arizona)
+- Alex Choi (2022; University of Arizona)
+- Ameer Nessaee (2022; University of Arizona)
+- Michael Villasana (2022; University of Arizona)
+- Derek Lee (2022; University of Arizona)
+- Cody Smith (2022; Navajo Technical University)
+- Monique Hoswoot (2022; Navajo Technical University)
+- [Megan Herzog](https://www.linkedin.com/in/megancherzog) (2021; University of Arizona) ([Summary](){target="_blank"})
+- Joe Liang (2021; University of Arizona) ([Summary](){target="_blank"})
 - [Sophia Somerscales](https://www.linkedin.com/in/sophiasomerscales/) (2021; University of Arizona) ([presentation](https://www.youtube.com/watch?v=6M8DheHi_2M){target="_blank"})
 - [Audrey Wiseman](https://www.linkedin.com/in/audrey-wiseman-59093a172/) (2021; Wofford College) ([presentation](https://www.youtube.com/watch?v=ldJKtB9AFP4){target="_blank"})
 - [Issac Wasserman](https://www.linkedin.com/in/isaac-wasserman-63423715a/) (2021; Haverford College) ([presentation](https://www.youtube.com/watch?v=wxLQW90vG-4&t=1s){target="_blank"})
 - [Sara Roman](https://www.linkedin.com/in/sara-roman-a24855170/) (2021; Kent State University)  ([presentation](https://www.youtube.com/watch?v=QzdV03hKoNU){target="_blank"})
-- Sebastian Valencia (2020; University of Arizona)  ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- [Ulrich Zongo](https://www.linkedin.com/in/ulrich-stephane-zongo/){target="_blank"} (2020; University of Arizona) ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
-- Eduardo Zambrana (2020; University of Arizona) ([presentation](https://www.dropbox.com/s/9q8zer4us69sk7o/Team-5-David-VideoPoster-Machine-Learning.mp4?dl=0){target="_blank"})
+- Sebastian Valencia (2020; University of Arizona)  ([presentation](){target="_blank"})
+- [Ulrich Zongo](https://www.linkedin.com/in/ulrich-stephane-zongo/){target="_blank"} (2020; University of Arizona) ([presentation](){target="_blank"})
+- Eduardo Zambrana (2020; University of Arizona) ([presentation](){target="_blank"})
 - [Calvin Barrett](https://www.linkedin.com/in/calvin-barrett-293296187/){target="_blank"} (2020; Haverford College) ([presentation](https://www.youtube.com/watch?v=VWeaJDeazUc&feature=youtu.be){target="_blank"})
 - [Tomo Bessho](https://www.linkedin.com/in/tbessho/){target="_blank"} (2020; University of Nebraska-Lincoln)  ([presentation](https://www.youtube.com/watch?v=vlJAxQZX9xc&feature=emb_title){target="_blank"})
 
