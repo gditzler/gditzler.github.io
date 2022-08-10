@@ -2,7 +2,27 @@
 title: "Previous Funding"
 ---
 
+
+## Current Funding 
+- [Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period](https://grantome.com/grant/NIH/DP2-HD105541-01){target="_blank"} <br/>
+   Role: Senior Personnel  <br/>
+   Amount: $2,300,000  <br/>
+   Sponsor: __National Institues of Health__ 
+- [CAREER: Learning in Adversarial and Nonstationary Environments](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&HistoricalAwards=false){target="_blank"}  <br/>
+   Role: Principal Investigator  <br/>
+   Amount: $524,000,  <br/>
+   Sponsor: __National Science Foundation__ 
+
+
 ## Previous Funding 
+- Tactical Cyber Immune System  <br/>
+   Role: Principal Investigator  <br/>
+   Amount: $200,000  <br/>
+   Sponsor: __Army Research Office STTR Phase II__ 
+- [REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359){target="_blank"}  <br/>
+   Role: Co-Investigator  <br/>
+   Amount: $415,000,  <br/>
+   Sponsor: __National Science Foundation__ 
 - [PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}  <br/> 
    Role: Co-Investigator  <br/>
    Amount: $3,000,000  <br/>

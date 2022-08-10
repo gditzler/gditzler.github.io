@@ -10,7 +10,7 @@ title: "Summary of Contributions"
 - [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
   arXiv preprint arXiv:2208.00542, 2022.
-- [Poisoning Amnesic Attacks Against Continual Learners](){target="_blank"} <br/>
+- [Poisoning Attacks Against Continual Learners](){target="_blank"} <br/>
   H. Li and G. Ditzler <br/>
   arXiv preprint arXiv:2110.11597, 2022.
 

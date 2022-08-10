@@ -12,9 +12,9 @@ navbar:
     - text: "Publications"
       icon: fa-database
       href: publications.html
-    - text: "Projects"
-      icon: fa-cubes
-      href: projects.html
+#    - text: "Projects"
+#      icon: fa-cubes
+#      href: projects.html
     - text: "Research Group"
       icon: fa-user-circle
       href: research.html
