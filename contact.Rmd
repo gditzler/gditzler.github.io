@@ -1,8 +1,0 @@
----
-title: "Contact"
----
-
-201 Mullica Hill Rd <br/> 
-Engineering Hall, Rm. 328 <br/>
-Glassboro, NJ 08028 <br/>
-Email: ditzler (at) rowan.edu

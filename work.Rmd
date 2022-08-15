@@ -1,9 +1,0 @@
----
-title: "Working with me"
----
-
-Our group is open to consider positions for graduate students at the MSc and Ph.D. level. Funding is available for highly qualified students (preferably to Ph.D. students that have already completed their MSc thesis and have published in reputable journals and conferences). Preference will be given to exceptional students seeking to pursue a Ph.D. with interests in machine learning.  
-
-If you are currently a student at Rowan University, contact Gregory Ditzler at ditzler (at) rowan.edu with your resume and research interests. Please include any publications if you have them. If you are not at Rowan University, you should apply for graduate studies.
-
-You should read "[How to Be a Successful PhD Student](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf)" by Hanna Wallach and Mark Dredze. It is well-written guide that provides to tips on being successful in graduate school. 
