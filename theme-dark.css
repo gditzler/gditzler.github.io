@@ -1,0 +1,21 @@
+/* css styles */
+
+
+body {
+  margin: 0 auto;
+  font-family: sans-serif; /*sans-serif*/
+  font-weight: 100; 
+  font-size: 12pt;
+  background-color: #002b36;
+}
+
+h1, h2, h3 {
+  font-family: Monospace;
+  font-weight: 50; 
+}
+
+
+
+
+
+
