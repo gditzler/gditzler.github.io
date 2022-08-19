@@ -14,7 +14,6 @@ editor: source
   arXiv preprint arXiv:2208.00542, 2022. 
 
 
-
 ## Journals 
 1. [Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00521-022-06920-3){target="_blank"} <br/>
   D. Schwartz, T. Sawyer, N. Thurston, J. Barton and G. Ditzler <br/>
