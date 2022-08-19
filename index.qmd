@@ -1,0 +1,31 @@
+---
+title: "About Me"
+image: greg.png
+about:
+  template: jolla
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:ditzler@rowan.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/gditzler
+    - icon: mortarboard
+      text: Rowan
+      href: http://rowan.edu
+    - icon: cpu
+      text: Rowan ECE
+      href: https://engineering.rowan.edu/programs/electricalcomputer/
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=diET1AsAAAAJ&hl=en
+editor: source
+---
+
+
+I am an Associate Professor in the [Department of Electrical and Computer Engineering](https://engineering.rowan.edu/programs/electricalcomputer/){target="_blank"} at [Rowan University](https://www.rowan.edu/){target="_blank"}, where I perform research in data mining and applied machine learning. 
+
+
+
+
+

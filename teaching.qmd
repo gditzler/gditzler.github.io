@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+editor: source
+---
+
+
+### Rowan University 
+- ECE09455/09555 - Machine Learning [[Fa2022](https://drive.google.com/file/d/1N3rXdYxMUjxnFsbwlM9LInHpig-VxcuB/view?usp=sharing){target="_blank"}] 
+
+### University of Arizona 
+- ECE175 - Computer Programming for Engineering Applications 
+[[Sp2016](https://drive.google.com/file/d/17QkA32II5u5oshrBwvuC1BukqNqXJ60J/view?usp=sharing){target="_blank"}, 
+[Fa2016](https://drive.google.com/file/d/1MEieYZzJlMU5IxpzI5ckzoOrqSBRUzPK/view?usp=sharing){target="_blank"}] 
+- ECE429/529 - Introduction to Digital Signal Processing 
+[[Fa2018](https://drive.google.com/file/d/1tPXw3sQQVFyGqQVQ3LKeXl0pVQ0XLvHw/view?usp=sharing){target="_blank"}, 
+[Fa2020](https://drive.google.com/file/d/1Ps6LMn1JJOBDbmf0DCnAn1cdppmsu2Kw/view?usp=sharing){target="_blank"}]
+- ECE441a/541a - Automatic Control 
+[[Fa2015](https://drive.google.com/file/d/1P-Dd7rLanA9T0sANXc84rOz6A9BLng8c/view?usp=sharing){target="_blank"}, 
+[Fa2017](https://drive.google.com/file/d/1v0omLL_RolsEvMTMJY7XpZn-b1qyeQew/view?usp=sharing){target="_blank"}, 
+[Fa2019](https://drive.google.com/file/d/14RgIeHfHaLkPlzuAa9F80Fm8j83dytx6/view?usp=sharing){target="_blank"}, 
+[Fa2021](https://drive.google.com/file/d/1WLyvbWXUGb6b8yCQwOV52iqxflJKjbbY/view?usp=sharing){target="_blank"}] 
+- ECE442/542 - Digital Control Systems 
+[[Sp2022](https://drive.google.com/file/d/1KTT9ByfXVGB_MCtezfsh1miN8d-C6LWc/view?usp=sharing){target="_blank"}]
+- ECE523 - Engineering Applications of Machine Learning and Data Analytics  
+[[Sp2017](https://drive.google.com/file/d/1ugvGTQ_fXmcPmO9Q3krbjbkSInx8Xz6p/view?usp=sharing){target="_blank"}, 
+[Sp2018](https://drive.google.com/file/d/1PmaHT6AQuVlVlQtCRAWdIoSmJF-rSgKH/view?usp=sharing){target="_blank"}, 
+[Sp2019](https://drive.google.com/file/d/1PmaHT6AQuVlVlQtCRAWdIoSmJF-rSgKH/view?usp=sharing){target="_blank"}, 
+[Sp2020](https://drive.google.com/file/d/1zRB0e7rz0_H08gZLeojdmT793zN8KGjG/view?usp=sharing){target="_blank"}, 
+[Sp2021](https://drive.google.com/file/d/1IOkBpU4iqmK8psVc5um5WAvqpbmmwpzL/view?usp=sharing){target="_blank"}, 
+[Sp2022](https://drive.google.com/file/d/1pJ7JOxnKOgIWg3paOzt30tl_Zz_L1rSh/view?usp=sharing){target="_blank"}] 
+
+
