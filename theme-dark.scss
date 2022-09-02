@@ -8,7 +8,7 @@ $visited-color: #FFCC00;
 a{
     color: $link-color;
     text-decoration: none;
-    background: transparent;
+    background: transparent; 
     transition: background 1s ease, padding 1s ease;
 
     &:visited{

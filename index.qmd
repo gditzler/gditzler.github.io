@@ -10,6 +10,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/gditzler
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/gregory-c-ditzler/
     - icon: mortarboard
       text: Rowan
       href: http://rowan.edu
