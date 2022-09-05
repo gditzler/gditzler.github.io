@@ -78,7 +78,7 @@ editor: source
 ## Conferences 
 1. [On Reducing Adversarial Vulnerability with Data Dependent Stochastic Resonance](https://ieeessci2022.org/index.html){target="_blank"} <br/>
   D. Schwartz and G. Ditzler<br/>
-  IEEE Symposium Series on Computational Intelligence, 2022 
+  IEEE Symposium Series on Computational Intelligence, 2022.  
 1. [Application of Adversarial Machine learning in Protocol and Modulation Misclassification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12113/121131J/Application-of-adversarial-machine-learning-in-protocol-and-modulation-misclassification/10.1117/12.2619523.full){target="_blank"} <br/>
   M. Krunz, W. Zhang, and G. Ditzler <br/>
   Proceedings of the SPIE, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV, 2022. [[talk](https://www.spiedigitallibrary.org/conference-presentations/12113/0000/Application-of-adversarial-machine-learning-in-protocol-and-modulation-misclassification/10.1117/12.2619523?SSO=1){target="_blank"}]
