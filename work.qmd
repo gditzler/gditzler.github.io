@@ -11,3 +11,30 @@ You should read "[How to Be a Successful PhD Student](https://www.cs.jhu.edu/~md
 
 
 
+## Current Openings 
+
+
+I have multiple new openings for advising graduate students (MSc and PhD).  
+
+**Topics**: Research topics are in the areas of  machine learning artificial intelligence.  In this work, you will explore theoretical and empirical avenues to understand the influence and an adversary in a lifelong machine learning scenario. You will be investigating new and novel methods to attack and defend machine learning models. Other areas of machine learning will be tightly integrated into this project, including feature selection, and algorithmic fairness.  
+
+**Support**: Graduate assistant appointments will be offered to PhD students, providing stipend and tuition support. Exceptionally, graduate assistantships could also be offered to MSc students, depending on availability and qualifications. 
+
+**Desired Qualities for a Candidate**
+
+*Must have*
+
+* Experience with Python and writing reusable code / packages / modules. 
+* Knowledgeable about machine learning and data science techniques. 
+* Skilled communicator and able to discuss methods and findings with other researchers outside of machine learning and data science. 
+* Extremely organized and a record of clear documentation. 
+* Independent learner and can pick up new concepts related to coding and mathematics. 
+
+*Good to have* 
+
+* Experience with the high-performance computing resources at Rowan University or Microsoft Azure / AWS / Google Cloud will be useful. 
+* Experience in Linux and Bash. Any flavor of Linux will do! 
+* Other: Git, LaTeX, SQL, Visual Studio Code.
+
+
+Please send an email to the professor with your resume, GPA, and degree. You are encouraged to contact the me if you are interested in participating in the research. Please put “*Research: Last Name:  Machine Learning Research*,” write a brief paragraph on why you’re a great fit for this research and attach a copy of your resume. Feel free to make an appointment to learn more about the PhD program and research opportunities. 
