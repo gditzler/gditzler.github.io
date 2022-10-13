@@ -5,6 +5,10 @@ editor: visual
 
 
 ## Current Funding 
+- [Turret Gunner Survivability and Simulation Environment (TGSSE)](https://ac.ccdc.army.mil/){target="_blank"} <br/>
+   Role: Co-PI  <br/>
+   Amount: $2,999,992  <br/>
+   Sponsor: __Army Research Office__
 - [Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period](https://grantome.com/grant/NIH/DP2-HD105541-01){target="_blank"} <br/>
    Role: Senior Personnel  <br/>
    Amount: $2,300,000  <br/>
