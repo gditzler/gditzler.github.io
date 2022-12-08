@@ -12,6 +12,10 @@ editor: source
 - [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
   arXiv preprint arXiv:2208.00542, 2022. 
+- [A Maximum Log-Likelihood Method for Imbalanced Few-Shot Learning Tasks](https://arxiv.org/abs/2211.14668){target="_blank"} <br/>
+  S. Hess and G. Ditzler <br/>
+  arXiv preprint arXiv:2211.14668, 2022. 
+
 
 
 ## Journals 
