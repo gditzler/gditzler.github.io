@@ -7,15 +7,24 @@ editor: source
 
 - [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), ABD, Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/) and [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda)
 - [Huayu Li](https://www.researchgate.net/profile/Huayu-Li-3) (ECE 2021--Present), Co-advised with [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda)
+<<<<<<< HEAD
 - Abul Nasir (ECE 2022--Present)
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present) ABD
 
+=======
+- Abdul Nasir (ECE 2022--Present)
+- [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present) ABD
+>>>>>>> bcc8152 (updated sam's graduation status)
 
 ## Graduate Alumni
 
 - [Jiashu Guo](https://www.linkedin.com/in/jiashu-guo/){target="_blank"}, MSc (2018)
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"}, MSc (2021)
+<<<<<<< HEAD
 - [Samuel Hess](https://www.linkedin.com/in/samuel-hess-143b6175), PhD (2022)
+=======
+- [Samuel Hess](https://www.linkedin.com/in/samuel-hess-143b6175/){target="_blank"}, PhD (2022)
+>>>>>>> bcc8152 (updated sam's graduation status)
 - [Zhengzhong Liang](https://www.linkedin.com/in/zhengzhong-liang-095810137/){target="_blank"}, MSc (2018)
 - [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"}, PhD (2021)
 - [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019), Co-advised with [Jerzy Rozenblit](https://ece.engineering.arizona.edu/faculty-staff/faculty/jerzy-w-rozenblit)

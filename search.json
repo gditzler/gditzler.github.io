@@ -18,7 +18,11 @@
     "href": "alumni.html",
     "title": "Alumni",
     "section": "",
+<<<<<<< HEAD
     "text": "Samuel Hess, PhD (2022)\nHeng Liu, PhD (2021)\nKuo-Shiuan Peng, PhD (2019)"
+=======
+    "text": "Heng Liu, PhD (2021)\nKuo-Shiuan Peng, PhD (2019)\nSamuel Hess, PhD (2022)"
+>>>>>>> bcc8152 (updated sam's graduation status)
   },
   {
     "objectID": "alumni.html#msc",
@@ -53,7 +57,11 @@
     "href": "group.html",
     "title": "Group",
     "section": "",
+<<<<<<< HEAD
     "text": "Manoj Gopale (ECE 2021–Present), ABD, Co-advised with Roman Lysecky and Janet Roveda\nHuayu Li (ECE 2021–Present), Co-advised with Janet Roveda\nAbul Nasir (ECE 2022–Present)\nDavid Schwartz (ECE 2018–Present) ABD"
+=======
+    "text": "Manoj Gopale (ECE 2021–Present), ABD, Co-advised with Roman Lysecky and Janet Roveda\nHuayu Li (ECE 2021–Present), Co-advised with Janet Roveda\nAbdul Nasir (ECE 2022–Present)\nDavid Schwartz (ECE 2018–Present) ABD"
+>>>>>>> bcc8152 (updated sam's graduation status)
   },
   {
     "objectID": "group.html#graduate-alumni",
