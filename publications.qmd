@@ -9,9 +9,6 @@ editor: source
 - [ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable AI](https://arxiv.org/abs/2110.11597){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2110.11597, 2021.
-- [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
-  H. Li, G. Ditzler, J. Roveda and A. Li <br/>
-  arXiv preprint arXiv:2208.00542, 2022. 
 - [A Maximum Log-Likelihood Method for Imbalanced Few-Shot Learning Tasks](https://arxiv.org/abs/2211.14668){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2211.14668, 2022. 
@@ -19,6 +16,9 @@ editor: source
 
 
 ## Journals 
+1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
+  H. Li, G. Ditzler, J. Roveda and A. Li <br/>
+  IEEE Journal of Biomedical and Health Informatics, 2023, accepted. 
 1. [Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00521-022-06920-3){target="_blank"} <br/>
   D. Schwartz, T. Sawyer, N. Thurston, J. Barton and G. Ditzler <br/>
   Neural Computing and Applications, vol. 34, no. 11, pp. 8977-8987, 2022. 
