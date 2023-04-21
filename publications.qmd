@@ -14,7 +14,6 @@ editor: source
   arXiv preprint arXiv:2211.14668, 2022. 
 
 
-
 ## Journals 
 1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
@@ -75,11 +74,14 @@ editor: source
 
 
 
-## Conferences 
+## Conferences
+1. [Boosting Aerial Object Detection Performance via Virtual Reality Data and Multi-Object Training](https://2023.ijcnn.org/) <br/>
+   N. Koutsoubis, K. Naddeo, G.  Williams, G. Lecakes, T. Kiel, G.  Ditzler, N. Bouaynaya <br/>
+   IEEE/INNS International Joint Conference on Neural Networks, 2023.
 1. [DyViR: Dynamic Virtual Reality Dataset for Aerial Threat Object Detection](https://spie.org/dcs23/conferencedetails/synthetic-data-for-machine-learning?SSO=1)<br/>
   N. Koutsoubis, K. Naddeo, G.  Williams, G. Lecakes, A. Almon, T. Kiel, G.  Ditzler, N. Bouaynaya <br/>
   SPIE Defense + Commercial Sensing Meeting Information: Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications, 2023. 
-1. [On Reducing Adversarial Vulnerability with Data Dependent Stochastic Resonance](https://ieeessci2022.org/index.html){target="_blank"} <br/>
+1. [On Reducing Adversarial Vulnerability with Data Dependent Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/10022248/https://ieeessci2022.org/index.html){target="_blank"} <br/>
   D. Schwartz and G. Ditzler<br/>
   IEEE Symposium Series on Computational Intelligence, 2022.  
 1. [Application of Adversarial Machine learning in Protocol and Modulation Misclassification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12113/121131J/Application-of-adversarial-machine-learning-in-protocol-and-modulation-misclassification/10.1117/12.2619523.full){target="_blank"} <br/>
