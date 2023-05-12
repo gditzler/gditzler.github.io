@@ -12,7 +12,9 @@ editor: source
 - [A Maximum Log-Likelihood Method for Imbalanced Few-Shot Learning Tasks](https://arxiv.org/abs/2211.14668){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2211.14668, 2022. 
-
+- [Knowledge Distillation Under Ideal Joint Classifier Assumption](https://arxiv.org/abs/2304.11004){target="_blank"} <br/>
+  H. Li, X. Chen, G. Ditzler, P. Chang, J. Roveda, and A. Li <br/>
+  arXiv preprint arXiv:2304.11004, 2023. 
 
 ## Journals 
 1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
