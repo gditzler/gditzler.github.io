@@ -7,10 +7,7 @@ title: "Alumni"
 - [Samuel Hess](https://www.linkedin.com/in/samuel-hess-143b6175), PhD (2022)
 - [Heng Liu](https://www.linkedin.com/in/lh5712/){target="_blank"}, PhD (2021)
 - [Kuo-Shiuan Peng](https://www.linkedin.com/in/kuo-shiuan-peng-24360567/){target="_blank"}, PhD (2019)
-<<<<<<< HEAD
-=======
 - [Samuel Hess](https://www.linkedin.com/in/samuel-hess-143b6175/), PhD (2022)
->>>>>>> bcc8152 (updated sam's graduation status)
 
 ## MSc  
 - [Srishti Gupta](https://www.linkedin.com/in/srishtigupta01/){target="_blank"}, MSc (2021)
@@ -39,6 +36,8 @@ title: "Alumni"
 
 The research experiences for undergraduate students were externally funded by the National Science Foundation and Department of Energy. 
 
+- Christian Hecht (2023; Rowan University)
+- Zach Bravo (2023; Rowan University)
 - Wyatt Mayor (2022; Monmouth College)
 - Ryan Smith (2022; University of Arizona)
 - Andrew Wang (2022; Cornell University)
