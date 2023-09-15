@@ -19,6 +19,7 @@ editor: source
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2110.11597, 2021.
 
+
 ## Journals 
 1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
@@ -234,3 +235,7 @@ editor: source
   In: Computational Systems Biology, 295-329, 2014
 
 
+## Technical Reports 
+1. [Review of Automatic Speech Recognition Methodologies](https://rosap.ntl.bts.gov/view/dot/68518){target="_blank"} <br/>
+   G. Achour, O. Salunke, A. Payan, E. Harrison, C. Sahbani, G. Carannante, G. Ditzler, N. Bouaynaya <br/>
+   United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023. 

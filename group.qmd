@@ -6,7 +6,6 @@ editor: source
 ## PhD
 - [Manoj Gopale](https://www.linkedin.com/in/manoj-gopale/) (ECE 2021--Present), ABD, Co-advised with [Roman Lysecky](https://uweb.engr.arizona.edu/~rlysecky/) and [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda)
 - [Huayu Li](https://www.researchgate.net/profile/Huayu-Li-3) (ECE 2021--Present), Co-advised with [Janet Roveda](https://ece.engineering.arizona.edu/faculty-staff/faculty/janet-meiling-roveda)
-- Abul Nasir (ECE 2022--Present)
 - [David Schwartz](https://uweb.engr.arizona.edu/~dmschwar/){target="_blank"} (ECE 2018--Present) ABD
 
 ## MSc 

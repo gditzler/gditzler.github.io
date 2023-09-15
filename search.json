@@ -60,7 +60,7 @@
     "href": "group.html",
     "title": "Group",
     "section": "",
-    "text": "Manoj Gopale (ECE 2021–Present), ABD, Co-advised with Roman Lysecky and Janet Roveda\nHuayu Li (ECE 2021–Present), Co-advised with Janet Roveda\nAbul Nasir (ECE 2022–Present)\nDavid Schwartz (ECE 2018–Present) ABD"
+    "text": "Manoj Gopale (ECE 2021–Present), ABD, Co-advised with Roman Lysecky and Janet Roveda\nHuayu Li (ECE 2021–Present), Co-advised with Janet Roveda\nDavid Schwartz (ECE 2018–Present) ABD"
   },
   {
     "objectID": "group.html#msc",
@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am an Associate Professor in the Department of Electrical and Computer Engineering at Rowan University, where I perform research in data mining and applied machine learning."
+    "text": "I am a Principal Research Scientist at EpiSci, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University."
   },
   {
     "objectID": "publications.html",
@@ -116,7 +116,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am an Associate Professor in the Department of Electrical and Computer Engineering at Rowan University, where I perform research in data mining and applied machine learning."
+    "text": "I am a Principal Research Scientist at EpiSci, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University."
   },
   {
     "objectID": "about.html#education",
@@ -130,7 +130,7 @@
     "href": "about.html#employment",
     "title": "About",
     "section": "Employment",
-    "text": "Employment\n\n\n\nPosition\nInstitution\nDates\n\n\n\n\nAssociate Professor\nRowan University\n2022–Present\n\n\nAssociate Professor\nUniversity of Arizona\n2021–2022\n\n\nAssistant Professor\n\n2015–2021\n\n\nResearch Intern\nAT&T Research Labs\n2013\n\n\nElectronics Systems Engineer\nQorTek, Inc.\n2009"
+    "text": "Employment\n\n\n\nPosition\nInstitution\nDates\n\n\n\n\nPrincipal Research Scientist\nEpiSci\n2023–Present\n\n\nAssociate Professor\nRowan University\n2022–2023\n\n\nAssociate Professor\nUniversity of Arizona\n2021–2022\n\n\nAssistant Professor\n\n2015–2021\n\n\nResearch Intern\nAT&T Research Labs\n2013\n\n\nElectronics Systems Engineer\nQorTek, Inc.\n2009"
   },
   {
     "objectID": "about.html#in-the-news",
@@ -152,5 +152,12 @@
     "title": "Funding",
     "section": "Previous Funding",
     "text": "Previous Funding\n\nTactical Cyber Immune System  Role: Principal Investigator  Amount: $200,000  Sponsor: Army Research Office STTR Phase II\nREU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle  Role: Co-Investigator  Amount: $415,000,  Sponsor: National Science Foundation\nPACT: Partnership for Proactive Cybersecurity Training  Role: Co-Investigator  Amount: $3,000,000  Sponsor: Department of Energy\nAMAP-based Autonomic Security Operations Center  Role: Co-Investigator  Amount: $200,000  Sponsor: Air Force Research Lab SBIR Phase II\nDoctoral Symposium at the IEEE International Conference on Autonomic Computing  Role: Principal Investigator  Amount: $15,000  Sponsor: National Science Foundation\nMulti-Layer Anomaly Behavior Analysis (MLABA) Methodology  Role: Principal Investigator  Amount: $15k,  Sponsor: Office of Naval Research STTR Phase I\nAdversarial Threats to Feature Selection  Role: Principal Investigator  Amount: $15,000  Sponsor: Air Force Office of Scientific Research VFRP\nTechniques to Adjust Computational Trends Involving Changing Data  Role: Principal Investigator  Amount: $54,000  Sponsor: Office of Naval Research STTR Phase I\nAutonomic Monitoring, Analysis, and Protection  Role: Principal Investigator  Amount: $30,000  Sponsor: Air Force Office of Scientific Research STTR Phase II\nSupport of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing  Role: Principal Investigator  Amount: $15,000  Sponsor: National Science Foundation\nTactical Cyber Immune System  Role: Principal Investigator  Amount: $30k  Sponsor: Army Research Office STTR Phase I\nAnalysis of Large Data Sets  Role: Principal Investigator  Amount: $15k  Sponsor: Air Force Office of Scientific Research SFFP"
+  },
+  {
+    "objectID": "publications.html#technical-reports",
+    "href": "publications.html#technical-reports",
+    "title": "Publications",
+    "section": "Technical Reports",
+    "text": "Technical Reports\n\nReview of Automatic Speech Recognition Methodologies  G. Achour, O. Salunke, A. Payan, E. Harrison, C. Sahbani, G. Carannante, G. Ditzler, N. Bouaynaya  United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023."
   }
 ]

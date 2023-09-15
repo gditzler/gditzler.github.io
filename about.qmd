@@ -5,7 +5,7 @@ editor: source
 
 
 
-I am an Associate Professor in the [Department of Electrical and Computer Engineering](https://engineering.rowan.edu/programs/electricalcomputer/){target="_blank"} at [Rowan University](https://www.rowan.edu/){target="_blank"}, where I perform research in data mining and applied machine learning. 
+I am a [Principal Research Scientist](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University. 
 
 
 ## Education 
@@ -22,7 +22,8 @@ I am an Associate Professor in the [Department of Electrical and Computer Engine
 
 | Position | Institution | Dates |
 | ---- | ----------- |---|
-| Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--Present |
+| Principal Research Scientist | [EpiSci](https://www.episci.com/){target="_blank"} | 2023--Present | 
+| Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--2023 |
 | Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--2022 |
 | Assistant Professor |   | 2015--2021 |
 | Research Intern | [AT&T Research Labs](https://about.att.com/sites/labs_research){target="_blank"} | 2013 |
