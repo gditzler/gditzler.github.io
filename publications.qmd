@@ -17,7 +17,10 @@ editor: source
   arXiv preprint arXiv:2211.14668, 2022. 
 
 
-## Journals 
+## Journals
+1. [Stealthy Adversarial Attacks on Machine Learning-Based Classifiers of Wireless Signals](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9882533){target="_blank"} <br/> 
+  W. Zhang, M. Krunz and G. Ditzler <br/>
+  IEEE Transactions on Machine Learning in Communications and Networking, 2024, accepted. 
 1. [Knowledge Distillation Under Ideal Joint Classifier Assumption](https://arxiv.org/abs/2304.11004){target="_blank"} <br/>
   H. Li, X. Chen, G. Ditzler, P. Chang, J. Roveda, and A. Li <br/>
   Neural Networks, 2024, accepted. ([arXiv:2304.11004](https://arxiv.org/abs/2304.11004){target="_blank"}) 
