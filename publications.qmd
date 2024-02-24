@@ -15,19 +15,22 @@ editor: source
 - [A Maximum Log-Likelihood Method for Imbalanced Few-Shot Learning Tasks](https://arxiv.org/abs/2211.14668){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2211.14668, 2022. 
-
+- [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1911.11705){target="_blank"} <br/>
+  K.-S. Peng, G. Ditzler, and J. Rozenblit
+ <br/>
+  arXiv preprint arXiv:1911.11705, 2019. 
 
 ## Journals
 1. [Stealthy Adversarial Attacks on Machine Learning-Based Classifiers of Wireless Signals](https://ieeexplore.ieee.org/document/10436107){target="_blank"} <br/> 
   W. Zhang, M. Krunz and G. Ditzler <br/>
-  IEEE Transactions on Machine Learning in Communications and Networking, 2024, accepted. 
-1. [Knowledge Distillation Under Ideal Joint Classifier Assumption](https://arxiv.org/abs/2304.11004){target="_blank"} <br/>
+  IEEE Transactions on Machine Learning in Communications and Networking, vol. 2., pp. 261-279, 2024. 
+1. [Knowledge Distillation Under Ideal Joint Classifier Assumption](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000844){target="_blank"} <br/>
   H. Li, X. Chen, G. Ditzler, P. Chang, J. Roveda, and A. Li <br/>
-  Neural Networks, 2024, accepted. ([arXiv:2304.11004](https://arxiv.org/abs/2304.11004){target="_blank"}) 
+  Neural Networks, vol. 173, 2024. ([arXiv:2304.11004](https://arxiv.org/abs/2304.11004){target="_blank"}) 
 1. [ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable AI](https://jmlr.org/papers/v24/21-1261.html){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
   Journal of Machine Learning Research, 24(325):1−49, 2023. 
-1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://arxiv.org/abs/2208.00542){target="_blank"} <br/>
+1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://ieeexplore.ieee.org/document/10018543?denied=){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
   IEEE Journal of Biomedical and Health Informatics, 2023, accepted. ([arXiv:2208.00542](https://arxiv.org/abs/2208.00542){target="_blank"})
 1. [Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00521-022-06920-3){target="_blank"} <br/>
