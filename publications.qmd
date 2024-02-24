@@ -92,13 +92,13 @@ editor: source
 ## Conferences
 1. [Boosting Aerial Object Detection Performance via Virtual Reality Data and Multi-Object Training](https://2023.ijcnn.org/) <br/>
    N. Koutsoubis, K. Naddeo, G.  Williams, G. Lecakes, T. Kiel, G.  Ditzler, N. Bouaynaya <br/>
-   IEEE/INNS International Joint Conference on Neural Networks, 2023.
+   IEEE/INNS International Joint Conference on Neural Networks, 2023. ([talk](https://speakerdeck.com/gditzler/boosting-aerial-object-detection-performance-via-virtual-reality-data-and-multi-object-training){target="_blank"})
 1. [DyViR: Dynamic Virtual Reality Dataset for Aerial Threat Object Detection](https://spie.org/dcs23/conferencedetails/synthetic-data-for-machine-learning?SSO=1)<br/>
   N. Koutsoubis, K. Naddeo, G.  Williams, G. Lecakes, A. Almon, T. Kiel, G.  Ditzler, N. Bouaynaya <br/>
-  SPIE Defense + Commercial Sensing Meeting Information: Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications, 2023. 
+  SPIE Defense + Commercial Sensing Meeting Information: Synthetic Data for Artificial Intelligence and Machine Learning: Tools, Techniques, and Applications, 2023. ([talk](https://speakerdeck.com/gditzler/dyvir-dynamic-virtual-reality-dataset-for-aerial-threat-object-detection){target="_blank"})
 1. [On Reducing Adversarial Vulnerability with Data Dependent Stochastic Resonance](https://ieeexplore.ieee.org/abstract/document/10022248/https://ieeessci2022.org/index.html){target="_blank"} <br/>
   D. Schwartz and G. Ditzler<br/>
-  IEEE Symposium Series on Computational Intelligence, 2022.  
+  IEEE Symposium Series on Computational Intelligence, 2022.  ([talk](https://speakerdeck.com/gditzler/on-reducing-adversarial-vulnerability-with-ddsr){target="_blank"})
 1. [Application of Adversarial Machine learning in Protocol and Modulation Misclassification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12113/121131J/Application-of-adversarial-machine-learning-in-protocol-and-modulation-misclassification/10.1117/12.2619523.full){target="_blank"} <br/>
   M. Krunz, W. Zhang, and G. Ditzler <br/>
   Proceedings of the SPIE, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV, 2022. [[talk](https://www.spiedigitallibrary.org/conference-presentations/12113/0000/Application-of-adversarial-machine-learning-in-protocol-and-modulation-misclassification/10.1117/12.2619523?SSO=1){target="_blank"}]
@@ -122,16 +122,16 @@ editor: source
   IEEE/INNS International Joint Conference on Neural Networks, 2021.
 1. [OrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning](https://ieeexplore.ieee.org/abstract/document/9533766){target="_blank"} <br/>
   S. Hess and G. Ditzler<br/>
-  IEEE/INNS International Joint Conference on Neural Networks, 2021.
+  IEEE/INNS International Joint Conference on Neural Networks, 2021. ([talk](https://speakerdeck.com/gditzler/ordernet-sorting-high-dimensional-low-sample-data-with-few-shot-learning){target="_blank"})
 1. [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
   International Symposium on Visual Computing, 2020. 
 1. [Bypassing Temporal Dependency in Adversarial Audio Examples](https://ieeexplore.ieee.org/abstract/document/9308597){target="_blank"} <br/>
   H. Liu and G. Ditzler<br/>
-  IEEE Symposium Series on Computational Intelligence, 2020. 
+  IEEE Symposium Series on Computational Intelligence, 2020. ([talk](https://speakerdeck.com/gditzler/adversarial-audio-attacks-that-evade-temporal-dependency){target="_blank"})
 1. [Detecting Adversarial Audio via Activation Quantization Error](https://ieeexplore.ieee.org/abstract/document/9206986){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
-  IEEE/INNS International Joint Conference on Neural Networks, 2020.
+  IEEE/INNS International Joint Conference on Neural Networks, 2020. ([talk](https://speakerdeck.com/gditzler/detecting-adversarial-audio-via-activation-quantization-error){target="_blank"})
 1. [Self-Supervised Correlational Monocular Depth Estimation using ResVGG Network](https://pdfs.semanticscholar.org/4940/dbf5d2b484e4afa75217ffdc69f73d996b05.pdf){target="_blank"} <br/>
   K.S. Peng, G. Ditzler and J. Rozenblit<br/>
   International Conference on Intelligent Systems and Image Processing, 2019.
@@ -143,7 +143,7 @@ editor: source
   International Conference on Computing, Networking and Communications, 2019.
 1. [The Impact of an Adversary in a Language Model](https://ieeexplore.ieee.org/abstract/document/8628894/){target="_blank"} <br/>
   Z. Liang and G. Ditzler <br/>
-  IEEE Symposium Series on Computational Intelligence, 2018.
+  IEEE Symposium Series on Computational Intelligence, 2018. ([talk](https://speakerdeck.com/gditzler/the-impact-of-adversaries-on-language-models){target="_blank"})
 1. [Malicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data](https://ieeexplore.ieee.org/abstract/document/8612855/){target="_blank"} <br/>
   S. Hess, P. Satam, G. Ditzler and S. Hariri <br/>
   ACS/IEEE International Conference on Computer Systems and Applications, 2018.
@@ -152,7 +152,7 @@ editor: source
   IEEE/INNS International Joint Conference on Neural Networks, 2018.
 1. [Fine Tuning Lasso in an Adversarial Environment Against Gradient Attacks](https://ieeexplore.ieee.org/abstract/document/8280924/){target="_blank"} <br/>
   G. Ditzler and A. Prater <br/>
-  IEEE Symposium Series on Computational Intelligence, 2017.
+  IEEE Symposium Series on Computational Intelligence, 2017. ([talk](https://speakerdeck.com/gditzler/cidm-2017-talk){target="_blank"})
 1. [Speeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic](https://ieeexplore.ieee.org/abstract/document/8280921/){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
   IEEE Symposium Series on Computational Intelligence, 2017.
@@ -176,10 +176,10 @@ editor: source
   IEEE International Conference on Biomedical and Health Informatics, 2017.
 1. [A Study of Incremental Spectral Meta-Learning for Nonstationary Environments](http://ieeexplore.ieee.org/abstract/document/7727178/){target="_blank"} <br/>
   G. Ditzler   <br/>
-  IEEE/INNS International Joint Conference on Neural Networks, 2016.
+  IEEE/INNS International Joint Conference on Neural Networks, 2016. ([talk](https://speakerdeck.com/gditzler/a-study-of-an-incremental-spectral-meta-learner-for-nonstationary-environments){target="_blank"})
 1. [Scaling a Neyman-Pearson subset selection approach via heuristics for mining massive data ](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008701){target="_blank"}<br/>
   G. Ditzler, M. Austen, R, Polikar, and G. Rosen <br/>
-  IEEE Symposium on Computational Intelligence in Data Mining, 2014. (travel award) 
+  IEEE Symposium on Computational Intelligence in Data Mining, 2014. (travel award) ([talk](https://speakerdeck.com/gditzler/cidm-2014){target="_blank"})
 1. [Feature Subset Selection for Inferring Relative Importance of Taxonomy](http://dl.acm.org/citation.cfm?id=2660824){target="_blank"} <br/>
   G. Ditzler and G. Rosen <br/>
   ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)
@@ -191,7 +191,7 @@ editor: source
   IEEE/INNS International Joint Conference on Neural Networks, 2013.
 1. [Discounted expert weighting for concept drift](http://ieeexplore.ieee.org/document/6595773/?arnumber=6595773){target="_blank"} <br/>
   G. Ditzler, G. Rosen and R. Polikar <br/>
-  IEEE International Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2013.
+  IEEE International Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2013. ([talk](https://speakerdeck.com/gditzler/cidue-2013){target="_blank"})
 1. [Information theoretic feature selection for high dimensional metagenomic data](http://ieeexplore.ieee.org/document/6507749/?arnumber=6507749){target="_blank"} <br />
   G. Ditzler, R. Polikar, and G. Rosen <br/>
   IEEE International Workshop on Genomic Signal Processing and Statistics, 2012.
