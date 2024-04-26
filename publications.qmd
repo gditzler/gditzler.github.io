@@ -5,49 +5,49 @@ editor: source
 ---
 
 
-## Arxiv 
+## Arxiv
 - [PACOL: Poisoning Attacks Against Continual Learners](https://arxiv.org/abs/2311.10919){target="_blank"} <br/>
   H. Li and G. Ditzler <br/>
-  arXiv preprint arXiv:2311.10919, 2023.  
+  arXiv preprint arXiv:2311.10919, 2023.
 - [Sleep Stage Classification with Learning from Evolving Datasets](https://www.techrxiv.org/articles/preprint/Sleep_Stage_Classification_with_Learning_from_Evolving_Datasets/23730546){target="_blank"} <br/>
   H. Li, X. Chen, W. Killmore, S. Quan, G. Ditzler, P. Chang, J. Roveda, and A. Li<br/>
-  techrxiv preprint techrxiv.23730546.v1, 2023. 
+  techrxiv preprint techrxiv.23730546.v1, 2023.
 - [A Maximum Log-Likelihood Method for Imbalanced Few-Shot Learning Tasks](https://arxiv.org/abs/2211.14668){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
-  arXiv preprint arXiv:2211.14668, 2022. 
+  arXiv preprint arXiv:2211.14668, 2022.
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1911.11705){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit
  <br/>
-  arXiv preprint arXiv:1911.11705, 2019. 
+  arXiv preprint arXiv:1911.11705, 2019.
 
 ## Journals
-1. [Stealthy Adversarial Attacks on Machine Learning-Based Classifiers of Wireless Signals](https://ieeexplore.ieee.org/document/10436107){target="_blank"} <br/> 
+1. [Stealthy Adversarial Attacks on Machine Learning-Based Classifiers of Wireless Signals](https://ieeexplore.ieee.org/document/10436107){target="_blank"} <br/>
   W. Zhang, M. Krunz and G. Ditzler <br/>
-  IEEE Transactions on Machine Learning in Communications and Networking, vol. 2., pp. 261-279, 2024. 
+  IEEE Transactions on Machine Learning in Communications and Networking, vol. 2., pp. 261-279, 2024.
 1. [Knowledge Distillation Under Ideal Joint Classifier Assumption](https://www.sciencedirect.com/science/article/abs/pii/S0893608024000844){target="_blank"} <br/>
   H. Li, X. Chen, G. Ditzler, P. Chang, J. Roveda, and A. Li <br/>
-  Neural Networks, vol. 173, 2024. ([arXiv:2304.11004](https://arxiv.org/abs/2304.11004){target="_blank"}) 
+  Neural Networks, vol. 173, 2024. ([arXiv:2304.11004](https://arxiv.org/abs/2304.11004){target="_blank"})
 1. [ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable AI](https://jmlr.org/papers/v24/21-1261.html){target="_blank"} <br/>
   S. Hess and G. Ditzler <br/>
-  Journal of Machine Learning Research, 24(325):1−49, 2023. 
+  Journal of Machine Learning Research, 24(325):1−49, 2023.
 1. [DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal](https://ieeexplore.ieee.org/document/10018543?denied=){target="_blank"} <br/>
   H. Li, G. Ditzler, J. Roveda and A. Li <br/>
   IEEE Journal of Biomedical and Health Informatics, 2023, accepted. ([arXiv:2208.00542](https://arxiv.org/abs/2208.00542){target="_blank"})
 1. [Ovarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks](https://link.springer.com/article/10.1007/s00521-022-06920-3){target="_blank"} <br/>
   D. Schwartz, T. Sawyer, N. Thurston, J. Barton and G. Ditzler <br/>
-  Neural Computing and Applications, vol. 34, no. 11, pp. 8977-8987, 2022. 
+  Neural Computing and Applications, vol. 34, no. 11, pp. 8977-8987, 2022.
 1. [Attack Transferability Against Information-Theoretic Feature Selection](https://ieeexplore.ieee.org/document/9514862){target="_blank"} <br/>
   S. Gupta, R. Golota and G. Ditzler <br/>
-  IEEE Access, 2021, vol. 9, pp. 115885-115894. 
+  IEEE Access, 2021, vol. 9, pp. 115885-115894.
 1. [Data Poisoning Against Information-Theoretic Feature Selection](https://doi.org/10.1016/j.ins.2021.05.049){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
-  Information Sciences, 2021, vol. 573, pp. 396-411.   
+  Information Sciences, 2021, vol. 573, pp. 396-411.
 1. [A Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12546){target="_blank"} <br/>
   J.-H. Jeong, H. Jo, and G. Ditzler <br/>
-  Computer-Aided Civil and Infrastructure Engineering, 2020. 
+  Computer-Aided Civil and Infrastructure Engineering, 2020.
 1. [Learning What We Don't Care About: Regularization with Sacrifical Functions](https://www.sciencedirect.com/science/article/pii/S0020025519304219?via%3Dihub){target="_blank"} <br/>
   G. Ditzler, S. Miller, and J. Rozenblit <br/>
-  Information Sciences, 2019, vol. 496, pp. 198-211. 
+  Information Sciences, 2019, vol. 496, pp. 198-211.
 1. [A Semi-Parallel Framework for Greedy Information-Theoretic Feature Selection](https://www.sciencedirect.com/science/article/pii/S0020025519302865?dgcid=coauthor){target="_blank"} <br/>
   H. Liu and G. Ditzler <br/>
   Information Sciences, 2019, vol. 492, pp. 13-28.
@@ -56,10 +56,10 @@ editor: source
   BMC BioData Mining, 2019, vol. 12, no. 9.
 1. [A Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments](https://ieeexplore.ieee.org/document/8336956/){target="_blank"}<br/>
   R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler <br/>
-  IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570. 
+  IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570.
 1. [Weight normalization with spiking neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302508){target="_blank"}<br/>
   Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu<br/>
-  Neural Networks, 2018, vol. 108, pp. 365-378. 
+  Neural Networks, 2018, vol. 108, pp. 365-378.
 1. [AKRON: An Algorithm for Approximating Sparse Kernel Reconstruction](http://www.sciencedirect.com/science/article/pii/S0165168417303791){target="_blank"}<br/>
   G. Ditzler, N. Bouaynaya, and R. Shterenberg <br />
   Signal Processing, vol. 144, 2018, pp. 265-270.
@@ -71,16 +71,16 @@ editor: source
   IEEE Transactions on Neural Networks and Learning Systems, 2018, vol. 29, no. 6, pp. 2530-2544.
 1. [Fizzy: Feature selection for metagenomics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0793-8){target="_blank"}<br />
   G. Ditzler, J. Calvin Morrison, Y. Lan, and G. Rosen<br />
-  BMC Bioinformatics, 2015, vol 16, no. 358. 
+  BMC Bioinformatics, 2015, vol 16, no. 358.
 1. [Multi-Layer and Recursive Neural Networks for Metagenomic Classification](http://ieeexplore.ieee.org/document/7219432/){target="_blank"}<br />
   G. Ditzler, R. Polikar, and G. Rosen<br />
   IEEE Transactions on Nanobioscience, 2015, vol. 14, no. 6, pp. 608-616.
 1. [Adaptive strategies for learning in nonstationary environments: a survey](http://ieeexplore.ieee.org/document/7296710/){target="_blank"}<br />
   G. Ditzler, M. Roveri, C. Alippi, and R. Polikar<br />
-  IEEE Computational Intelligence Magazine, 2015, vol. 10, no. 4, pp. 12-25.  
+  IEEE Computational Intelligence Magazine, 2015, vol. 10, no. 4, pp. 12-25.
 1. [A bootstrap based Neyman-Pearson test for identifying variable importance](http://ieeexplore.ieee.org/document/6823119/){target="_blank"}<br />
   G. Ditzler, R. Polikar, and G. Rosen<br />
-  IEEE Transactions on Neural Networks and Learning Systems, 2015, vol. 26, no. 4, pp. 880-886. 
+  IEEE Transactions on Neural Networks and Learning Systems, 2015, vol. 26, no. 4, pp. 880-886.
 1. [Incremental learning of concept drift from streaming imbalanced data](http://ieeexplore.ieee.org/document/6235959/){target="_blank"}<br />
   G. Ditzler and R. Polikar<br />
   IEEE Transactions on Knowledge & Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301.
@@ -125,7 +125,7 @@ editor: source
   IEEE/INNS International Joint Conference on Neural Networks, 2021. ([talk](https://speakerdeck.com/gditzler/ordernet-sorting-high-dimensional-low-sample-data-with-few-shot-learning){target="_blank"})
 1. [A Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction](https://link.springer.com/chapter/10.1007/978-3-030-64559-5_6){target="_blank"} <br/>
   K.-S. Peng, G. Ditzler, and J. Rozenblit<br/>
-  International Symposium on Visual Computing, 2020. 
+  International Symposium on Visual Computing, 2020.
 1. [Bypassing Temporal Dependency in Adversarial Audio Examples](https://ieeexplore.ieee.org/abstract/document/9308597){target="_blank"} <br/>
   H. Liu and G. Ditzler<br/>
   IEEE Symposium Series on Computational Intelligence, 2020. ([talk](https://speakerdeck.com/gditzler/adversarial-audio-attacks-that-evade-temporal-dependency){target="_blank"})
@@ -185,7 +185,7 @@ editor: source
   ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)
 1. [Domain Adaptation Bounds for Multiple Expert Systems Under Concept Drift](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6889909){target="_blank"} <br/>
   G. Ditzler, G. Rosen, and R. Polikar <br/>
-  IEEE/INNS International Joint Conference on Neural Networks, 2014. (travel award & best student paper) 
+  IEEE/INNS International Joint Conference on Neural Networks, 2014. (travel award & best student paper)
 1. [Incremental learning of new classes with unbalanced data](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6706770){target="_blank"} <br/>
   G. Ditzler, G. Rosen, and R. Polikar <br/>
   IEEE/INNS International Joint Conference on Neural Networks, 2013.
@@ -228,9 +228,9 @@ editor: source
 
 
 
-## Book Chapters  
+## Book Chapters
 1. [Analysis Methods for Shotgun Metagenomics](https://link.springer.com/chapter/10.1007/978-3-319-74974-7_5){target="_blank"} <br />
-  S. Woloszynek, Z. Zhao, G. Ditzler, J. R. Price, E. R. Reichenberger, Y. Lan, J. Chen, J. Earl, 
+  S. Woloszynek, Z. Zhao, G. Ditzler, J. R. Price, E. R. Reichenberger, Y. Lan, J. Chen, J. Earl,
   S. Keshani Langroodi, G. Ehrlich and G. Rosen <br />
   Springer Theoretical and Applied Aspects of Systems Biology, 2018, pp. 71–112.
 1. [Adaptive classifiers for nonstationary environments](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119036821.ch7){target="_blank"} <br />
@@ -238,13 +238,13 @@ editor: source
   Contemporary Issues in Systems, Science and Engineering, IEEE/Wiley Press Book Series, 2015.
 1. [Variable Selection to Improve Classification of Metagenomes](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_364-4){target="_blank"} <br />
   G. Ditzler, Y. Lan, J.-L. Bouchot, and G. Rosen <br />
-  In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014. 
+  In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014.
 1. [Advances in machine learning for processing and comparison of metagenomic data](https://app.dimensions.ai/details/publication/pub.1030514139){target="_blank"} <br />
   J.-L. Bouchot, W. Trimble, G. Ditzler, Y. Lan, S. Essinger, and G. Rosen <br />
   In: Computational Systems Biology, 295-329, 2014
 
 
-## Technical Reports 
+## Technical Reports
 1. [Review of Automatic Speech Recognition Methodologies](https://rosap.ntl.bts.gov/view/dot/68518){target="_blank"} <br/>
    G. Achour, O. Salunke, A. Payan, E. Harrison, C. Sahbani, G. Carannante, G. Ditzler, N. Bouaynaya <br/>
-   United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023. 
+   United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023.
