@@ -248,3 +248,8 @@ editor: source
 1. [Review of Automatic Speech Recognition Methodologies](https://rosap.ntl.bts.gov/view/dot/68518){target="_blank"} <br/>
    G. Achour, O. Salunke, A. Payan, E. Harrison, C. Sahbani, G. Carannante, G. Ditzler, N. Bouaynaya <br/>
    United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023.
+
+## Patents
+1. Convolutional neural networks for pavement roughness assessment using calibration-free vehicle dynamics <br/>
+   Hongki Jo, Jong-hyun Jeong, Gregory Ditzler <br/>
+   US Patent App. 18/554,891, 2024

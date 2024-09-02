@@ -159,5 +159,12 @@
     "title": "Publications",
     "section": "Technical Reports",
     "text": "Technical Reports\n\nReview of Automatic Speech Recognition Methodologies  G. Achour, O. Salunke, A. Payan, E. Harrison, C. Sahbani, G. Carannante, G. Ditzler, N. Bouaynaya  United States. Department of Transportation. Federal Aviation Administration. William J. Hughes Technical Center, DOT/FAA/TC-23/47, 2023."
+  },
+  {
+    "objectID": "publications.html#patents",
+    "href": "publications.html#patents",
+    "title": "Publications",
+    "section": "Patents",
+    "text": "Patents\n\nConvolutional neural networks for pavement roughness assessment using calibration-free vehicle dynamics  Hongki Jo, Jong-hyun Jeong, Gregory Ditzler  US Patent App. 18/554,891, 2024"
   }
 ]

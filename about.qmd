@@ -8,7 +8,7 @@ editor: source
 I am a [Technical Director](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University. You can find many of my talks and lectures on machine learning lectures posted on [SpeakerDeck](https://speakerdeck.com/gditzler){target="_blank"}.
 
 
-## Education 
+## Education
 
 
 | Degree | Institution | Dates |
@@ -18,12 +18,12 @@ I am a [Technical Director](https://www.episci.com/episci-team/){target="_blank"
 | __BSc__ | [The Pennsylvania College of Technology](https://www.pct.edu/){target="_blank"} | 2008 |
 
 
-## Employment  
+## Employment
 
 | Position | Institution | Dates |
 | ---- | ----------- |---|
-| Technical Director | [EpiSci](https://www.episci.com/){target="_blank"} | 2024--Present | 
-| Principal Research Scientist | | 2023/24 | 
+| Technical Director | [EpiSci](https://www.episci.com/){target="_blank"} | 2024--Present |
+| Principal Research Scientist | | 2023/24 |
 | Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--2023 |
 | Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--2022 |
 | Assistant Professor |   | 2015--2021 |
@@ -35,7 +35,7 @@ I am a [Technical Director](https://www.episci.com/episci-team/){target="_blank"
 
 
 ## In the News
-* [Meet the eight new faculty members of the Henry M. Rowan College of Engineering](https://engineering.rowan.edu/news/newfaculty22.html) 
+* [Meet the eight new faculty members of the Henry M. Rowan College of Engineering](https://engineering.rowan.edu/news/newfaculty22.html)
 * [Undergraduates Experience Engaging Research](https://ece.engineering.arizona.edu/news-events/undergraduates-experience-engaging-research)
 * [Arizona Researcher Is Self-Driven](https://bearessentialnews.com/pdf/tucson/july-2022/july-2022-tucson){target="_blank"}
 * [Hands-On Research Experiences Sets Undergraduates Up for Success](https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success){target="_blank"}
