@@ -90,7 +90,10 @@ editor: source
 
 
 ## Conferences
-1. [Boosting Aerial Object Detection Performance via Virtual Reality Data and Multi-Object Training](https://2023.ijcnn.org/) <br/>
+1. [A Curriculum Learning Framework to Boost Object Detection on Unmanned Aerial Objects](https://ieee-ssci.org//) <br/>
+   E. Aslan, R. Polikar, G.  Ditzler <br/>
+   IEEE Symposium Series on Computational Intelligence, 2025.
+1. [Boosting Aerial Object Detection Performance via Virtual Reality Data and Multi-Object Training](https://ieeexplore.ieee.org/document/10191223/) <br/>
    N. Koutsoubis, K. Naddeo, G.  Williams, G. Lecakes, T. Kiel, G.  Ditzler, N. Bouaynaya <br/>
    IEEE/INNS International Joint Conference on Neural Networks, 2023. ([talk](https://speakerdeck.com/gditzler/boosting-aerial-object-detection-performance-via-virtual-reality-data-and-multi-object-training){target="_blank"})
 1. [DyViR: Dynamic Virtual Reality Dataset for Aerial Threat Object Detection](https://spie.org/dcs23/conferencedetails/synthetic-data-for-machine-learning?SSO=1)<br/>
