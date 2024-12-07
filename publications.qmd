@@ -16,8 +16,7 @@ editor: source
   S. Hess and G. Ditzler <br/>
   arXiv preprint arXiv:2211.14668, 2022.
 - [Edge-Guided Occlusion Fading Reduction for a Light-Weighted Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1911.11705){target="_blank"} <br/>
-  K.-S. Peng, G. Ditzler, and J. Rozenblit
- <br/>
+  K.-S. Peng, G. Ditzler, and J. Rozenblit <br/>
   arXiv preprint arXiv:1911.11705, 2019.
 
 ## Journals
