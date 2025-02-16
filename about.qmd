@@ -5,7 +5,7 @@ editor: source
 
 
 
-I am a [Technical Director](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University. You can find many of my talks and lectures on machine learning lectures posted on [SpeakerDeck](https://speakerdeck.com/gditzler){target="_blank"}.
+I am a [Chief Engineer](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci (an Applied Inutition Company)](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University. You can find many of my talks and lectures on machine learning lectures posted on [SpeakerDeck](https://speakerdeck.com/gditzler){target="_blank"}.
 
 
 ## Education
@@ -22,7 +22,8 @@ I am a [Technical Director](https://www.episci.com/episci-team/){target="_blank"
 
 | Position | Institution | Dates |
 | ---- | ----------- |---|
-| Technical Director | [EpiSci](https://www.episci.com/){target="_blank"} | 2024--Present |
+| Chief Engineer | [EpiSci (an Applied Inutition Company)](https://www.episci.com/){target="_blank"} | 2025--Present |
+| Technical Director | | 2024 |
 | Principal Research Scientist | | 2023/24 |
 | Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--2023 |
 | Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--2022 |
