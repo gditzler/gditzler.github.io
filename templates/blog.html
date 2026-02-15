@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}Blog | {{ config.title }}{% endblock %}
+
+{% block content %}
+<h1>Blog</h1>
+
+<div class="blog-list">
+  {% if paginator %}
+    {% set pages = paginator.pages %}
+  {% else %}
+    {% set pages = section.pages %}
+  {% endif %}
+
+  {% for post in pages %}
+  <div class="post-preview">
+    <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+    <div class="post-meta">
+      <time datetime="{{ post.date }}">{{ post.date | date(format="%B %e, %Y") }}</time>
+      {% if post.reading_time %}
+      &middot; {{ post.reading_time }} min read
+      {% endif %}
+    </div>
+    {% if post.summary %}
+    <p class="post-summary">{{ post.summary | safe }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+
+{% if paginator %}
+<div class="pagination">
+  {% if paginator.previous %}
+  <a href="{{ paginator.previous }}">&larr; Newer</a>
+  {% endif %}
+  {% if paginator.next %}
+  <a href="{{ paginator.next }}">Older &rarr;</a>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}

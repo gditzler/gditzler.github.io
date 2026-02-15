@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ config.title }}{% endblock %}
+
+{% block content %}
+<article class="blog-post">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date }}">{{ page.date | date(format="%B %e, %Y") }}</time>
+      {% if page.reading_time %}
+      &middot; {{ page.reading_time }} min read
+      {% endif %}
+    </div>
+  </header>
+
+  {% if page.toc %}
+  <nav class="post-toc">
+    <h3>Table of Contents</h3>
+    <ul>
+      {% for h1 in page.toc %}
+      <li>
+        <a href="{{ h1.permalink }}">{{ h1.title }}</a>
+        {% if h1.children %}
+        <ul>
+          {% for h2 in h1.children %}
+          <li><a href="{{ h2.permalink }}">{{ h2.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+
+  <div class="page-content">
+    {{ page.content | safe }}
+  </div>
+
+  <nav class="post-nav">
+    {% if page.earlier %}
+    <div class="prev">
+      <span class="label">Previous</span>
+      <a href="{{ page.earlier.permalink }}">{{ page.earlier.title }}</a>
+    </div>
+    {% endif %}
+    {% if page.later %}
+    <div class="next">
+      <span class="label">Next</span>
+      <a href="{{ page.later.permalink }}">{{ page.later.title }}</a>
+    </div>
+    {% endif %}
+  </nav>
+</article>
+{% endblock %}

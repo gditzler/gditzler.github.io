@@ -1,0 +1,19 @@
+base_url = "https://gditzler.github.io"
+title = "Gregory Ditzler"
+description = "Personal academic website of Gregory Ditzler"
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+
+[markdown]
+
+[markdown.highlighting]
+style = "class"
+light_theme = "catppuccin-latte"
+dark_theme = "catppuccin-mocha"
+
+[extra]
+github = "https://github.com/gditzler"
+linkedin = "https://www.linkedin.com/in/gregory-c-ditzler/"
+google_scholar = "https://scholar.google.com/citations?user=diET1AsAAAAJ&hl=en"
+speakerdeck = "https://speakerdeck.com/gditzler"

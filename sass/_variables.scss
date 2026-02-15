@@ -1,0 +1,98 @@
+// NightFox (dark) palette
+:root,
+[data-theme="dark"] {
+  // Backgrounds
+  --nf-bg-darkest: #131a24;
+  --nf-bg-dark: #192330;
+  --nf-bg-mid: #212e3f;
+  --nf-bg-light: #29394f;
+  --nf-bg-lighter: #39506d;
+
+  // Foregrounds
+  --nf-fg-bright: #d6d6d7;
+  --nf-fg: #cdcecf;
+  --nf-fg-dim: #aeafb0;
+  --nf-fg-muted: #71839b;
+
+  // Accents
+  --nf-blue: #719cd6;
+  --nf-green: #81b29a;
+  --nf-cyan: #63cdcf;
+  --nf-orange: #f4a261;
+  --nf-red: #c94f6d;
+  --nf-magenta: #9d79d6;
+  --nf-yellow: #dbc074;
+  --nf-pink: #d67ad2;
+
+  // Semantic mappings
+  --color-bg: var(--nf-bg-dark);
+  --color-bg-alt: var(--nf-bg-mid);
+  --color-bg-hover: var(--nf-bg-light);
+  --color-bg-code: var(--nf-bg-darkest);
+  --color-surface: var(--nf-bg-mid);
+  --color-border: var(--nf-bg-lighter);
+  --color-text: var(--nf-fg);
+  --color-text-bright: var(--nf-fg-bright);
+  --color-text-dim: var(--nf-fg-dim);
+  --color-text-muted: var(--nf-fg-muted);
+  --color-heading: var(--nf-fg-bright);
+  --color-link: var(--nf-blue);
+  --color-link-hover: var(--nf-cyan);
+  --color-accent: var(--nf-blue);
+  --color-accent-secondary: var(--nf-green);
+  --color-nav-bg: var(--nf-bg-darkest);
+  --color-nav-text: var(--nf-fg-dim);
+  --color-nav-active: var(--nf-blue);
+  --color-footer-bg: var(--nf-bg-darkest);
+  --color-inline-code-bg: var(--nf-bg-mid);
+  --color-tag: var(--nf-magenta);
+}
+
+// DayFox (light) palette
+[data-theme="light"] {
+  // Backgrounds
+  --nf-bg-darkest: #e4dcd4;
+  --nf-bg-dark: #f6f2ee;
+  --nf-bg-mid: #dbd1dd;
+  --nf-bg-light: #d3c7bb;
+  --nf-bg-lighter: #aab0ad;
+
+  // Foregrounds
+  --nf-fg-bright: #302b5d;
+  --nf-fg: #3d2b5a;
+  --nf-fg-dim: #643f61;
+  --nf-fg-muted: #824d5b;
+
+  // Accents
+  --nf-blue: #2848a9;
+  --nf-green: #396847;
+  --nf-cyan: #287980;
+  --nf-orange: #955f61;
+  --nf-red: #a5222f;
+  --nf-magenta: #6e33ce;
+  --nf-yellow: #ac5402;
+  --nf-pink: #a440b5;
+
+  // Semantic mappings
+  --color-bg: var(--nf-bg-dark);
+  --color-bg-alt: #ffffff;
+  --color-bg-hover: var(--nf-bg-darkest);
+  --color-bg-code: var(--nf-bg-darkest);
+  --color-surface: #ffffff;
+  --color-border: var(--nf-bg-light);
+  --color-text: var(--nf-fg);
+  --color-text-bright: var(--nf-fg-bright);
+  --color-text-dim: var(--nf-fg-dim);
+  --color-text-muted: var(--nf-fg-muted);
+  --color-heading: var(--nf-fg-bright);
+  --color-link: var(--nf-blue);
+  --color-link-hover: var(--nf-cyan);
+  --color-accent: var(--nf-blue);
+  --color-accent-secondary: var(--nf-green);
+  --color-nav-bg: var(--nf-bg-darkest);
+  --color-nav-text: var(--nf-fg-dim);
+  --color-nav-active: var(--nf-blue);
+  --color-footer-bg: var(--nf-bg-darkest);
+  --color-inline-code-bg: var(--nf-bg-darkest);
+  --color-tag: var(--nf-magenta);
+}
