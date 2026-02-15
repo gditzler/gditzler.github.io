@@ -1,0 +1,56 @@
+---
+title: "About"
+editor: source
+---
+
+
+
+I am a [Engineering Director](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci (an Applied Inutition Company)](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University. You can find many of my talks and lectures on machine learning lectures posted on [SpeakerDeck](https://speakerdeck.com/gditzler){target="_blank"}.
+
+
+## Education
+
+
+| Degree | Institution | Dates |
+| --- | ----------- |---|
+| __PhD__ | [Drexel University](https://drexel.edu/){target="_blank"} | 2015 |
+| __MSc__ | [Rowan University](http://rowan.edu/){target="_blank"} |2011 |
+| __BSc__ | [The Pennsylvania College of Technology](https://www.pct.edu/){target="_blank"} | 2008 |
+
+
+## Employment
+
+| Position | Institution | Dates |
+| ---- | ----------- |---|
+| Engineering Director | [EpiSci (an Applied Inutition Company)](https://www.episci.com/){target="_blank"} | 2025--Present |
+| Technical Director | | 2024 |
+| Principal Research Scientist | | 2023/24 |
+| Associate Professor | [Rowan University](http://rowan.edu/){target="_blank"}  | 2022--2023 |
+| Associate Professor | [University of Arizona](https://arizona.edu/){target="_blank"}  | 2021--2022 |
+| Assistant Professor |   | 2015--2021 |
+| Research Intern | [AT&T Research Labs](https://about.att.com/sites/labs_research){target="_blank"} | 2013 |
+| Electronics Systems Engineer | [QorTek, Inc.](https://qortek.com/){target="_blank"} | 2009 |
+
+
+
+
+
+## In the News
+* [Meet the eight new faculty members of the Henry M. Rowan College of Engineering](https://engineering.rowan.edu/news/newfaculty22.html)
+* [Undergraduates Experience Engaging Research](https://ece.engineering.arizona.edu/news-events/undergraduates-experience-engaging-research)
+* [Arizona Researcher Is Self-Driven](https://bearessentialnews.com/pdf/tucson/july-2022/july-2022-tucson){target="_blank"}
+* [Hands-On Research Experiences Sets Undergraduates Up for Success](https://ece.engineering.arizona.edu/news-events/hands-research-experiences-sets-undergraduates-success){target="_blank"}
+* [UArizona ECE News: Adegbija, Ditzler and Akoglu Promoted](https://ece.engineering.arizona.edu/news-events/adegbija-ditzler-and-akoglu-promoted){target="_blank"}
+* [UArizona ECE Magazine 2021](https://issuu.com/azengineering/docs/ece_2021magazine){target="_blank"}
+* [Lebanon County native receives National Science Foundation award](https://www.pennlive.com/news/2020/07/lebanon-county-native-receives-national-science-foundation-award.html){target="_blank"}
+* [Penn College alum honored with NSF award](https://pctoday.pct.edu/penn-college-alum-honored-with-nsf-faculty-award/){target="_blank"}
+* [Researchers want to know how bad actors are tricking machine learning](https://edscoop.com/university-arizona-machine-learning-algorithm-research/){target="_blank"}
+* [University of Arizona College of Engineering Digest](https://news.engineering.arizona.edu/news/electrical-engineer-trains-computers-distinguish-between-friend-and-foe){target="_blank"}
+* [What Can Cyberdefenses Learn from the Human Immune System?](https://www.govtech.com/news/What-Can-Cyberdefenses-Learn-from-the-Human-Immune-System.html){target="_blank"}
+* [$3M Grant to Create Cybersecurity Modeled After Human Body](https://ece.engineering.arizona.edu/news-events/3m-grant-create-cybersecurity-modeled-after-human-body){target="_blank"}
+* [IEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award](https://ece.engineering.arizona.edu/news-events/ieee-recognizes-ece-professor-fellow-authors-outstanding-paper-award){target="_blank"}
+* [Five New Faculty Members Boost Research and Academics](https://ece.engineering.arizona.edu/news-events/five-new-faculty-members-boost-research-and-academics){target="_blank"}
+
+
+
+

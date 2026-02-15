@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Electrical and Computer Engineering at Rowan University, where I perform research in data mining and applied machine learning."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Electrical and Computer Engineering at Rowan University, where I perform research in data mining and applied machine learning."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\n\n\nDegree\nInstitution\nDates\n\n\n\n\nPhD\nDrexel University\n2015\n\n\nMSc\nRowan University\n2011\n\n\nBSc\nThe Pennsylvania College of Technology\n2008"
+  },
+  {
+    "objectID": "index.html#employment",
+    "href": "index.html#employment",
+    "title": "About Me",
+    "section": "Employment",
+    "text": "Employment\n\n\n\nPosition\nInstitution\nDates\n\n\n\n\nAssociate Professor\nRowan University\n2022–Present\n\n\nAssociate Professor\nUniversity of Arizona\n2021–2022\n\n\nAssistant Professor\n\n2015–2021\n\n\nResearch Intern\nAT&T Research Labs\n2013\n\n\nElectronics Systems Engineer\nQorTek, Inc.\n2009"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "About Me",
+    "section": "Teaching",
+    "text": "Teaching\n\nRowan University\n\nECE09455/09555 - Machine Learning [Fa2022]\n\n\n\nUniversity of Arizona\n\nECE175 - Computer Programming for Engineering Applications [Sp2016, Fa2016]\nECE429/529 - Introduction to Digital Signal Processing [Fa2018, Fa2020]\nECE441a/541a - Automatic Control [Fa2015, Fa2017, Fa2019, Fa2021]\nECE442/542 - Digital Control Systems [Sp2022]\nECE523 - Engineering Applications of Machine Learning and Data Analytics [Sp2017, Sp2018, Sp2019, Sp2020, Sp2021, Sp2022]"
+  },
+  {
+    "objectID": "index.html#in-the-news",
+    "href": "index.html#in-the-news",
+    "title": "About Me",
+    "section": "In the News",
+    "text": "In the News\n\nArizona Researcher Is Self-Driven\nHands-On Research Experiences Sets Undergraduates Up for Success\nUArizona ECE News: Adegbija, Ditzler and Akoglu Promoted\nUArizona ECE Magazine 2021\nLebanon County native receives National Science Foundation award\nPenn College alum honored with NSF award\nResearchers want to know how bad actors are tricking machine learning\nUniversity of Arizona College of Engineering Digest\nWhat Can Cyberdefenses Learn from the Human Immune System?\n$3M Grant to Create Cybersecurity Modeled After Human Body\nIEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award\nFive New Faculty Members Boost Research and Academics"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable AI  S. Hess and G. Ditzler  arXiv preprint arXiv:2110.11597, 2021.\nDeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal  H. Li, G. Ditzler, J. Roveda and A. Li  arXiv preprint arXiv:2208.00542, 2022."
+  },
+  {
+    "objectID": "publications.html#journals",
+    "href": "publications.html#journals",
+    "title": "Publications",
+    "section": "Journals",
+    "text": "Journals\n\nOvarian Cancer Detection Using Optical Coherence Tomography and Convolutional Neural Networks  D. Schwartz, T. Sawyer, N. Thurston, J. Barton and G. Ditzler  Neural Computing and Applications, vol. 34, no. 11, pp. 8977-8987, 2022.\nAttack Transferability Against Information-Theoretic Feature Selection  S. Gupta, R. Golota and G. Ditzler  IEEE Access, 2021, vol. 9, pp. 115885-115894.\nData Poisoning Against Information-Theoretic Feature Selection  H. Liu and G. Ditzler  Information Sciences, 2021, vol. 573, pp. 396-411.\n\nA Convolutional Neural Network-enabled Pavement Roughness Assessment using Non-calibrated Vehicle Dynamic Responses  J.-H. Jeong, H. Jo, and G. Ditzler  Computer-Aided Civil and Infrastructure Engineering, 2020.\nLearning What We Don’t Care About: Regularization with Sacrifical Functions  G. Ditzler, S. Miller, and J. Rozenblit  Information Sciences, 2019, vol. 496, pp. 198-211.\nA Semi-Parallel Framework for Greedy Information-Theoretic Feature Selection  H. Liu and G. Ditzler  Information Sciences, 2019, vol. 492, pp. 13-28.\nApproximate Kernel Reconstruction for Time-Varying Networks  G. Ditzler, N. Bouaynaya, R. Shterenberg, and H. M. Fathallah Shaykh  BMC BioData Mining, 2019, vol. 12, no. 9.\nA Novelty Detector and Extreme Verification Latency Model for Nonstationary Environments R. Razavi-Far, E. Hallaji, M. Saif, and G. Ditzler  IEEE Transactions on Industrial Electronics, 2019, vol. 66, no. 1, pp. 561-570.\nWeight normalization with spiking neural networks Z. Liang, D. Schwartz, G. Ditzler, and O. Ozan Koyluoglu Neural Networks, 2018, vol. 108, pp. 365-378.\nAKRON: An Algorithm for Approximating Sparse Kernel Reconstruction G. Ditzler, N. Bouaynaya, and R. Shterenberg  Signal Processing, vol. 144, 2018, pp. 265-270.\nImprovements to Scalable Online Feature Selection Using Bagging and Boosting G. Ditzler, J. LaBarck, J. Ritchie, G. Rosen, and R. Polikar IEEE Transactions on Neural Networks and Learning Systems, 2018. vol. 29, no. 9, pp. 4504-4509\nA Sequential Learning Approach for Scaling up Filter-Based Feature Subset Selection G. Ditzler, R. Polikar, and G. Rosen IEEE Transactions on Neural Networks and Learning Systems, 2018, vol. 29, no. 6, pp. 2530-2544.\nFizzy: Feature selection for metagenomics G. Ditzler, J. Calvin Morrison, Y. Lan, and G. Rosen BMC Bioinformatics, 2015, vol 16, no. 358.\nMulti-Layer and Recursive Neural Networks for Metagenomic Classification G. Ditzler, R. Polikar, and G. Rosen IEEE Transactions on Nanobioscience, 2015, vol. 14, no. 6, pp. 608-616.\nAdaptive strategies for learning in nonstationary environments: a survey G. Ditzler, M. Roveri, C. Alippi, and R. Polikar IEEE Computational Intelligence Magazine, 2015, vol. 10, no. 4, pp. 12-25.\n\nA bootstrap based Neyman-Pearson test for identifying variable importance G. Ditzler, R. Polikar, and G. Rosen IEEE Transactions on Neural Networks and Learning Systems, 2015, vol. 26, no. 4, pp. 880-886.\nIncremental learning of concept drift from streaming imbalanced data G. Ditzler and R. Polikar IEEE Transactions on Knowledge & Data Engineering, 2013, vol. 25, no. 10, pp. 2283–2301."
+  },
+  {
+    "objectID": "publications.html#conferences",
+    "href": "publications.html#conferences",
+    "title": "Publications",
+    "section": "Conferences",
+    "text": "Conferences\n\nApplication of Adversarial Machine learning in Protocol and Modulation Misclassification  M. Krunz, W. Zhang, and G. Ditzler  Proceedings of the SPIE, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications IV, 2022. [talk]\nTargeted Data Poisoning Attacks Against Continual Learning Neural Networks  H. Li and G. Ditzler  IEEE/INNS International Joint Conference on Neural Networks, 2022.\nInter-Architecture Portability of Artificial Neural Networks and Side Channel Attacks  M. Gopale, G. Ditzler, R. Lysecky and J. Roveda  Great Lakes Symposium on VLSI (GLSVLSI), 2022.\nIntelligent Jamming of Deep Neural Network Based Signal Classification for Shared Spectrum  W. Zhang, M. Krunz, and G. Ditzler  Military Communications Conference (MILCOM), 2021.\nMulti-Layer Mapping of Cyberspace for Intrusion Detection  S. Shao, P. Satam, S. Satam, K. AI-Awady, G. Ditzler, S. Hariri, and C. Tunc  ACS/IEEE International Conference on Computer Systems and Applications, 2021.\nAdversarial Filters for Secure Modulation Classification  A. Berian, K. Staab, G. Ditzler, T. Bose, and R. Tandon Asilomar Conference on Signals, Systems and Computers, 2021.\nBolstering Adversarial Robustness with Latent Disparity Regularization  D. Schwartz and G. Ditzler IEEE/INNS International Joint Conference on Neural Networks, 2021.\nOrderNet: Sorting High Dimensional Low Sample Data with Few-Shot Learning  S. Hess and G. Ditzler IEEE/INNS International Joint Conference on Neural Networks, 2021.\nA Light-Weight Monocular Depth Estimation With Edge-Guided Occlusion Fading Reduction  K.-S. Peng, G. Ditzler, and J. Rozenblit International Symposium on Visual Computing, 2020.\nBypassing Temporal Dependency in Adversarial Audio Examples  H. Liu and G. Ditzler IEEE Symposium Series on Computational Intelligence, 2020.\nDetecting Adversarial Audio via Activation Quantization Error  H. Liu and G. Ditzler  IEEE/INNS International Joint Conference on Neural Networks, 2020.\nSelf-Supervised Correlational Monocular Depth Estimation using ResVGG Network  K.S. Peng, G. Ditzler and J. Rozenblit International Conference on Intelligent Systems and Image Processing, 2019.\nPoisoning mRMR with Adversarial Data  H. Liu and G. Ditzler  IEEE International Conference on Acoustics, Speech and Signal Processing, 2019.\nOnline Reconfigurable Antenna State Selection based on Thompson Sampling  T. Zhao, G. Ditzler, and M. Li  International Conference on Computing, Networking and Communications, 2019.\nThe Impact of an Adversary in a Language Model  Z. Liang and G. Ditzler  IEEE Symposium Series on Computational Intelligence, 2018.\nMalicious HTML File Prediction: A Detection and Classification Perspective with Noisy Data  S. Hess, P. Satam, G. Ditzler and S. Hariri  ACS/IEEE International Conference on Computer Systems and Applications, 2018.\nNonlinear Brain Tumor Model Estimation with Long Short-Term Memory Neural Networks  J. Guo, Z. Liang, E. Scribner, G. Ditzler, N. Bouaynaya and H. Fathallah-Shaykh  IEEE/INNS International Joint Conference on Neural Networks, 2018.\nFine Tuning Lasso in an Adversarial Environment Against Gradient Attacks  G. Ditzler and A. Prater  IEEE Symposium Series on Computational Intelligence, 2017.\nSpeeding Up Joint Mutual Information Feature Selection with an Optimization Heuristic  H. Liu and G. Ditzler  IEEE Symposium Series on Computational Intelligence, 2017.\nFramework to Support DDDAS Decision” Support Systems: Design Overview  G. Ditzler, A. Akoglu, and S. Hariri  Workshop on InfoSymbiotics: DDDAS Dynamic Data Driven Applications Systems, 2017.\nA Self-Protection Agent using Error Correcting Output Codes to Secure Computers and Applications  F. de la Pena Montero, S. Hariri, and G. Ditzler  IEEE International Conference on Cloud and Autonomic Computing, 2017.\nAutonomic Management of 3D Cardiac Simulations  E. Esmaili, A. Akoglu, G. Ditzler, S. Hariri, J. Szep and T. Moukabary  IEEE International Conference on Cloud and Autonomic Computing, 2017. (best paper award)\nFraud Analysis Approaches in the Age of Big Data - A Review of State of the Art  S. Makki, R. Haque, Y. Taher, Z. Assaghir, G. Ditzler, M.-S. Hacid and H. Zeineddine  International Workshop on Autonomic Systems for Big Data Analytics, 2017.\nA Fast Information-theoretic Approximation of Joint Mutual Information Feature Selection  H. Liu and G. Ditzler  IEEE/INNS International Joint Conference on Neural Networks, 2017.\nThe AKRON-Kalman Filter for Tracking Time-Varying Networks  V. Carluccio, N. Bouaynaya, G. Ditzler, and H. M. Fathallah Shaykh  IEEE International Conference on Biomedical and Health Informatics, 2017.\nA Study of Incremental Spectral Meta-Learning for Nonstationary Environments  G. Ditzler  IEEE/INNS International Joint Conference on Neural Networks, 2016.\nScaling a Neyman-Pearson subset selection approach via heuristics for mining massive data G. Ditzler, M. Austen, R, Polikar, and G. Rosen  IEEE Symposium on Computational Intelligence in Data Mining, 2014. (travel award)\nFeature Subset Selection for Inferring Relative Importance of Taxonomy  G. Ditzler and G. Rosen  ACM International Workshop on Big Data in Life Sciences, 2014. (invited and travel award)\nDomain Adaptation Bounds for Multiple Expert Systems Under Concept Drift  G. Ditzler, G. Rosen, and R. Polikar  IEEE/INNS International Joint Conference on Neural Networks, 2014. (travel award & best student paper)\nIncremental learning of new classes with unbalanced data  G. Ditzler, G. Rosen, and R. Polikar  IEEE/INNS International Joint Conference on Neural Networks, 2013.\nDiscounted expert weighting for concept drift  G. Ditzler, G. Rosen and R. Polikar  IEEE International Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2013.\nInformation theoretic feature selection for high dimensional metagenomic data  G. Ditzler, R. Polikar, and G. Rosen  IEEE International Workshop on Genomic Signal Processing and Statistics, 2012.\nA transductive learning algorithm for concept drift  G. Ditzler, G. Rosen and R. Polikar  IEEE/INNS International Joint Conference on Neural Networks, 2012.\nDetermining significance in metagenomics  G. Ditzler, R. Polikar and G. Rosen  IEEE North Eastern Biomedical Engineering Conference, 2012.\nForensic identification with environmental samples  G. Ditzler, R. Polikar, and G. Rosen  IEEE International Conference on Acoustic, Speech and Signal Processing, 2012.\nSemi-supervised learning in nonstationary environments  G. Ditzler and R. Polikar  IEEE/INNS International Joint Conference on Neural Networks, 2011. (student travel award)\nHellinger distance based drift detection algorithm  G. Ditzler and R. Polikar  IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments, 2011.\nFusion methods for boosting performance of speaker identification systems  G. Ditzler, J. Ethridge, R. Polikar, and R. Ramachandran  Asia Pacific Conference of Circuits and Systems, 2010.\nAn incremental learning algorithm for nonstationary environments and imbalanced data  G. Ditzler, R. Polikar, and N. V. Chawla  International Conference on Pattern Recognition, 2010.\nOptimal \\(\\nu\\)-SVM parameter estimation using multi-objective evolutionary algorithms  J. Ethridge, G. Ditzler, and R. Polikar  IEEE Congress on Evolutionary Computing, 2010.\nAn ensemble-based incremental learning framework for concept drift and class imbalance  G. Ditzler and R. Polikar  IEEE/INNS International Joint Conference on Neural Networks, 2010.\nIncremental learning of new classes in unbalanced data: Learn++.UDNC  G. Ditzler, M. Muhlbaier, and R. Polikar  International Workshop on Multiple Classifier Systems, 2010."
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nAnalysis Methods for Shotgun Metagenomics  S. Woloszynek, Z. Zhao, G. Ditzler, J. R. Price, E. R. Reichenberger, Y. Lan, J. Chen, J. Earl, S. Keshani Langroodi, G. Ehrlich and G. Rosen  Springer Theoretical and Applied Aspects of Systems Biology, 2018, pp. 71–112.\nAdaptive classifiers for nonstationary environments  C. Alippi, G. Boracchi, G. Ditzler, R. Polikar, and M. Roveri  Contemporary Issues in Systems, Science and Engineering, IEEE/Wiley Press Book Series, 2015.\nVariable Selection to Improve Classification of Metagenomes  G. Ditzler, Y. Lan, J.-L. Bouchot, and G. Rosen  In: Nelson K. (eds) Encyclopedia of Metagenomics. Springer, New York, NY, 2014.\nAdvances in machine learning for processing and comparison of metagenomic data  J.-L. Bouchot, W. Trimble, G. Ditzler, Y. Lan, S. Essinger, and G. Rosen  In: Computational Systems Biology, 295-329, 2014"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\nDegree\nInstitution\nDates\n\n\n\n\nPhD\nDrexel University\n2015\n\n\nMSc\nRowan University\n2011\n\n\nBSc\nThe Pennsylvania College of Technology\n2008"
+  },
+  {
+    "objectID": "about.html#employment",
+    "href": "about.html#employment",
+    "title": "About",
+    "section": "Employment",
+    "text": "Employment\n\n\n\nPosition\nInstitution\nDates\n\n\n\n\nAssociate Professor\nRowan University\n2022–Present\n\n\nAssociate Professor\nUniversity of Arizona\n2021–2022\n\n\nAssistant Professor\n\n2015–2021\n\n\nResearch Intern\nAT&T Research Labs\n2013\n\n\nElectronics Systems Engineer\nQorTek, Inc.\n2009"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "About",
+    "section": "Teaching",
+    "text": "Teaching\n\nRowan University\n\nECE09455/09555 - Machine Learning [Fa2022]\n\n\n\nUniversity of Arizona\n\nECE175 - Computer Programming for Engineering Applications [Sp2016, Fa2016]\nECE429/529 - Introduction to Digital Signal Processing [Fa2018, Fa2020]\nECE441a/541a - Automatic Control [ Fa2015, Fa2017, Fa2019, Fa2021]\nECE442/542 - Digital Control Systems [ Sp2022]\nECE523 - Engineering Applications of Machine Learning and Data Analytics [ Sp2017, Sp2018, Sp2019, Sp2020, Sp2021, Sp2022]"
+  },
+  {
+    "objectID": "about.html#in-the-news",
+    "href": "about.html#in-the-news",
+    "title": "About",
+    "section": "In the News",
+    "text": "In the News\n\nArizona Researcher Is Self-Driven\nHands-On Research Experiences Sets Undergraduates Up for Success\nUArizona ECE News: Adegbija, Ditzler and Akoglu Promoted\nUArizona ECE Magazine 2021\nLebanon County native receives National Science Foundation award\nPenn College alum honored with NSF award\nResearchers want to know how bad actors are tricking machine learning\nUniversity of Arizona College of Engineering Digest\nWhat Can Cyberdefenses Learn from the Human Immune System?\n$3M Grant to Create Cybersecurity Modeled After Human Body\nIEEE Recognizes ECE Professor, Fellow Authors with Outstanding Paper Award\nFive New Faculty Members Boost Research and Academics"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Positions",
+    "section": "",
+    "text": "If you are currently a student at Rowan University, contact Gregory Ditzler at ditzler (at) rowan.edu with your resume and research interests. Please include any publications if you have them. If you are not at Rowan University, you should apply for graduate studies.\nYou should read “How to Be a Successful PhD Student” by Hanna Wallach and Mark Dredze. It is well-written guide that provides to tips on being successful in graduate school."
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "Group",
+    "section": "",
+    "text": "Manoj Gopale (ECE 2021–Present), ABD, Co-advised with Roman Lysecky and Janet Roveda\nHuayu Li (ECE 2021–Present), Co-advised with Janet Roveda\nJason Ligon (ECE 2018–Present)\nMartin Lopez (ECE 2021–Present)\nDavid Schwartz (ECE 2018–Present) ABD\nSamuel Hess (ECE 2016–Present) ABD"
+  },
+  {
+    "objectID": "group.html#graduate-alumni",
+    "href": "group.html#graduate-alumni",
+    "title": "Group",
+    "section": "Graduate Alumni",
+    "text": "Graduate Alumni\n\nJiashu Guo, MSc (2018)\nSrishti Gupta, MSc (2021)\nZhengzhong Liang, MSc (2018)\nHeng Liu, PhD (2021)\nKuo-Shiuan Peng, PhD (2019), Co-advised with Jerzy Rozenblit\n\nSee all alumni here."
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "Funding",
+    "section": "",
+    "text": "Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period  Role: Senior Personnel  Amount: $2,300,000  Sponsor: National Institues of Health\nCAREER: Learning in Adversarial and Nonstationary Environments  Role: Principal Investigator  Amount: $524,000,  Sponsor: National Science Foundation"
+  },
+  {
+    "objectID": "funding.html#previous-funding",
+    "href": "funding.html#previous-funding",
+    "title": "Funding",
+    "section": "Previous Funding",
+    "text": "Previous Funding\n\nTactical Cyber Immune System  Role: Principal Investigator  Amount: $200,000  Sponsor: Army Research Office STTR Phase II\nREU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle  Role: Co-Investigator  Amount: $415,000,  Sponsor: National Science Foundation\nPACT: Partnership for Proactive Cybersecurity Training  Role: Co-Investigator  Amount: $3,000,000  Sponsor: Department of Energy\nAMAP-based Autonomic Security Operations Center  Role: Co-Investigator  Amount: $200,000  Sponsor: Air Force Research Lab SBIR Phase II\nDoctoral Symposium at the IEEE International Conference on Autonomic Computing  Role: Principal Investigator  Amount: $15,000  Sponsor: National Science Foundation\nMulti-Layer Anomaly Behavior Analysis (MLABA) Methodology  Role: Principal Investigator  Amount: $15k,  Sponsor: Office of Naval Research STTR Phase I\nAdversarial Threats to Feature Selection  Role: Principal Investigator  Amount: $15,000  Sponsor: Air Force Office of Scientific Research VFRP\nTechniques to Adjust Computational Trends Involving Changing Data  Role: Principal Investigator  Amount: $54,000  Sponsor: Office of Naval Research STTR Phase I\nAutonomic Monitoring, Analysis, and Protection  Role: Principal Investigator  Amount: $30,000  Sponsor: Air Force Office of Scientific Research STTR Phase II\nSupport of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing  Role: Principal Investigator  Amount: $15,000  Sponsor: National Science Foundation\nTactical Cyber Immune System  Role: Principal Investigator  Amount: $30k  Sponsor: Army Research Office STTR Phase I\nAnalysis of Large Data Sets  Role: Principal Investigator  Amount: $15k  Sponsor: Air Force Office of Scientific Research SFFP"
+  },
+  {
+    "objectID": "alumni.html",
+    "href": "alumni.html",
+    "title": "Alumni",
+    "section": "",
+    "text": "Heng Liu, PhD (2021)\nKuo-Shiuan Peng, PhD (2019)"
+  },
+  {
+    "objectID": "alumni.html#msc",
+    "href": "alumni.html#msc",
+    "title": "Alumni",
+    "section": "MSc",
+    "text": "MSc\n\nSrishti Gupta, MSc (2021)\nJiashu Guo, MSc (2018)\nZhengzhong Liang, MSc (2018)"
+  },
+  {
+    "objectID": "alumni.html#graduate-interns",
+    "href": "alumni.html#graduate-interns",
+    "title": "Alumni",
+    "section": "Graduate Interns",
+    "text": "Graduate Interns\n\nBrandon Black (ECE 2019–2020)\nSebastian Thiem (ECE 2019–2020)\nZili Rong (ECE 2017–2018)\nJonathan Gill (ECE 2016–2017)"
+  },
+  {
+    "objectID": "alumni.html#undergraduate-uarizona",
+    "href": "alumni.html#undergraduate-uarizona",
+    "title": "Alumni",
+    "section": "Undergraduate @ UArizona",
+    "text": "Undergraduate @ UArizona\n\nMegan Herzog (CS 2021/22)\nRoman Golota (ECE 2020–2022)\nDrew Howell (CS 2021)\nEduardo Zambrana (ECE 2020)\nJack Blake (ECE 2020)\nJavier Cota (ECE 2020/21)\nDiego Alcantera (ECE 2020)\nAndrew Burger (ECE 2018/19)\nNoah Thurston (ECE 2019)\nSean Miller (CS/ECE 2017)"
+  },
+  {
+    "objectID": "alumni.html#summer-undergraduate-research-students",
+    "href": "alumni.html#summer-undergraduate-research-students",
+    "title": "Alumni",
+    "section": "Summer Undergraduate Research Students",
+    "text": "Summer Undergraduate Research Students\nThe research experiences for undergraduate students were externally funded by the National Science Foundation and Department of Energy.\n\nWyatt Mayor (2022; Monmouth College)\nRyan Smith (2022; University of Arizona)\nAndrew Wang (2022; Cornell University)\nGopal Nookula (2022; University of California, Riverside)\nAndres Mendozas (2022; University of Arizona)\nAlex Choi (2022; University of Arizona)\nAmeer Nessaee (2022; University of Arizona)\nMichael Villasana (2022; University of Arizona)\nDerek Lee (2022; University of Arizona)\nCody Smith (2022; Navajo Technical University)\nMonique Hoswoot (2022; Navajo Technical University)\nMegan Herzog (2021; University of Arizona) (Summary)\nJoe Liang (2021; University of Arizona) (Summary)\nSophia Somerscales (2021; University of Arizona) (presentation)\nAudrey Wiseman (2021; Wofford College) (presentation)\nIssac Wasserman (2021; Haverford College) (presentation)\nSara Roman (2021; Kent State University) (presentation)\nSebastian Valencia (2020; University of Arizona) (presentation)\nUlrich Zongo (2020; University of Arizona) (presentation)\nEduardo Zambrana (2020; University of Arizona) (presentation)\nCalvin Barrett (2020; Haverford College) (presentation)\nTomo Bessho (2020; University of Nebraska-Lincoln) (presentation)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Arizona\n\nECE175 - Computer Programming for Engineering Applications [Sp2016, Fa2016]\nECE429/529 - Introduction to Digital Signal Processing [Fa2018, Fa2020]\nECE441a/541a - Automatic Control [Fa2015, Fa2017, Fa2019, Fa2021]\nECE442/542 - Digital Control Systems [Sp2022]\nECE523 - Engineering Applications of Machine Learning and Data Analytics\n[Sp2017, Sp2018, Sp2019, Sp2020, Sp2021, Sp2022]"
+  },
+  {
+    "objectID": "work.html#advice",
+    "href": "work.html#advice",
+    "title": "Positions",
+    "section": "Advice",
+    "text": "Advice"
+  }
+]

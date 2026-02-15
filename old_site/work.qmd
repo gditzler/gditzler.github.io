@@ -1,0 +1,40 @@
+---
+title: "Positions"
+editor: source
+---
+
+Our group is open to consider positions for graduate students at the MSc and Ph.D. level. Funding is available for highly qualified students (preferably to Ph.D. students that have already completed their MSc thesis and published in reputable journals and conferences). Preference will be given to exceptional students seeking to pursue a Ph.D. with interests in machine learning.
+
+If you are currently a student at Rowan University, contact Gregory Ditzler at ditzler (at) rowan.edu with your resume and research interests. Please include any publications if you have them. If you are not at Rowan University, you should [apply for graduate studies](https://admissions.rowan.edu/admissions-process/).
+
+You should read "[How to Be a Successful PhD Student](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf)" by Hanna Wallach and Mark Dredze. It is well-written guide that provides to tips on being successful in graduate school.
+
+
+
+## Current Openings 
+
+
+I have multiple new openings for advising graduate students (MSc and PhD).  
+
+**Topics**: Research topics are in the areas of  machine learning artificial intelligence.  In this work, you will explore theoretical and empirical avenues to understand the influence and an adversary in a lifelong machine learning scenario. You will be investigating new and novel methods to attack and defend machine learning models. Other areas of machine learning will be tightly integrated into this project, including feature selection, and algorithmic fairness.  
+
+**Support**: Graduate assistant appointments will be offered to PhD students, providing stipend and tuition support. Exceptionally, graduate assistantships could also be offered to MSc students, depending on availability and qualifications. 
+
+**Desired Qualities for a Candidate**
+
+*Must have*
+
+* Experience with Python and writing reusable code / packages / modules. 
+* Knowledgeable about machine learning and data science techniques. 
+* Skilled communicator and able to discuss methods and findings with other researchers outside of machine learning and data science. 
+* Extremely organized and a record of clear documentation. 
+* Independent learner and can pick up new concepts related to coding and mathematics. 
+
+*Good to have* 
+
+* Experience with the high-performance computing resources at Rowan University or Microsoft Azure / AWS / Google Cloud will be useful. 
+* Experience in Linux and Bash. Any flavor of Linux will do! 
+* Other: Git, LaTeX, SQL, Visual Studio Code.
+
+
+Please send an email to the professor with your resume, GPA, and degree. You are encouraged to contact the me if you are interested in participating in the research. Please put “*Research: Last Name:  Machine Learning Research*,” write a brief paragraph on why you’re a great fit for this research and attach a copy of your resume. Feel free to make an appointment to learn more about the PhD program and research opportunities. 

@@ -1,0 +1,28 @@
+---
+title: "About Me"
+image: greg.png
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gregory.ditzler@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/gditzler
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/gregory-c-ditzler/
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=diET1AsAAAAJ&hl=en
+editor: source
+---
+
+
+
+I am a [Chief Engineer](https://www.episci.com/episci-team/){target="_blank"} at [EpiSci (an Applied Intuition Company)](https://www.episci.com/){target="_blank"}, where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the University of Arizona and Rowan University.
+
+
+
+

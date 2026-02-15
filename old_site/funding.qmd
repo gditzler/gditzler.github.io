@@ -1,0 +1,71 @@
+---
+title: "Funding"
+editor: visual
+---
+
+
+## Current Funding 
+- [Turret Gunner Survivability and Simulation Environment (TGSSE)](https://ac.ccdc.army.mil/){target="_blank"} <br/>
+   Role: Co-PI  <br/>
+   Amount: $2,999,992  <br/>
+   Sponsor: __Army Research Office__
+- [Hormonal Response to Infant Caregiving: A Novel Strategy to Break the Opioid Relapse Cycle During the Postpartum Period](https://grantome.com/grant/NIH/DP2-HD105541-01){target="_blank"} <br/>
+   Role: Senior Personnel  <br/>
+   Amount: $2,300,000  <br/>
+   Sponsor: __National Institues of Health__ 
+- [CAREER: Learning in Adversarial and Nonstationary Environments](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1943552&HistoricalAwards=false){target="_blank"}  <br/>
+   Role: Principal Investigator  <br/>
+   Amount: $524,000,  <br/>
+   Sponsor: __National Science Foundation__ 
+
+
+## Previous Funding 
+- Tactical Cyber Immune System  <br/>
+   Role: Principal Investigator  <br/>
+   Amount: $200,000  <br/>
+   Sponsor: __Army Research Office STTR Phase II__ 
+- [REU Site: CAT Vehicle: The Cognitive and Autonomous Test Vehicle](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1950359){target="_blank"}  <br/>
+   Role: Co-Investigator  <br/>
+   Amount: $415,000,  <br/>
+   Sponsor: __National Science Foundation__ 
+- [PACT: Partnership for Proactive Cybersecurity Training](https://www.energy.gov/nnsa/nnsa-minority-serving-institution-partnership-program){target="_blank"}  <br/> 
+   Role: Co-Investigator  <br/>
+   Amount: $3,000,000  <br/>
+   Sponsor: __Department of Energy__ 
+- AMAP-based Autonomic Security Operations Center  <br/>
+   Role: Co-Investigator  <br/>
+   Amount: $200,000  <br/>
+   Sponsor: __Air Force Research Lab SBIR Phase II__ 
+- [Doctoral Symposium at the IEEE International Conference on Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1907321&HistoricalAwards=false){target="_blank"}  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $15,000  <br/>
+  Sponsor: __National Science Foundation__ 
+- [Multi-Layer Anomaly Behavior Analysis (MLABA) Methodology](https://www.sbir.gov/sbirsearch/detail/1516283){target="_blank"} <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $15k,  <br/>
+  Sponsor: __Office of Naval Research STTR Phase I__ 
+- Adversarial Threats to Feature Selection  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $15,000  <br/>
+  Sponsor: __Air Force Office of Scientific Research VFRP__ 
+- Techniques to Adjust Computational Trends Involving Changing Data  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $54,000  <br/>
+  Sponsor: __Office of Naval Research STTR Phase I__ 
+- Autonomic Monitoring, Analysis, and Protection  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $30,000   <br/>
+  Sponsor: __Air Force Office of Scientific Research STTR Phase II__ 
+- [Support of the Doctoral Symposium at the IEEE International Conference on Cloud and Autonomic Computing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740456&HistoricalAwards=false){target="_blank"}  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $15,000  <br/>
+  Sponsor: __National Science Foundation__ 
+- Tactical Cyber Immune System  <br/>
+  Role: Principal Investigator  <br/>
+  Amount: $30k <br/>
+  Sponsor: __Army Research Office STTR Phase I__ 
+- [Analysis of Large Data Sets](https://afsffp.sysplus.com/SFFP/awardees/2016.aspx){target="_blank"}  <br/>
+  Role: Principal Investigator  <br/>
+  Amount:  $15k  <br/>
+  Sponsor: __Air Force Office of Scientific Research SFFP__ 
+
