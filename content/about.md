@@ -5,18 +5,18 @@ template = "page.html"
 
 ## Bio
 
-I am an Engineering Manager at [EpiSci](https://episci.com/) (an [Applied Intuition](https://appliedintuition.com/) Company), where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the [University of Arizona](https://www.arizona.edu/) and [Rowan University](https://www.rowan.edu/). My machine learning lectures and talks are available on [SpeakerDeck](https://speakerdeck.com/gditzler).
+I am an Engineering Manager at [EpiSci](https://appliedintuitiondefense.com) (an Applied Intuition company), where I perform research in artificial intelligence and applied machine learning. In my past life, I was an Associate Professor at the [University of Arizona](https://www.arizona.edu/) and [Rowan University](https://www.rowan.edu/). My machine learning lectures and talks are available on [SpeakerDeck](https://speakerdeck.com/gditzler).
 
 ## Work History
 
 | Role | Organization | Years |
 |------|--------------|-------|
 | Engineering Manager | EpiSci | 2025 – Present |
-| Technical Director  | EpiSci | 2024 |
-| Principal Research Scientist | EpiSci | 2023 – 2024 |
+| Technical Director  |  | 2024 |
+| Principal Research Scientist |  | 2023 – 2024 |
 | Associate Professor | Rowan University | 2022 – 2023 |
 | Associate Professor | University of Arizona | 2021 – 2022 |
-| Assistant Professor | University of Arizona | 2015 – 2021 |
+| Assistant Professor |  | 2015 – 2021 |
 | Research Intern | AT&T Research Labs | 2013 |
 | Electronics Systems Engineer | QorTek, Inc. | 2009 |
 
